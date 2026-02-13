@@ -1,0 +1,78 @@
+import { useEffect } from 'react'
+import './App.css'
+import axios from "axios";
+import { ToastContainer, toast } from 'react-toastify';
+
+function App() {
+  const oauthToken = 'c7db6738ddbcd41dd021dd5f8a47578b54d96fc8';
+  const reportListId = [
+    {
+    postId: "67055218",
+    posterName: "Cô hồn duan388266"
+    },
+    {
+      postId: "67048633",
+      posterName: "Cô hồn duan388266"
+    },
+    {
+      postId: "67044361",
+      posterName: "Cô hồn duan388266"
+    },
+    {
+      postId: "66981621",
+      posterName: "Cô hồn duan388266"
+    },
+    {
+      postId: "66981740",
+      posterName: "Cô hồn duan388266"
+    }
+];
+
+  async function pushReportPost(postIndex:number=0) {
+    console.log("postIndex = ", postIndex);
+    // eslint-disable-next-line no-async-promise-executor
+    return new Promise(async (resolve, reject) => {
+      try {
+        const currReportPost = reportListId[postIndex];
+        const res = await axios.post(`https://tinhte.vn/appforo/index.php?posts/${currReportPost.postId}/report&message=Kh%C3%A1c&oauth_token=${oauthToken}`, {
+          // "posts/67054209/report": '',
+          message: 'Khác',
+          oauth_token: oauthToken
+        });
+        resolve(res);
+      }
+      catch(error) {
+        reject(error);
+      }
+    })
+  }
+
+  useEffect(() => {
+    let i = 0;
+    setInterval(async () => {
+      try {
+          let reportResponse = await pushReportPost(i % reportListId.length);
+           console.log("reportResponse = ", reportResponse);
+          if (reportResponse && reportResponse.status === 200) {
+            toast.success(`Báo xấu bài viết ${reportListId[i % reportListId.length].postId} thành công`);
+            i = i + 1;
+          }
+      }
+      catch(error) {
+        // console.error("error = ", error);
+        toast.error("Có lỗi xảy ra");
+      }
+    }, 5000);
+  }, []);
+
+
+  return (
+    <>
+      <button onClick={pushReportPost}>Report post</button>
+
+      <ToastContainer />
+    </>
+  )
+}
+
+export default App
