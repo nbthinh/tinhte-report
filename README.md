@@ -71,3 +71,9 @@ export default defineConfig([
   },
 ])
 ```
+
+# Deploy
+
+rm -rf dist
+npm run build
+npm run deploy
