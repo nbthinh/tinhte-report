@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import './App.css'
-import axios from "axios";
+import axios, { type AxiosResponse } from "axios";
 import { ToastContainer, toast } from 'react-toastify';
 
 function App() {
@@ -28,7 +28,7 @@ function App() {
     }
 ];
 
-  async function pushReportPost(postIndex:number=0) {
+  async function pushReportPost(postIndex:number=0): Promise<AxiosResponse> {
     console.log("postIndex = ", postIndex);
     // eslint-disable-next-line no-async-promise-executor
     return new Promise(async (resolve, reject) => {
@@ -53,7 +53,7 @@ function App() {
       try {
           let reportResponse = await pushReportPost(i % reportListId.length);
            console.log("reportResponse = ", reportResponse);
-          if (reportResponse && reportResponse.status === 200) {
+          if (reportResponse && reportResponse?.status === 200) {
             toast.success(`Báo xấu bài viết ${reportListId[i % reportListId.length].postId} thành công`);
             i = i + 1;
           }
@@ -68,7 +68,7 @@ function App() {
 
   return (
     <>
-      <button onClick={pushReportPost}>Report post</button>
+      <button>Report post</button>
 
       <ToastContainer />
     </>
