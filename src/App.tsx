@@ -7,10 +7,6 @@ function App() {
   const oauthToken = 'fdde31950766b3ef715f39e17c5fb14d47b7924b';
   const reportListId = [
     {
-      postId: "67055354",
-      posterName: "Cô hồn duan388266"
-    },
-    {
       postId: "67051275",
       posterName: "Cô hồn duan388266"
     },
