@@ -4,95 +4,27 @@ import axios, { type AxiosResponse } from "axios";
 import { ToastContainer, toast } from 'react-toastify';
 
 function App() {
-  const oauthToken = 'a1e3251ab604d2fd62ed38aa5808cb45d42760de';
+  const oauthToken = '8f21fe989851089b32f8001ed0fd8916984a4047';
   const reportListId = [
+    {
+      postId: "67056700",
+      posterName: "Cô hồn duan388266"
+    },
     {
       postId: "67056411",
       posterName: "Cô hồn duan388266"
     },
     {
-      postId: "64519401",
+      postId: "67058025",
       posterName: "Cô hồn duan388266"
     },
     {
-      postId: "64519413",
+      postId: "67057678",
       posterName: "Cô hồn duan388266"
     },
     {
-      postId: "64519481",
+      postId: "67057692",
       posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "64519936",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "64520061",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "64519443",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "64520244",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "67056421",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "66982359",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "66986496",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "67012726",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "67051275",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "67054051",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "66981621",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "67044361",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "66981740",
-      posterName: "Cô hồn duan388266"
-    },
-    {
-      postId: "67051304",
-      posterName: "https://tinhte.vn/thread/uong-nhanh-de-vao-viec.4098400/"
-    },
-    {
-      postId: "67051344",
-      posterName: "https://tinhte.vn/thread/uong-nhanh-de-vao-viec.4098400/"
-    },
-    {
-      postId: "67051354",
-      posterName: "https://tinhte.vn/thread/uong-nhanh-de-vao-viec.4098400/"
-    },
-    {
-      postId: "67012662",
-      posterName: "https://tinhte.vn/thread/dau-nam-ma-thinh-cu-dang-lai-xoa-hoai-vay-e.4088959/"
-    },
-    {
-      postId: "67014602",
-      posterName: "https://tinhte.vn/thread/dau-nam-ma-thinh-cu-dang-lai-xoa-hoai-vay-e.4088959/"
     }
 ];
 
@@ -136,6 +68,7 @@ function App() {
 
   return (
     <>
+      <div>Từ cái thời điểm thằng nnt nó đòi tiền mình gần 2tr là thấy thằng đó không bình thường rồi</div>
       <button>Report post</button>
 
       <ToastContainer />
