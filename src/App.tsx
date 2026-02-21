@@ -11,6 +11,10 @@ function App() {
       posterName: "Cô hồn duan388266"
     },
     {
+      postId: "67058482",
+      posterName: "Cô hồn duan388266"
+    },
+    {
       postId: "67056700",
       posterName: "Cô hồn duan388266"
     },
