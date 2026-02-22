@@ -89,7 +89,6 @@ function App() {
 
   return (
     <>
-      <Alert primary>Primary Alert</Alert>
       <div className="container">
         <div className="row" style={{textAlign: 'left'}}>
           <div className="col-12" >
