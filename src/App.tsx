@@ -2,41 +2,55 @@ import { useEffect } from 'react'
 import './App.css'
 import axios, { type AxiosResponse } from "axios";
 import { ToastContainer, toast } from 'react-toastify';
+import { Alert } from 'bootstrap-4-react';
 
 function App() {
-  const oauthToken = '8f21fe989851089b32f8001ed0fd8916984a4047';
+  const oauthToken = '44ed4cdfcaa1f6887fc8c02355d5fc5d13c0bdfa';
   const reportListId = [
     {
-      postId: "67058486",
-      posterName: "Cô hồn duan388266"
+      postId: "67058966",
+      posterName: "nguyễn ngọc thắng"
     },
     {
-      postId: "67058482",
-      posterName: "Cô hồn duan388266"
+      postId: "67058984",
+      posterName: "nguyễn ngọc thắng"
     },
     {
-      postId: "67056700",
-      posterName: "Cô hồn duan388266"
+      postId: "67058995",
+      posterName: "nguyễn ngọc thắng"
     },
     {
-      postId: "67056411",
-      posterName: "Cô hồn duan388266"
+      postId: "67059003",
+      posterName: "nguyễn ngọc thắng"
     },
     {
-      postId: "67058025",
-      posterName: "Cô hồn duan388266"
+      postId: "67059008",
+      posterName: "nguyễn ngọc thắng"
     },
     {
-      postId: "67057678",
-      posterName: "Cô hồn duan388266"
+      postId: "67059014",
+      posterName: "nguyễn ngọc thắng"
     },
     {
-      postId: "67057692",
-      posterName: "Cô hồn duan388266"
+      postId: "67059021",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67059105",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67059070",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67059097",
+      posterName: "nguyễn ngọc thắng"
     }
-];
+    
+  ];
 
-  async function pushReportPost(postIndex:number=0): Promise<AxiosResponse> {
+  async function pushReportPost(postIndex: number = 0): Promise<AxiosResponse> {
     console.log("postIndex = ", postIndex);
     // eslint-disable-next-line no-async-promise-executor
     return new Promise(async (resolve, reject) => {
@@ -49,7 +63,7 @@ function App() {
         });
         resolve(res);
       }
-      catch(error) {
+      catch (error) {
         reject(error);
       }
     })
@@ -59,14 +73,14 @@ function App() {
     let i = 0;
     setInterval(async () => {
       try {
-          let reportResponse = await pushReportPost(i % reportListId.length);
-           console.log("reportResponse = ", reportResponse);
-          if (reportResponse && reportResponse?.status === 200) {
-            toast.success(`Báo xấu bài viết ${reportListId[i % reportListId.length].postId} thành công`);
-            i = i + 1;
-          }
+        let reportResponse = await pushReportPost(i % reportListId.length);
+        console.log("reportResponse = ", reportResponse);
+        if (reportResponse && reportResponse?.status === 200) {
+          toast.success(`Báo xấu bài viết ${reportListId[i % reportListId.length].postId} thành công`);
+          i = i + 1;
+        }
       }
-      catch(error) {
+      catch (error) {
         // console.error("error = ", error);
         toast.error("Có lỗi xảy ra");
       }
@@ -76,9 +90,42 @@ function App() {
 
   return (
     <>
-      <div>Từ cái thời điểm thằng nnt nó đòi tiền mình gần 2tr là thấy thằng đó không bình thường rồi</div>
-      <button>Report post</button>
-
+      <Alert primary>Primary Alert</Alert>
+      <div className="container">
+        <div className="row" style={{textAlign: 'left'}}>
+          <div className="col-12" >
+            <h5>
+              1. Hành vi của họ đang là gì?
+            </h5>
+            <ul>
+              <li>
+                Từ những gì bạn đưa ra, họ có các hành vi sau:
+              </li>
+              <li>
+                Gọi công khai họ tên đầy đủ của bạn trên diễn đàn (dù bạn không đồng ý)
+              </li>
+              <li>
+                Body shaming (chê ngoại hình, béo ú, mỉa mai giảm cân)
+              </li>
+              <li>
+                Bôi nhọ, chế giễu kéo dài, lặp đi lặp lại
+              </li>
+              <li>
+                Gợi ý – ám chỉ hành vi sai trái (bom hàng, nợ nần, tinh thần không bình thường…)
+              </li>
+              <li>
+                Hù dọa công an / tư pháp / mời làm việc
+              </li>
+              <li>
+                Có dấu hiệu dùng số điện thoại lạ giả danh giao hàng – tư pháp
+              </li>
+              <li>
+                👉 Đây không còn là cãi nhau đơn thuần, mà là quấy rối + xúc phạm danh dự + đe dọa tinh thần.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
       <ToastContainer />
     </>
   )
