@@ -2,7 +2,6 @@ import { useEffect } from 'react'
 import './App.css'
 import axios, { type AxiosResponse } from "axios";
 import { ToastContainer, toast } from 'react-toastify';
-import { Alert } from 'bootstrap-4-react';
 
 function App() {
   const oauthToken = '44ed4cdfcaa1f6887fc8c02355d5fc5d13c0bdfa';
