@@ -39,14 +39,25 @@ function App() {
       posterName: "nguyễn ngọc thắng"
     },
     {
-      postId: "67059070",
+      postId: "67059217",
       posterName: "nguyễn ngọc thắng"
     },
     {
-      postId: "67059097",
+      postId: "67058957",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67059040",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67059226",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67059239",
       posterName: "nguyễn ngọc thắng"
     }
-    
   ];
 
   async function pushReportPost(postIndex: number = 0): Promise<AxiosResponse> {
