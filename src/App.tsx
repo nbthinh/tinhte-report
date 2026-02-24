@@ -4,8 +4,25 @@ import axios, { type AxiosResponse } from "axios";
 import { ToastContainer, toast } from 'react-toastify';
 
 function App() {
-  const oauthToken = '44ed4cdfcaa1f6887fc8c02355d5fc5d13c0bdfa';
+  const oauthToken = 'ca91c2f447569635bed1868d5051e113ef2b3fba';
   const reportListId = [
+    
+    {
+      postId: "67060673",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67060652",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67060660",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67060495",
+      posterName: "nguyễn ngọc thắng"
+    },
     {
       postId: "67058966",
       posterName: "nguyễn ngọc thắng"
@@ -57,6 +74,10 @@ function App() {
     {
       postId: "67059239",
       posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67059240",
+      posterName: "nguyễn ngọc thắng"
     }
   ];
 
@@ -93,6 +114,7 @@ function App() {
       catch (error) {
         // console.error("error = ", error);
         toast.error("Có lỗi xảy ra");
+        i = i + 1; // Mới thêm vào
       }
     }, 5000);
   }, []);
