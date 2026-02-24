@@ -8,6 +8,10 @@ function App() {
   const reportListId = [
     
     {
+      postId: "67060677",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
       postId: "67060673",
       posterName: "nguyễn ngọc thắng"
     },
