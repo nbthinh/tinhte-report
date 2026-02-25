@@ -1,6 +1,38 @@
 export const reportListId = [
     
     {
+        postId: "67062003",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67061995",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67061993",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67061990",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67062007",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67062014",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67062020",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67062042",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
         postId: "67061747",
         posterName: "nguyễn ngọc thắng"
     },
