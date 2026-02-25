@@ -1,148 +1,28 @@
 import { useEffect } from 'react'
 import './App.css'
-import axios, { type AxiosResponse } from "axios";
-import { ToastContainer, toast } from 'react-toastify';
+// import axios, { type AxiosResponse } from "axios";
+import { ToastContainer } from 'react-toastify';
+import { report } from './utils/action';
 
 function App() {
   const oauthToken = '2ebefd1a0a27490082f82d7405fb97af2b6bb896';
-  const reportListId = [
-    {
-      postId: "67061454",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67061316",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67061340",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67061341",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67061385",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67061499",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67060677",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67060673",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67060652",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67060660",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67060495",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67058966",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67058984",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67058995",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67059003",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67059008",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67059014",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67059021",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67059105",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67059217",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67058957",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67059040",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67059226",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67059239",
-      posterName: "nguyễn ngọc thắng"
-    },
-    {
-      postId: "67059240",
-      posterName: "nguyễn ngọc thắng"
-    }
-  ];
 
-  async function pushReportPost(postIndex: number = 0): Promise<AxiosResponse> {
-    console.log("postIndex = ", postIndex);
-    // eslint-disable-next-line no-async-promise-executor
-    return new Promise(async (resolve, reject) => {
-      try {
-        const currReportPost = reportListId[postIndex];
-        const res = await axios.post(`https://tinhte.vn/appforo/index.php?posts/${currReportPost.postId}/report&message=Kh%C3%A1c&oauth_token=${oauthToken}`, {
-          // "posts/67054209/report": '',
-          message: 'Khác',
-          oauth_token: oauthToken
-        });
-        resolve(res);
-      }
-      catch (error) {
-        reject(error);
-      }
-    })
-  }
 
   useEffect(() => {
     let i = 0;
     setInterval(async () => {
-      try {
-        let reportResponse = await pushReportPost(i % reportListId.length);
-        console.log("reportResponse = ", reportResponse);
-        if (reportResponse && reportResponse?.status === 200) {
-          toast.success(`Báo xấu bài viết ${reportListId[i % reportListId.length].postId} thành công`);
-          i = i + 1;
+      let numOfRetry = 0;
+      while (numOfRetry < 3) {
+        const isReportSuccess = await report(i, oauthToken);
+        if (isReportSuccess) {
+          numOfRetry = 0;
+          break;
+        }
+        else {
+          numOfRetry += 1;
         }
       }
-      catch (error) {
-        // console.error("error = ", error);
-        toast.error("Có lỗi xảy ra");
-        i = i + 1; // Mới thêm vào
-      }
+      i = i + 1;
     }, 5000);
   }, []);
 
