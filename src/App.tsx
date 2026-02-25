@@ -141,7 +141,7 @@ function App() {
       catch (error) {
         // console.error("error = ", error);
         toast.error("Có lỗi xảy ra");
-        // i = i + 1; // Mới thêm vào
+        i = i + 1; // Mới thêm vào
       }
     }, 5000);
   }, []);
