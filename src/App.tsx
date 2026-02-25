@@ -6,6 +6,30 @@ import { ToastContainer, toast } from 'react-toastify';
 function App() {
   const oauthToken = '3939456b5380aa257e37ee3036e0be2c33911edd';
   const reportListId = [
+    {
+      postId: "67061454",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67061316",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67061340",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67061341",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67061385",
+      posterName: "nguyễn ngọc thắng"
+    },
+    {
+      postId: "67061499",
+      posterName: "nguyễn ngọc thắng"
+    },
     
     {
       postId: "67060677",
