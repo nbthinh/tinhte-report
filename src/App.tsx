@@ -9,6 +9,7 @@ function App() {
 
 
   useEffect(() => {
+    // https://tinhte.vn/thread/gio-moi-ranh.4100718/
     let i = 0;
     setInterval(async () => {
       let numOfRetry = 0;
