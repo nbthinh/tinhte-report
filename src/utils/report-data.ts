@@ -1,6 +1,10 @@
 export const reportListId = [
     
     {
+        postId: "67068686",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
         postId: "67068687",
         posterName: "nguyễn ngọc thắng"
     },
