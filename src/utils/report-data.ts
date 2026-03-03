@@ -1,4 +1,22 @@
 export const reportListId = [
+
+    
+    {
+        postId: "67070215",
+        reportReason: "Gây cãi nhau",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67070225",
+        reportReason: "Bôi nhọ, xúc phạm người khác",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67069988",
+        reportReason: "Gây cãi nhau",
+        posterName: "nguyễn ngọc thắng"
+    },
+    
     {
         postId: "67069429",
         posterName: "nguyễn ngọc thắng"
