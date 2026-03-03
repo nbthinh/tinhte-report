@@ -10,7 +10,7 @@ async function pushReportPost(postIndex: number = 0, oauthToken: string): Promis
             const currReportPost = reportListId[postIndex];
             const res = await axios.post(`https://tinhte.vn/appforo/index.php?posts/${currReportPost.postId}/report&message=Kh%C3%A1c&oauth_token=${oauthToken}`, {
                 // "posts/67054209/report": '',
-                message: 'Khác',
+                message: 'Gây cãi nhau, chửi nhau nhiều lần',
                 oauth_token: oauthToken
             });
             resolve(res);
