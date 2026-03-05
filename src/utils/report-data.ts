@@ -35,6 +35,12 @@ export const reportListId = [
         reportReason: "Khơi mào cãi nhau",
         posterName: "Hưu cao cổ và 500 anh em"
     },
+    {
+        postId: "67072817",
+        reportReason: "Vu khống, chụp mũ, gây cãi nhau",
+        posterName: "nguyễn ngọc thắng"
+    },
+    
     
     
     {

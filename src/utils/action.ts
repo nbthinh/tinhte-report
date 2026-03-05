@@ -9,7 +9,7 @@ async function pushReportPost(postIndex: number = 0, oauthToken: string): Promis
         try {
             const currReportPost = reportListId[postIndex];
             const message = currReportPost?.reportReason || 'Kh%C3%A1c';
-            const res = await axios.post(`https://tinhte.vn/appforo/index.php?posts/${currReportPost.postId}/report&message=${message}&oauth_token=${oauthToken}`, {
+            const res = await axios.post(`https://tinhte.vn/appforo/index.php?posts/${currReportPost.postId}/report&message=Kh%C3%A1c&oauth_token=${oauthToken}`, {
                 // "posts/67054209/report": '',
                 message: message,
                 oauth_token: oauthToken
