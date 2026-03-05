@@ -1,5 +1,41 @@
 export const reportListId = [
 
+    {
+        postId: "67072780",
+        reportReason: "Xúc phạm người khác, ví người ta là con vật",
+        posterName: "Hưu cao cồ và 500 anh em"
+    },
+    {
+        postId: "67072765",
+        reportReason: "Xúc phạm người khác, ví người ta là con vật",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67072782",
+        reportReason: "Xúc phạm người khác, ví người ta là con vật",
+        posterName: "ngô đình hiếu"
+    },
+    {
+        postId: "67072770",
+        reportReason: "Xúc phạm người khác, ví người ta là con vật",
+        posterName: "ngô đình hiếu"
+    },
+    {
+        postId: "67072759",
+        reportReason: "Xúc phạm người khác, gây cãi nhau",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67072753",
+        reportReason: "Khơi mào cãi nhau",
+        posterName: "Hưu cao cổ và 500 anh em"
+    },
+    {
+        postId: "67072794",
+        reportReason: "Khơi mào cãi nhau",
+        posterName: "Hưu cao cổ và 500 anh em"
+    },
+    
     
     {
         postId: "67070215",
