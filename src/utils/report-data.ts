@@ -1,7 +1,57 @@
 export const reportListId = [
-
-
+    {
+        postId: "67074203",
+        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67073675",
+        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67073675",
+        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67072836",
+        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67072226",
+        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67071370",
+        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67070781",
+        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67069936",
+        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67069332",
+        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67068687",
+        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
     
+
+    // Trước ngày 6/3
     {
         postId: "67073170",
         reportReason: "Xúc phạm người khác, ví người ta là con vật",
