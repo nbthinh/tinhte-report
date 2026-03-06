@@ -1,5 +1,12 @@
 export const reportListId = [
 
+
+    
+    {
+        postId: "67073170",
+        reportReason: "Xúc phạm người khác, ví người ta là con vật",
+        posterName: "Hưu cao cồ và 500 anh em"
+    },
     {
         postId: "67072780",
         reportReason: "Xúc phạm người khác, ví người ta là con vật",
