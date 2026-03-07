@@ -1,4 +1,10 @@
 export const reportListId = [
+    
+    {
+        postId: "67075067",
+        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
     {
         postId: "67074203",
         reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
@@ -49,6 +55,7 @@ export const reportListId = [
         reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
         posterName: "nguyễn ngọc thắng"
     },
+    
     
 
     // Trước ngày 6/3
