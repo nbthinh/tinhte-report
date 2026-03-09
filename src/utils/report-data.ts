@@ -1,6 +1,11 @@
 export const reportListId = [
     
     {
+        postId: "67076844",
+        reportReason: "Vi phạm quyền riêng tư, chia sẻ số điện thoại cá nhân 1 cách bừa bãi",
+        posterName: "xecatang"
+    },
+    {
         postId: "67076470",
         reportReason: "Xúc phạm người khác nhiều lần",
         posterName: "nguyễn ngọc thắng"
