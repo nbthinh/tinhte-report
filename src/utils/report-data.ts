@@ -1,6 +1,26 @@
 export const reportListId = [
     
     {
+        postId: "67076470",
+        reportReason: "Xúc phạm người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67076591",
+        reportReason: "Xúc phạm người khác nhiều lần",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67076593",
+        reportReason: "Xuyên tạc, phát ngôn linh tinh xúc phạm người khác",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67075554",
+        reportReason: "Gây cãi nhau",
+        posterName: "xecatang"
+    },
+    {
         postId: "67075545",
         reportReason: "Xúc phạm người khác bỉ ổi, đe doạ người ta",
         posterName: "xecatang"
