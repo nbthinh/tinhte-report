@@ -1,6 +1,36 @@
 export const reportListId = [
     
     {
+        postId: "67105767",
+        reportReason: "Xúc phạm, body shaming người khác",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67105670",
+        reportReason: "Vu khống, xúc phạm người khác",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67106335",
+        reportReason: "Xúc phạm người khác",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67106317",
+        reportReason: "Dùng từ ngữ không tinh tế, xúc phạm",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67106293",
+        reportReason: "Dùng từ ngữ không tinh tế, xúc phạm",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
+        postId: "67106251",
+        reportReason: "Vu khống người khác đào lửa",
+        posterName: "nguyễn ngọc thắng"
+    },
+    {
         postId: "67105603",
         reportReason: "Dùng hình ảnh có mặt người khác trong đó để làm bậy",
         posterName: "BảoSG"
@@ -22,8 +52,8 @@ export const reportListId = [
     },
     {
         postId: "67105360",
-        reportReason: "Dùng chuyện nghề nghiệp người khác xúc phạm ",
-        posterName: "69-anh xe ôm-77"
+        reportReason: "Dùng hình ảnh có mặt người ta đăng bừa bãi, hòng bôi nhọ",
+        posterName: "nguyễn ngọc thắng"
     },
     {
         postId: "67105536",
