@@ -1,262 +1,301 @@
 export const reportListId = [
+    
+    {
+        postId: "67105603",
+        reportReason: "Dùng hình ảnh có mặt người khác trong đó để làm bậy",
+        posterName: "BảoSG"
+    },
+    {
+        postId: "67105729",
+        reportReason: "Dùng hình ảnh có mặt người khác trong đó để làm bậy",
+        posterName: "BảoSG"
+    },
+    {
+        postId: "67105552",
+        reportReason: "Xúc phạm người khác",
+        posterName: "Nguyễn Thắng 898"
+    },
+    {
+        postId: "67105686",
+        reportReason: "Xúc phạm người khác",
+        posterName: "Nguyễn Thắng 898"
+    },
+    {
+        postId: "67105360",
+        reportReason: "Dùng chuyện nghề nghiệp người khác xúc phạm ",
+        posterName: "69-anh xe ôm-77"
+    },
+    {
+        postId: "67105536",
+        reportReason: "Dùng chuyện nghề nghiệp người khác xúc phạm ",
+        posterName: "69-anh xe ôm-77"
+    },
+    {
+        postId: "67105632",
+        reportReason: "Xúc phạm người khác",
+        posterName: "Nguyễn Thắng 898"
+    },
+    {
+        postId: "67105265",
+        reportReason: "Dùng hình ảnh có mặt người khác trong đó để làm bậy",
+        posterName: "BảoSG"
+    },
+    // {
+    //     postId: "67085739",
+    //     reportReason: "Tiết lộ số điện thoại người khác",
+    //     posterName: "xecatang"
+    // },
+    // {
+    //     postId: "67085767",
+    //     reportReason: "Vu khống",
+    //     posterName: "xecatang"
+    // },
 
-    
-    {
-        postId: "67085739",
-        reportReason: "Tiết lộ số điện thoại người khác",
-        posterName: "xecatang"
-    },
-    {
-        postId: "67085767",
-        reportReason: "Vu khống",
-        posterName: "xecatang"
-    },
-
-    {
-        postId: "67082022",
-        reportReason: "Dùng hình ảnh người khác làm bậy",
-        posterName: "xecatang"
-    },
-    {
-        postId: "67076844",
-        reportReason: "Vi phạm quyền riêng tư, chia sẻ số điện thoại cá nhân 1 cách bừa bãi",
-        posterName: "xecatang"
-    },
-    {
-        postId: "67076470",
-        reportReason: "Xúc phạm người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67076591",
-        reportReason: "Xúc phạm người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67076593",
-        reportReason: "Xuyên tạc, phát ngôn linh tinh xúc phạm người khác",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67075554",
-        reportReason: "Gây cãi nhau",
-        posterName: "xecatang"
-    },
-    {
-        postId: "67075545",
-        reportReason: "Xúc phạm người khác bỉ ổi, đe doạ người ta",
-        posterName: "xecatang"
-    },
-    {
-        postId: "67075431",
-        reportReason: "Vu khống người khác đào lửa",
-        posterName: "duan388266"
-    },
-    {
-        postId: "67075413",
-        reportReason: "Gây cãi nhau",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67075439",
-        reportReason: "Công khai thông tin cá nhân, số điện thoại người khác",
-        posterName: "xecatang"
-    },
-    {
-        postId: "67075166",
-        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67075067",
-        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67074203",
-        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67073675",
-        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67073675",
-        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67072836",
-        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67072226",
-        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67071370",
-        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67070781",
-        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67069936",
-        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67069332",
-        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67068687",
-        reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
-        posterName: "nguyễn ngọc thắng"
-    },
+    // {
+    //     postId: "67082022",
+    //     reportReason: "Dùng hình ảnh người khác làm bậy",
+    //     posterName: "xecatang"
+    // },
+    // {
+    //     postId: "67076844",
+    //     reportReason: "Vi phạm quyền riêng tư, chia sẻ số điện thoại cá nhân 1 cách bừa bãi",
+    //     posterName: "xecatang"
+    // },
+    // {
+    //     postId: "67076470",
+    //     reportReason: "Xúc phạm người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67076591",
+    //     reportReason: "Xúc phạm người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67076593",
+    //     reportReason: "Xuyên tạc, phát ngôn linh tinh xúc phạm người khác",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67075554",
+    //     reportReason: "Gây cãi nhau",
+    //     posterName: "xecatang"
+    // },
+    // {
+    //     postId: "67075545",
+    //     reportReason: "Xúc phạm người khác bỉ ổi, đe doạ người ta",
+    //     posterName: "xecatang"
+    // },
+    // {
+    //     postId: "67075431",
+    //     reportReason: "Vu khống người khác đào lửa",
+    //     posterName: "duan388266"
+    // },
+    // {
+    //     postId: "67075413",
+    //     reportReason: "Gây cãi nhau",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67075439",
+    //     reportReason: "Công khai thông tin cá nhân, số điện thoại người khác",
+    //     posterName: "xecatang"
+    // },
+    // {
+    //     postId: "67075166",
+    //     reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67075067",
+    //     reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67074203",
+    //     reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67073675",
+    //     reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67073675",
+    //     reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67072836",
+    //     reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67072226",
+    //     reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67071370",
+    //     reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67070781",
+    //     reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67069936",
+    //     reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67069332",
+    //     reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67068687",
+    //     reportReason: "Spam, bôi nhọ, xúc phạm danh dự người khác, gọi họ tên người khác nhiều lần",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
     
     
 
-    // Trước ngày 6/3
-    {
-        postId: "67073170",
-        reportReason: "Xúc phạm người khác, ví người ta là con vật",
-        posterName: "Hưu cao cồ và 500 anh em"
-    },
-    {
-        postId: "67072780",
-        reportReason: "Xúc phạm người khác, ví người ta là con vật",
-        posterName: "Hưu cao cồ và 500 anh em"
-    },
-    {
-        postId: "67072765",
-        reportReason: "Xúc phạm người khác, ví người ta là con vật",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67072782",
-        reportReason: "Xúc phạm người khác, ví người ta là con vật",
-        posterName: "ngô đình hiếu"
-    },
-    {
-        postId: "67072770",
-        reportReason: "Xúc phạm người khác, ví người ta là con vật",
-        posterName: "ngô đình hiếu"
-    },
-    {
-        postId: "67072759",
-        reportReason: "Xúc phạm người khác, gây cãi nhau",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67072753",
-        reportReason: "Khơi mào cãi nhau",
-        posterName: "Hưu cao cổ và 500 anh em"
-    },
-    {
-        postId: "67072794",
-        reportReason: "Khơi mào cãi nhau",
-        posterName: "Hưu cao cổ và 500 anh em"
-    },
-    {
-        postId: "67072817",
-        reportReason: "Vu khống, chụp mũ, gây cãi nhau",
-        posterName: "nguyễn ngọc thắng"
-    },
+    // // Trước ngày 6/3
+    // {
+    //     postId: "67073170",
+    //     reportReason: "Xúc phạm người khác, ví người ta là con vật",
+    //     posterName: "Hưu cao cồ và 500 anh em"
+    // },
+    // {
+    //     postId: "67072780",
+    //     reportReason: "Xúc phạm người khác, ví người ta là con vật",
+    //     posterName: "Hưu cao cồ và 500 anh em"
+    // },
+    // {
+    //     postId: "67072765",
+    //     reportReason: "Xúc phạm người khác, ví người ta là con vật",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67072782",
+    //     reportReason: "Xúc phạm người khác, ví người ta là con vật",
+    //     posterName: "ngô đình hiếu"
+    // },
+    // {
+    //     postId: "67072770",
+    //     reportReason: "Xúc phạm người khác, ví người ta là con vật",
+    //     posterName: "ngô đình hiếu"
+    // },
+    // {
+    //     postId: "67072759",
+    //     reportReason: "Xúc phạm người khác, gây cãi nhau",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67072753",
+    //     reportReason: "Khơi mào cãi nhau",
+    //     posterName: "Hưu cao cổ và 500 anh em"
+    // },
+    // {
+    //     postId: "67072794",
+    //     reportReason: "Khơi mào cãi nhau",
+    //     posterName: "Hưu cao cổ và 500 anh em"
+    // },
+    // {
+    //     postId: "67072817",
+    //     reportReason: "Vu khống, chụp mũ, gây cãi nhau",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
     
     
     
-    {
-        postId: "67070215",
-        reportReason: "Gây cãi nhau",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67070225",
-        reportReason: "Bôi nhọ, xúc phạm người khác",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67069988",
-        reportReason: "Gây cãi nhau",
-        posterName: "nguyễn ngọc thắng"
-    },
+    // {
+    //     postId: "67070215",
+    //     reportReason: "Gây cãi nhau",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67070225",
+    //     reportReason: "Bôi nhọ, xúc phạm người khác",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67069988",
+    //     reportReason: "Gây cãi nhau",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
     
-    {
-        postId: "67069429",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67069504",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67069471",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67069554",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67069564",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67069654",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67069648",
-        posterName: "nguyễn ngọc thắng"
-    },
+    // {
+    //     postId: "67069429",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67069504",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67069471",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67069554",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67069564",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67069654",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67069648",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
     
     
-    {
-        postId: "67068686",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67068687",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67064910",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67065000",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67062947",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67062809",
-        posterName: "nguyễn ngọc thắng"
-    },
+    // {
+    //     postId: "67068686",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67068687",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67064910",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67065000",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67062947",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67062809",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
     
-    {
-        postId: "67062426",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67062003",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67061995",
-        posterName: "nguyễn ngọc thắng"
-    },
+    // {
+    //     postId: "67062426",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67062003",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67061995",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
     // {
     //     postId: "67061993",
     //     posterName: "nguyễn ngọc thắng"
