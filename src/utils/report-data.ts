@@ -1,75 +1,83 @@
 export const reportListId = [
     
     {
-        postId: "67105767",
-        reportReason: "Xúc phạm, body shaming người khác",
-        posterName: "nguyễn ngọc thắng"
+        postId: "67119905",
+        reportReason: "Vu khống người khác gạ này nọ, nói @xecatang bị này nọ liên quan mình",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/moi-9h-ma-duong-vang-nhu-chua-ba-danh.4116765/"
     },
-    {
-        postId: "67105670",
-        reportReason: "Vu khống, xúc phạm người khác",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67106335",
-        reportReason: "Xúc phạm người khác",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67106317",
-        reportReason: "Dùng từ ngữ không tinh tế, xúc phạm",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67106293",
-        reportReason: "Dùng từ ngữ không tinh tế, xúc phạm",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67106251",
-        reportReason: "Vu khống người khác đào lửa",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67105603",
-        reportReason: "Dùng hình ảnh có mặt người khác trong đó để làm bậy",
-        posterName: "BảoSG"
-    },
-    {
-        postId: "67105729",
-        reportReason: "Dùng hình ảnh có mặt người khác trong đó để làm bậy",
-        posterName: "BảoSG"
-    },
-    {
-        postId: "67105552",
-        reportReason: "Xúc phạm người khác",
-        posterName: "Nguyễn Thắng 898"
-    },
-    {
-        postId: "67105686",
-        reportReason: "Xúc phạm người khác",
-        posterName: "Nguyễn Thắng 898"
-    },
-    {
-        postId: "67105360",
-        reportReason: "Dùng hình ảnh có mặt người ta đăng bừa bãi, hòng bôi nhọ",
-        posterName: "nguyễn ngọc thắng"
-    },
-    {
-        postId: "67105536",
-        reportReason: "Dùng chuyện nghề nghiệp người khác xúc phạm ",
-        posterName: "69-anh xe ôm-77"
-    },
-    {
-        postId: "67105632",
-        reportReason: "Xúc phạm người khác",
-        posterName: "Nguyễn Thắng 898"
-    },
-    {
-        postId: "67105265",
-        reportReason: "Dùng hình ảnh có mặt người khác trong đó để làm bậy",
-        posterName: "BảoSG"
-    },
+    // {
+    //     postId: "67108334",
+    //     reportReason: "Vu khống, xúc phạm nghiêm trọng người khác",
+    //     posterName: "xecatang",
+    //     url: "https://tinhte.vn/thread/moi-9h-ma-duong-vang-nhu-chua-ba-danh.4116765/"
+    // },
+    
+    // {
+    //     postId: "67105670",
+    //     reportReason: "Vu khống, xúc phạm người khác",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67106335",
+    //     reportReason: "Xúc phạm người khác",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67106317",
+    //     reportReason: "Dùng từ ngữ không tinh tế, xúc phạm",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67106293",
+    //     reportReason: "Dùng từ ngữ không tinh tế, xúc phạm",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67106251",
+    //     reportReason: "Vu khống người khác đào lửa",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67105603",
+    //     reportReason: "Dùng hình ảnh có mặt người khác trong đó để làm bậy",
+    //     posterName: "BảoSG"
+    // },
+    // {
+    //     postId: "67105729",
+    //     reportReason: "Dùng hình ảnh có mặt người khác trong đó để làm bậy",
+    //     posterName: "BảoSG"
+    // },
+    // {
+    //     postId: "67105552",
+    //     reportReason: "Xúc phạm người khác",
+    //     posterName: "Nguyễn Thắng 898"
+    // },
+    // {
+    //     postId: "67105686",
+    //     reportReason: "Xúc phạm người khác",
+    //     posterName: "Nguyễn Thắng 898"
+    // },
+    // {
+    //     postId: "67105360",
+    //     reportReason: "Dùng hình ảnh có mặt người ta đăng bừa bãi, hòng bôi nhọ",
+    //     posterName: "nguyễn ngọc thắng"
+    // },
+    // {
+    //     postId: "67105536",
+    //     reportReason: "Dùng chuyện nghề nghiệp người khác xúc phạm ",
+    //     posterName: "69-anh xe ôm-77"
+    // },
+    // {
+    //     postId: "67105632",
+    //     reportReason: "Xúc phạm người khác",
+    //     posterName: "Nguyễn Thắng 898"
+    // },
+    // {
+    //     postId: "67105265",
+    //     reportReason: "Dùng hình ảnh có mặt người khác trong đó để làm bậy",
+    //     posterName: "BảoSG"
+    // },
     // {
     //     postId: "67085739",
     //     reportReason: "Tiết lộ số điện thoại người khác",
