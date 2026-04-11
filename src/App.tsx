@@ -3,6 +3,7 @@ import './App.css'
 // import axios, { type AxiosResponse } from "axios";
 import { ToastContainer } from 'react-toastify';
 import { report } from './utils/action';
+import HandmadeReportCompoent from './components/handle-make-report/HandmadeReportComponent';
 
 function App() {
   const oauthToken = 'a9b8ff0ec2ee2ff9b271c9b4dc2fd0d7301f6e96';
@@ -31,6 +32,11 @@ function App() {
   return (
     <>
       <div className="container">
+        <div className="row">
+          <div className="col-12">
+            <HandmadeReportCompoent />
+          </div>
+        </div>
         <div className="row" style={{textAlign: 'left'}}>
           <div className="col-12" >
             <h5>

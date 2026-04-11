@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.tsx'
 import { report } from './utils/action.ts';
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 // const oauthToken = '6f9c10115145a4d1a90c3e9603ff5ab321a2167e';
 // let i = 0;
