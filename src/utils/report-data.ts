@@ -23,6 +23,12 @@ export const reportListId = [
         posterName: "nguyễn ngọc thắng",
         url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
     },
+    {
+        postId: "67132579",
+        reportReason: "Gây cãi nhau",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
+    },
     
 
     // {
