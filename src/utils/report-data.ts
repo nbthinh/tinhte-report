@@ -1,11 +1,17 @@
 export const reportListId = [
-    
     {
-        postId: "67119905",
-        reportReason: "Vu khống người khác gạ này nọ, nói @xecatang bị này nọ liên quan mình",
+        postId: "67132033",
+        reportReason: "Dùng nội dung cũ kích động, gây cãi nhau tự phát, vu khống",
         posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/moi-9h-ma-duong-vang-nhu-chua-ba-danh.4116765/"
+        url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
     },
+
+    // {
+    //     postId: "67119905",
+    //     reportReason: "Vu khống người khác gạ này nọ, nói @xecatang bị này nọ liên quan mình",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/moi-9h-ma-duong-vang-nhu-chua-ba-danh.4116765/"
+    // },
     // {
     //     postId: "67108334",
     //     reportReason: "Vu khống, xúc phạm nghiêm trọng người khác",
