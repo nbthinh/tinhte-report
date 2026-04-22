@@ -5,6 +5,25 @@ export const reportListId = [
         posterName: "nguyễn ngọc thắng",
         url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
     },
+    {
+        postId: "67132221",
+        reportReason: "Dùng nội dung cũ kích động, gây cãi nhau tự phát, vu khống",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
+    },
+    {
+        postId: "67132215",
+        reportReason: "Dùng nội dung cũ kích động, gây cãi nhau tự phát, vu khống",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
+    },
+    {
+        postId: "67132066",
+        reportReason: "Gây cãi nhau",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
+    },
+    
 
     // {
     //     postId: "67119905",
