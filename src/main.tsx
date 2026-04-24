@@ -5,22 +5,22 @@ import App from './App.tsx'
 import { report } from './utils/action.ts';
 import 'bootstrap/dist/css/bootstrap.min.css'
 
-const oauthToken = '2a6ee09e8d4d8dfe08855b8215469825bdf90c72';
-let i = 0;
-setInterval(async () => {
-  let numOfRetry = 0;
-  while (numOfRetry < 3) {
-    const isReportSuccess = await report(i, oauthToken);
-    if (isReportSuccess) {
-      numOfRetry = 0;
-      break;
-    }
-    else {
-      numOfRetry += 1;
-    }
-  }
-  i = i + 1;
-}, 5000);
+// const oauthToken = '2a6ee09e8d4d8dfe08855b8215469825bdf90c72';
+// let i = 0;
+// setInterval(async () => {
+//   let numOfRetry = 0;
+//   while (numOfRetry < 3) {
+//     const isReportSuccess = await report(i, oauthToken);
+//     if (isReportSuccess) {
+//       numOfRetry = 0;
+//       break;
+//     }
+//     else {
+//       numOfRetry += 1;
+//     }
+//   }
+//   i = i + 1;
+// }, 5000);
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

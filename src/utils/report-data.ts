@@ -1,34 +1,40 @@
 export const reportListId = [
     {
-        postId: "67132033",
-        reportReason: "Dùng nội dung cũ kích động, gây cãi nhau tự phát, vu khống",
+        postId: "67134200",
+        reportReason: "Xúc phạm danh dự, gia đình người khác",
         posterName: "nguyễn ngọc thắng",
         url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
     },
-    {
-        postId: "67132221",
-        reportReason: "Dùng nội dung cũ kích động, gây cãi nhau tự phát, vu khống",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
-    },
-    {
-        postId: "67132215",
-        reportReason: "Dùng nội dung cũ kích động, gây cãi nhau tự phát, vu khống",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
-    },
-    {
-        postId: "67132066",
-        reportReason: "Gây cãi nhau",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
-    },
-    {
-        postId: "67132579",
-        reportReason: "Gây cãi nhau",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
-    },
+    // {
+    //     postId: "67132033",
+    //     reportReason: "Dùng nội dung cũ kích động, gây cãi nhau tự phát, vu khống",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
+    // },
+    // {
+    //     postId: "67132221",
+    //     reportReason: "Dùng nội dung cũ kích động, gây cãi nhau tự phát, vu khống",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
+    // },
+    // {
+    //     postId: "67132215",
+    //     reportReason: "Dùng nội dung cũ kích động, gây cãi nhau tự phát, vu khống",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
+    // },
+    // {
+    //     postId: "67132066",
+    //     reportReason: "Gây cãi nhau",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
+    // },
+    // {
+    //     postId: "67132579",
+    //     reportReason: "Gây cãi nhau",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
+    // },
     
 
     // {

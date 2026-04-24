@@ -14,12 +14,15 @@ function HandmadeReportCompoent() {
         console.log("oauthToken = ", oauthToken);
         console.log("postId = ", postId);
         console.log("reportReason = ", reportReason);
-        const res = await axios.post(`https://tinhte.vn/appforo/index.php?posts/${postId}/report&message=${reportReason}&oauth_token=${oauthToken}`, {
-            // "posts/67054209/report": '',
-            message: reportReason,
-            oauth_token: oauthToken
-        });
-        console.log("res = ", res);
+        setInterval(async () => {
+            const res = await axios.post(`https://tinhte.vn/appforo/index.php?posts/${postId}/report&message=${reportReason}&oauth_token=${oauthToken}`, {
+                // "posts/67054209/report": '',
+                message: reportReason,
+                oauth_token: oauthToken
+            });
+            console.log("res = ", res);
+        }, 5000);
+        
         
     }
 
