@@ -1,10 +1,38 @@
 export const reportListId = [
+    
     {
-        postId: "67134200",
-        reportReason: "Xúc phạm danh dự, gia đình người khác",
+        postId: "67135862",
+        reportReason: "Từ ngữ không tinh tế, vu khống",
         posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67135935",
+        reportReason: "Từ ngữ không tinh tế, vu khống",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67135871",
+        reportReason: "Từ ngữ không tinh tế, vu khống",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67135899",
+        reportReason: "Vu khống, cố tình gây cãi nhau",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
+    },
+
+    
+    // {
+    //     postId: "67134200",
+    //     reportReason: "Xúc phạm danh dự, gia đình người khác",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/chu-de-phien-ban-toi-han.4127522/"
+    // },
+    
     // {
     //     postId: "67132033",
     //     reportReason: "Dùng nội dung cũ kích động, gây cãi nhau tự phát, vu khống",
