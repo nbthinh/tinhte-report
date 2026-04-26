@@ -24,7 +24,24 @@ export const reportListId = [
         posterName: "nguyễn ngọc thắng",
         url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
     },
-
+    {
+        postId: "67136253",
+        reportReason: "Vu khống, cố tình gây cãi nhau",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
+    },
+    {
+        postId: "67136237",
+        reportReason: "Vu khống, cố tình gây cãi nhau",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
+    },
+    {
+        postId: "67136244",
+        reportReason: "Vu khống, cố tình gây cãi nhau",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
+    },
     
     // {
     //     postId: "67134200",
