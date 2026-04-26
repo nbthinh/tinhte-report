@@ -1,6 +1,12 @@
 export const reportListId = [
     
     {
+        postId: "67136357",
+        reportReason: "Từ ngữ không tinh tế, vu khống",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67135862",
         reportReason: "Từ ngữ không tinh tế, vu khống",
         posterName: "nguyễn ngọc thắng",
