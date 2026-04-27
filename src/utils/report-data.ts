@@ -1,4 +1,11 @@
 export const reportListId = [
+    
+    {
+        postId: "67137392",
+        reportReason: "Chia sẻ hình ảnh người khác bừa bãi",
+        posterName: "trương nguyên khoa",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     {
         postId: "67137159",
         reportReason: "Chia sẻ hình ảnh người khác bừa bãi",
