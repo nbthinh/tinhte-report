@@ -1,71 +1,90 @@
 export const reportListId = [
+    {
+        postId: "67137159",
+        reportReason: "Chia sẻ hình ảnh người khác bừa bãi",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     
     {
-        postId: "67137027",
-        reportReason: "Spam",
+        postId: "67137208",
+        reportReason: "Spam, gây cãi nhau",
         posterName: "nguyễn ngọc thắng",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67136971",
-        reportReason: "Lấy hình ảnh người khác làm bậy",
+        postId: "67137132",
+        reportReason: "Spam, gây cãi nhau",
         posterName: "nguyễn ngọc thắng",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-    {
-        postId: "67136357",
-        reportReason: "Từ ngữ không tinh tế, vu khống",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67135862",
-        reportReason: "Từ ngữ không tinh tế, vu khống",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67135935",
-        reportReason: "Từ ngữ không tinh tế, vu khống",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67135871",
-        reportReason: "Từ ngữ không tinh tế, vu khống",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67135899",
-        reportReason: "Vu khống, cố tình gây cãi nhau",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
-    },
-    {
-        postId: "67136253",
-        reportReason: "Vu khống, cố tình gây cãi nhau",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
-    },
-    {
-        postId: "67136237",
-        reportReason: "Vu khống, cố tình gây cãi nhau",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
-    },
-    {
-        postId: "67136244",
-        reportReason: "Vu khống, cố tình gây cãi nhau",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
-    },
-    {
-        postId: "67136276",
-        reportReason: "Vu khống, cố tình gây cãi nhau",
-        posterName: "nguyễn ngọc thắng",
-        url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
-    },
+    
+    // {
+    //     postId: "67137027",
+    //     reportReason: "Spam",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67136971",
+    //     reportReason: "Lấy hình ảnh người khác làm bậy",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67136357",
+    //     reportReason: "Từ ngữ không tinh tế, vu khống",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67135862",
+    //     reportReason: "Từ ngữ không tinh tế, vu khống",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67135935",
+    //     reportReason: "Từ ngữ không tinh tế, vu khống",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67135871",
+    //     reportReason: "Từ ngữ không tinh tế, vu khống",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67135899",
+    //     reportReason: "Vu khống, cố tình gây cãi nhau",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
+    // },
+    // {
+    //     postId: "67136253",
+    //     reportReason: "Vu khống, cố tình gây cãi nhau",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
+    // },
+    // {
+    //     postId: "67136237",
+    //     reportReason: "Vu khống, cố tình gây cãi nhau",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
+    // },
+    // {
+    //     postId: "67136244",
+    //     reportReason: "Vu khống, cố tình gây cãi nhau",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
+    // },
+    // {
+    //     postId: "67136276",
+    //     reportReason: "Vu khống, cố tình gây cãi nhau",
+    //     posterName: "nguyễn ngọc thắng",
+    //     url: "https://tinhte.vn/thread/troi-em-ru-nguyen-buu-thinh-di-an-dzo-bac-hung-ma-thinh-hong-chiu-bun-qua.4128918/"
+    // },
     
     // {
     //     postId: "67134200",
