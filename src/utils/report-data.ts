@@ -18,6 +18,19 @@ export const reportListId = [
         posterName: "nguyễn ngọc thắng",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67137235",
+        reportReason: "Xúc phạm người khác",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67137215",
+        reportReason: "Gây cãi nhau",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
     
     // {
     //     postId: "67137027",
