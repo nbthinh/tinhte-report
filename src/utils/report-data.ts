@@ -1,6 +1,19 @@
 export const reportListId = [
     
     {
+        postId: "67137452",
+        reportReason: "Spam bài mod",
+        posterName: "phamtuan",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67137446",
+        reportReason: "Xúc phạm mình",
+        posterName: "phamtuan",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
+    {
         postId: "67137392",
         reportReason: "Chia sẻ hình ảnh người khác bừa bãi",
         posterName: "trương nguyên khoa",
