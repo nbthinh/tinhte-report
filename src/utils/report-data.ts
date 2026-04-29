@@ -7,12 +7,19 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67139287",
+        postId: "67139031",
+        reportReason: "Trù rủa người khác",
+        posterName: "kedote",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67138952",
         reportReason: "Hạ nhục người khác",
         posterName: "kedote",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     
+
     // {
     //     postId: "67138792",
     //     reportReason: "Rủa người khác, buông lời độc ác",
