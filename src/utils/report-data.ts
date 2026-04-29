@@ -1,30 +1,37 @@
 export const reportListId = [
+    
     {
-        postId: "67138792",
+        postId: "67139320",
         reportReason: "Rủa người khác, buông lời độc ác",
         posterName: "kedote",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    // {
+    //     postId: "67138792",
+    //     reportReason: "Rủa người khác, buông lời độc ác",
+    //     posterName: "kedote",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
 
-    {
-        postId: "67138808",
-        reportReason: "Rủa người khác, buông lời độc ác",
-        posterName: "kedote",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
+    // {
+    //     postId: "67138808",
+    //     reportReason: "Rủa người khác, buông lời độc ác",
+    //     posterName: "kedote",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
 
-    {
-        postId: "67138809",
-        reportReason: "Rủa người khác, buông lời độc ác",
-        posterName: "kedote",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67138819",
-        reportReason: "Rủa người khác, buông lời độc ác",
-        posterName: "kedote",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
+    // {
+    //     postId: "67138809",
+    //     reportReason: "Rủa người khác, buông lời độc ác",
+    //     posterName: "kedote",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67138819",
+    //     reportReason: "Rủa người khác, buông lời độc ác",
+    //     posterName: "kedote",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     
     // {
     //     postId: "67137452",
