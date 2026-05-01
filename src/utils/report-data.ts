@@ -1,53 +1,66 @@
 export const reportListId = [
     
     {
-        postId: "67140073",
-        reportReason: "Xuyên tạc, gây cãi nhau",
+        postId: "67141618",
+        reportReason: "Nguyền rủa người khác",
         posterName: "kedote",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67140070",
-        reportReason: "Đăng nhảm, gây cãi nhau, xúc phạm người khác",
+        postId: "67141583",
+        reportReason: "Nguyền rủa người khác",
         posterName: "kedote",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-    {
-        postId: "67140113",
-        reportReason: "Vu khống",
-        posterName: "kedote",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67140002",
-        reportReason: "Xúc phạm mình",
-        posterName: "kedote",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67139986",
-        reportReason: "Xúc phạm mình",
-        posterName: "kedote",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67139964",
-        reportReason: "Gây cãi nhau",
-        posterName: "kedote",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67139842",
-        reportReason: "Gây cãi nhau",
-        posterName: "kedote",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67139893",
-        reportReason: "Gây cãi nhau",
-        posterName: "kedote",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
+    
+    // {
+    //     postId: "67140073",
+    //     reportReason: "Xuyên tạc, gây cãi nhau",
+    //     posterName: "kedote",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67140070",
+    //     reportReason: "Đăng nhảm, gây cãi nhau, xúc phạm người khác",
+    //     posterName: "kedote",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67140113",
+    //     reportReason: "Vu khống",
+    //     posterName: "kedote",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67140002",
+    //     reportReason: "Xúc phạm mình",
+    //     posterName: "kedote",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67139986",
+    //     reportReason: "Xúc phạm mình",
+    //     posterName: "kedote",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67139964",
+    //     reportReason: "Gây cãi nhau",
+    //     posterName: "kedote",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67139842",
+    //     reportReason: "Gây cãi nhau",
+    //     posterName: "kedote",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67139893",
+    //     reportReason: "Gây cãi nhau",
+    //     posterName: "kedote",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     
     
 
