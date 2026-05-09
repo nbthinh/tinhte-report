@@ -49,12 +49,12 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-    // {
-    //     postId: "67150639",
-    //     reportReason: "Nguyền rủa người khác",
-    //     posterName: "nguyễn ngọc thắng",
-    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    // },
+    {
+        postId: "67150639",
+        reportReason: "Nguyền rủa người khác",
+        posterName: "nguyễn ngọc thắng",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     
     
     // {
