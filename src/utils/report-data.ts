@@ -1,6 +1,38 @@
 export const reportListId = [
     
     {
+        postId: "67152424",
+        reportReason: "Khơi mào cãi nhau, chèn ép người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67152521",
+        reportReason: "Khơi mào cãi nhau, chèn ép người khác còn đóng vai bị hại",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67152526",
+        reportReason: "Khơi mào cãi nhau, chèn ép người khác còn đóng vai bị hại",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67152599",
+        reportReason: "Hâm doạ người khác, gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67152609",
+        reportReason: "Hâm doạ người khác, gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+
+
+    {
         postId: "67152250",
         reportReason: "Xúc phạm người khác",
         posterName: "",
