@@ -6,6 +6,12 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67152230",
+        reportReason: "Phát ngôn không lịch sự, chuyên gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
 
     // {
     //     postId: "67140073",
