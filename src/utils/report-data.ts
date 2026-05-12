@@ -1,6 +1,50 @@
 export const reportListId = [
     
     {
+        postId: "67155048",
+        reportReason: "Cố tình kích động gây cãi nhau và spam, người ta đã im càng làm tới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67155053",
+        reportReason: "Cố tình kích động gây cãi nhau và spam, người ta đã im càng làm tới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67155070",
+        reportReason: "Cố tình kích động gây cãi nhau và spam, người ta đã im càng làm tới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67155125",
+        reportReason: "Mình đã xoá cmt, im cho qua chuyện mà càng làm tới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67155125",
+        reportReason: "Mình đã xoá cmt, im cho qua chuyện mà càng làm tới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67155126",
+        reportReason: "Mình đã xoá cmt, im cho qua chuyện mà càng làm tới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67155182",
+        reportReason: "Mình đã xoá cmt, im cho qua chuyện mà càng làm tới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
+    
+    {
         postId: "67085739",
         reportReason: "Chia sẻ số điện thoại người khác",
         posterName: "",
