@@ -2,6 +2,12 @@ export const reportListId = [
     
     
     {
+        postId: "67156063",
+        reportReason: "Đăng thông tin riêng tư người khác, gây hại nghiêm trọng cho người ta",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67155884",
         reportReason: "Nhục mạ người khác",
         posterName: "",
