@@ -1,12 +1,49 @@
 export const reportListId = [
     
-    
     {
-        postId: "67156491",
-        reportReason: "Đăng thông tin riêng tư người khác, gây hại nghiêm trọng cho người ta",
+        postId: "67166343",
+        reportReason: "Vu khống người khác rình mò toilet",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67166357",
+        reportReason: "Xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67166375",
+        reportReason: "Bóp méo sự việc, xuyên tạc, gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
+
+    // {
+    //     postId: "67156913",
+    //     reportReason: "Xúc phạm người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67156749",
+    //     reportReason: "Bắt nạt người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67156746",
+    //     reportReason: "Sỉ nhục người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67156491",
+    //     reportReason: "Đăng thông tin riêng tư người khác, gây hại nghiêm trọng cho người ta",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     // {
     //     postId: "67156063",
     //     reportReason: "Đăng thông tin riêng tư người khác, gây hại nghiêm trọng cho người ta",
