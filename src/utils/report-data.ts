@@ -1,23 +1,61 @@
 export const reportListId = [
     
     {
-        postId: "67166343",
-        reportReason: "Vu khống người khác rình mò toilet",
+        postId: "67168836",
+        reportReason: "Gây cãi nhau",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67166357",
+        postId: "67168843",
         reportReason: "Xúc phạm người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67166375",
-        reportReason: "Bóp méo sự việc, xuyên tạc, gây cãi nhau",
+        postId: "67168933",
+        reportReason: "Dùng xuất thân người khác xúc phạm người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67168934",
+        reportReason: "Xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67168849",
+        reportReason: "Gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67168901",
+        reportReason: "Mạt sát người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
+
+    // {
+    //     postId: "67166343",
+    //     reportReason: "Vu khống người khác rình mò toilet",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67166357",
+    //     reportReason: "Xúc phạm người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67166375",
+    //     reportReason: "Bóp méo sự việc, xuyên tạc, gây cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     
 
     // {
