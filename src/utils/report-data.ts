@@ -1,54 +1,73 @@
 export const reportListId = [
     
     {
-        postId: "67188944",
-        reportReason: "Chửi quá trời luôn",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67188946",
-        reportReason: "Chửi quá trời luôn",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67188767",
-        reportReason: "Gây tranh cãi, chửi mình quá trời, chỉ là mình ko muốn nói thôi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67188883",
-        reportReason: "Chửi quá trời luôn",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67188953",
-        reportReason: "Spam",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-
-    {
-        postId: "67188688",
-        reportReason: "Vu khống",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67188966",
-        reportReason: "Chửi quá trời luôn",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67188809",
+        postId: "67189491",
         reportReason: "Dùng hình ảnh người khác làm bậy",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67189499",
+        reportReason: "Xúc phạm người khác, đóng vai nạn nhân, gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67189542",
+        reportReason: "Xúc phạm người khác, đóng vai nạn nhân, gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
+    // {
+    //     postId: "67188944",
+    //     reportReason: "Chửi quá trời luôn",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67188946",
+    //     reportReason: "Chửi quá trời luôn",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67188767",
+    //     reportReason: "Gây tranh cãi, chửi mình quá trời, chỉ là mình ko muốn nói thôi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67188883",
+    //     reportReason: "Chửi quá trời luôn",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67188953",
+    //     reportReason: "Spam",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+
+    // {
+    //     postId: "67188688",
+    //     reportReason: "Vu khống",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67188966",
+    //     reportReason: "Chửi quá trời luôn",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67188809",
+    //     reportReason: "Dùng hình ảnh người khác làm bậy",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     
     
     // {
