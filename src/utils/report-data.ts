@@ -1,6 +1,60 @@
 export const reportListId = [
+    {
+        postId: "67198941",
+        reportReason: "Spam, gây cãi nhau, chèn ép người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67199040",
+        reportReason: "Spam, gây cãi nhau, chèn ép người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67198954",
+        reportReason: "Sửa nội dung cmt để vu khống",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67199019",
+        reportReason: "Vu khống, xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67198974",
+        reportReason: "Spam, gây cãi nhau, chèn ép người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67199036",
+        reportReason: "Spam, gây cãi nhau, chèn ép người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67199025",
+        reportReason: "Spam, gây cãi nhau, chèn ép người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67199028",
+        reportReason: "Spam, gây cãi nhau, chèn ép người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67199051",
+        reportReason: "Spam, gây cãi nhau, chèn ép người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     
-
+    
     {
         postId: "67198713",
         reportReason: "Gây cãi nhau khi người ta bị chèn ép",
