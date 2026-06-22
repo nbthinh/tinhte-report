@@ -8,6 +8,13 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
+        postId: "67200647",
+        reportReason: "Cố tình kiếm chuyện và gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
+    {
         postId: "67200652",
         reportReason: "Bắt nạt người khác",
         posterName: "",
