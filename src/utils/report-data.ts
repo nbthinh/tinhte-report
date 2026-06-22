@@ -1,46 +1,70 @@
 export const reportListId = [
+
+    
     {
-        postId: "67199493",
-        reportReason: "Xúc phạm người khác, dùng nhiều tài khoản",
+        postId: "67200688",
+        reportReason: "Chửi bới người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67199501",
-        reportReason: "Xúc phạm người khác, dùng nhiều tài khoản",
+        postId: "67200652",
+        reportReason: "Bắt nạt người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67199490",
-        reportReason: "Miệt thị người khác",
+        postId: "67200693",
+        reportReason: "Bắt nạt người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-    {
-        postId: "67199589",
-        reportReason: "Miệt thị người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67199587",
-        reportReason: "Miệt thị người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67199445",
-        reportReason: "Miệt thị người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67199438",
-        reportReason: "Miệt thị người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
+    
+    
+
+
+    // {
+    //     postId: "67199493",
+    //     reportReason: "Xúc phạm người khác, dùng nhiều tài khoản",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67199501",
+    //     reportReason: "Xúc phạm người khác, dùng nhiều tài khoản",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67199490",
+    //     reportReason: "Miệt thị người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67199589",
+    //     reportReason: "Miệt thị người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67199587",
+    //     reportReason: "Miệt thị người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67199445",
+    //     reportReason: "Miệt thị người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67199438",
+    //     reportReason: "Miệt thị người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     
     
     // {
