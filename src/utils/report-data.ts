@@ -1,6 +1,18 @@
 export const reportListId = [
     
     {
+        postId: "67206462",
+        reportReason: "Xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67206459",
+        reportReason: "Xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67206448",
         reportReason: "Spam, kích động cãi nhau",
         posterName: "",
@@ -44,7 +56,7 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
 
-    
+
     // {
     //     postId: "67205922",
     //     reportReason: "Xúc phạm người khác, gây cãi nhau",
