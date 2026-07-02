@@ -1,10 +1,23 @@
 export const reportListId = [
     {
-        postId: "67211235",
-        reportReason: "Dùng thông tin cũ để gây cãi nhau",
+        postId: "67211116",
+        reportReason: "Spam, Gọi họ tên mình trước, gọi nhiều lần, khiến mình vi phạm",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67210952",
+        reportReason: "Cố tình gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
+    // {
+    //     postId: "67211235",
+    //     reportReason: "Dùng thông tin cũ để gây cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
 
     // {
     //     postId: "67211113",
