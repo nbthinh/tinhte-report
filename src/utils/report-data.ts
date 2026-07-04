@@ -1,11 +1,55 @@
 export const reportListId = [
+    
+    {
+        postId: "67213439",
+        reportReason: "Chửi bới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67213434",
+        reportReason: "Chửi bới, gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67213125",
+        reportReason: "Công kích người khác làm loãng chủ đề, đóng vai bị hại",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67213076",
+        reportReason: "Công kích người khác làm loãng chủ đề",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     {
         postId: "67213002",
         reportReason: "Spam, Gọi họ tên mình trước, gọi nhiều lần, khiến mình vi phạm",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67213038",
+        reportReason: "Xúc phạm người khác tự phát",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67213041",
+        reportReason: "Vu khống khi mình phản biện, mình đã xoá để khỏi tranh cãi thì làm tới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67213044",
+        reportReason: "Vu khống khi mình phản biện, mình đã xoá để khỏi tranh cãi thì làm tới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     
+
     // {
     //     postId: "67211116",
     //     reportReason: "Spam, Gọi họ tên mình trước, gọi nhiều lần, khiến mình vi phạm",
