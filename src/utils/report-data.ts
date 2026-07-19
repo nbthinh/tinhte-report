@@ -1,6 +1,12 @@
 export const reportListId = [
     
     {
+        postId: "67224643",
+        reportReason: "Bài Khắc Tên mà thằng họ dương tên sơn vào xúc phạm mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67224861",
         reportReason: "Xúc phạm người khác",
         posterName: "",
