@@ -1,47 +1,79 @@
 export const reportListId = [
     
     {
-        postId: "67224379",
-        reportReason: "Spam, xúc phạm người khác tự phát",
+        postId: "67224773",
+        reportReason: "Kích động cho thằng khác xúc phạm mình",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67224495",
-        reportReason: "Spam, xúc phạm người khác tự phát",
+        postId: "67224778",
+        reportReason: "Bôi nhọ, xúc phạm họ tên người khác nhiều lần",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67224438",
-        reportReason: "Spam, xúc phạm người khác tự phát",
+        postId: "67224776",
+        reportReason: "Bôi nhọ, xúc phạm họ tên người khác nhiều lần",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67224153",
-        reportReason: "Spam, đăng cả trăm ngàn nội dung chỉ để xúc phạm, bôi nhọ họ tên người khác",
+        postId: "67224788",
+        reportReason: "Bôi nhọ, xúc phạm họ tên người khác nhiều lần",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-    {
-        postId: "67224163",
-        reportReason: "Spam, đăng cả trăm ngàn nội dung chỉ để xúc phạm, bôi nhọ họ tên người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67224183",
-        reportReason: "Spam, đăng cả trăm ngàn nội dung chỉ để xúc phạm, bôi nhọ họ tên người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67224488",
-        reportReason: "Spam, đăng cả trăm ngàn nội dung chỉ để xúc phạm, bôi nhọ họ tên người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
+    
+
+    // {
+    //     postId: "67224518",
+    //     reportReason: "Spam, xúc phạm người khác tự phát",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67224379",
+    //     reportReason: "Spam, xúc phạm người khác tự phát",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67224495",
+    //     reportReason: "Spam, xúc phạm người khác tự phát",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67224438",
+    //     reportReason: "Spam, xúc phạm người khác tự phát",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67224153",
+    //     reportReason: "Spam, đăng cả trăm ngàn nội dung chỉ để xúc phạm, bôi nhọ họ tên người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67224163",
+    //     reportReason: "Spam, đăng cả trăm ngàn nội dung chỉ để xúc phạm, bôi nhọ họ tên người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67224183",
+    //     reportReason: "Spam, đăng cả trăm ngàn nội dung chỉ để xúc phạm, bôi nhọ họ tên người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67224488",
+    //     reportReason: "Spam, đăng cả trăm ngàn nội dung chỉ để xúc phạm, bôi nhọ họ tên người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
 
     
     // {
