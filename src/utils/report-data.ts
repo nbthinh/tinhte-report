@@ -1,4 +1,30 @@
 export const reportListId = [
+    
+    {
+        postId: "67225450",
+        reportReason: "nguyễn ngọc thắng chèo lái, xúc phạm, trù rủa người kháckhác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67225545",
+        reportReason: "Vu khống",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67225565",
+        reportReason: "Xúc phạm",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67225604",
+        reportReason: "Xuyên tạc",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
     {
         postId: "67225174",
         reportReason: "Gọi họ tên người khác ra xúc phạm người ta nhiều lần",
