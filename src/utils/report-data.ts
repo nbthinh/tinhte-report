@@ -30,7 +30,12 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-    
+    {
+        postId: "67228344",
+        reportReason: "Xúc phạm và giả tạo",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     
     // {
     //     postId: "67228247",
