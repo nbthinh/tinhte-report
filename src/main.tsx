@@ -5,7 +5,7 @@ import App from './App.tsx'
 import { report } from './utils/action.ts';
 import 'bootstrap/dist/css/bootstrap.min.css'
 
-const oauthToken = '4b127e2504c61d7abd6ccdfdf21b1e4c0e2af60a';
+const oauthToken = 'de5671178a52fa8c22e3470dc87b5b7dc7896b6b';
 let i = 0;
 setInterval(async () => {
   let numOfRetry = 0;
