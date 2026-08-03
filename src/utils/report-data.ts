@@ -1,5 +1,11 @@
 export const reportListId = [
-     
+    
+    {
+        postId: "67239246",
+        reportReason: "Trù rủa người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     {
         postId: "67239486",
         reportReason: "Kích động cãi nhau",
@@ -42,6 +48,25 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67239219",
+        reportReason: "Xúc phạm, gây tranh cãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67238759",
+        reportReason: "Chủ động gây cãi nhau trong bài mình, mình nói lại thì tiếp tục đem qua bài này để gây tranh cãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67238853",
+        reportReason: "Bôi nhọ người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
     
     // {
     //     postId: "67239493",
@@ -49,12 +74,7 @@ export const reportListId = [
     //     posterName: "",
     //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     // },
-    // {
-    //     postId: "67238853",
-    //     reportReason: "Kích động cãi nhau",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    // },
+    
     // {
     //     postId: "67238681",
     //     reportReason: "Kích động cãi nhau",
@@ -67,12 +87,7 @@ export const reportListId = [
     //     posterName: "",
     //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     // },
-    // {
-    //     postId: "67238759",
-    //     reportReason: "Chủ động gây cãi nhau trong bài mình, mình nói lại thì tiếp tục đem qua bài này để gây tranh cãi",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    // },
+    
     // {
     //     postId: "67238766",
     //     reportReason: "Xuyên tạc",
