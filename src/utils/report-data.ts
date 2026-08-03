@@ -13,12 +13,6 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67239493",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, một cách độc ác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
         postId: "67239496",
         reportReason: "Bôi nhọ họ tên người khác nhiều lần, một cách độc ác",
         posterName: "",
@@ -49,7 +43,12 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     
-
+    // {
+    //     postId: "67239493",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, một cách độc ác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     // {
     //     postId: "67238853",
     //     reportReason: "Kích động cãi nhau",
