@@ -2,7 +2,7 @@ export const reportListId = [
     
     {
         postId: "67240221",
-        reportReason: "Tạo chủ đề kích động, gây cãi nhau",
+        reportReason: "Tạo chủ đề kích động, gây cãi nhau nhiều lần",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
@@ -44,6 +44,12 @@ export const reportListId = [
     },
     {
         postId: "67240367",
+        reportReason: "Xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67240548",
         reportReason: "Xúc phạm người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"

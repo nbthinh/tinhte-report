@@ -5,6 +5,10 @@ import App from './App.tsx'
 import { report } from './utils/action.ts';
 import 'bootstrap/dist/css/bootstrap.min.css'
 
+import { createBrowserRouter } from 'react-router'
+import { RouterProvider } from 'react-router/dom'
+import HomeComponent from './components/home/HomeComponent.tsx';
+
 const oauthToken = '846caeef659831a6e7d475a1eb74028a4305fe17';
 let i = 0;
 setInterval(async () => {
@@ -22,8 +26,21 @@ setInterval(async () => {
   i = i + 1;
 }, 5000);
 
+const router = createBrowserRouter([
+  {
+    path: "/tinhte-report",
+    Component: App,
+    children: [
+      { index: true, Component: HomeComponent },
+      // { path: "settings", Component: Settings },
+    ],
+  },
+]);
+
+
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+    {/* <App /> */}
+    <RouterProvider router={router} />
   </StrictMode>,
 )
