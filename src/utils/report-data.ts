@@ -2,6 +2,12 @@ export const reportListId = [
     
     
     {
+        postId: "67241369",
+        reportReason: "Cố tình chửi người khác, gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67236278",
         reportReason: "Cố tình gây cãi nhau",
         posterName: "",
