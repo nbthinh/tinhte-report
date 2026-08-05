@@ -37,6 +37,7 @@ function HomeComponent() {
                     </ul>
                 </div>
             </div>
+            Demo Report Data
         </>
     )
 }
