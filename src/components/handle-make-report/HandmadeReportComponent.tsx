@@ -3,8 +3,8 @@ import "./HandmadeReportComponent.css"
 import { useEffect, useState } from "react";
 function HandmadeReportCompoent() {
 
-    const [oauthToken, setOauthToken] = useState("7ba70a2539ae2a2ad7600c87c1c5cb073ef03610");
-    const [postId, setPostId] = useState("67120018");
+    const [oauthToken, setOauthToken] = useState("f70238e5609386584b9541928825bf3924cec63f");
+    const [postId, setPostId] = useState("67241745");
     const [reportReason, setReportReason] = useState("Khác");
     useEffect(() => {
 
