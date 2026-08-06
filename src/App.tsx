@@ -5,6 +5,7 @@ import { ToastContainer } from 'react-toastify';
 import { report } from './utils/action';
 import HandmadeReportCompoent from './components/handle-make-report/HandmadeReportComponent';
 import { Outlet } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 function App() {
   const oauthToken = 'f70238e5609386584b9541928825bf3924cec63f';
@@ -40,6 +41,9 @@ function App() {
         </div>
         
       </div>
+      <Link to="">Home</Link>
+      <br/>
+      <Link to="demo">Dashboard</Link>
       <Outlet />
       <ToastContainer />
     </>

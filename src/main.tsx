@@ -8,8 +8,9 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import { createBrowserRouter } from 'react-router'
 import { RouterProvider } from 'react-router/dom'
 import HomeComponent from './components/home/HomeComponent.tsx';
+import DemoComponent from './components/DemoComponent/DemoComponent.tsx';
 
-const oauthToken = 'b87a32ff28ac6d16166ecacdc987d97f6cc60d74';
+const oauthToken = 'eefa90d5b2cbb82ac1672cb2421c8d407a3322f7';
 let i = 0;
 setInterval(async () => {
   let numOfRetry = 0;
@@ -32,7 +33,7 @@ const router = createBrowserRouter([
     Component: App,
     children: [
       { index: true, Component: HomeComponent },
-      // { path: "settings", Component: Settings },
+      { path: "demo", Component: DemoComponent },
     ],
   },
 ]);
