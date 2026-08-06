@@ -31,8 +31,13 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-
-
+    {
+        postId: "67242476",
+        reportReason: "Đăng hình ảnh chứa nội dung xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
 
     // {
     //     postId: "67242033",
