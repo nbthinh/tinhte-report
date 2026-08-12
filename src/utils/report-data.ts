@@ -1,11 +1,18 @@
 export const reportListId = [
     
     {
-        postId: "67246430",
-        reportReason: "Đòi tiền vô lối, xúc phạm nghiêm trọng danh dự người khác",
+        postId: "67246552",
+        reportReason: "Spam, phát ngôn nhảm trên bài Khắc Tên chỉ để xúc phạm người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67246562",
+        reportReason: "Hùa nhau spam trên bài khắc tên xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
     {
         postId: "67245904",
         reportReason: "Xúc phạm người khác 1 cách tự phát",
@@ -57,7 +64,12 @@ export const reportListId = [
     },
     
     
-    
+    // {
+    //     postId: "67246430",
+    //     reportReason: "Đòi tiền vô lối, xúc phạm nghiêm trọng danh dự người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     // {
     //     postId: "67245529",
     //     reportReason: "Chia sẻ hình ảnh chứa số điện thoại của mình để bêu rếu, xuyên tạc",
