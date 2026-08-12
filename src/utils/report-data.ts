@@ -1,20 +1,21 @@
 export const reportListId = [
-    
+
+    {
+        postId: "67245904",
+        reportReason: "Xúc phạm người khác 1 cách tự phát",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     {
         postId: "67246077",
         reportReason: "Xúc phạm mình trong bài cuhiep nhiều lần",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+
     {
         postId: "67246098",
         reportReason: "Xúc phạm mình trong bài cuhiep nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67245529",
-        reportReason: "Chia sẻ hình ảnh chứa số điện thoại của mình để bêu rếu, xuyên tạc",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
@@ -25,19 +26,26 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67245904",
-        reportReason: "Xúc phạm người khác 1 cách tự phát",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
         postId: "67245300",
         reportReason: "Bôi nhọ nghiêm trọng họ tên người khác, vu khống người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67246255",
+        reportReason: "tô minh mai tiến dùng cả đời để lên tinhte xúc phạm mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+
     
     
+    // {
+    //     postId: "67245529",
+    //     reportReason: "Chia sẻ hình ảnh chứa số điện thoại của mình để bêu rếu, xuyên tạc",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     // {
     //     postId: "67245314",
     //     reportReason: "Đòi tiền vô lý, bôi nhọ nghiêm trọng họ tên người khác",
