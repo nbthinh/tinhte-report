@@ -1,6 +1,19 @@
 export const reportListId = [
     
 
+    
+    {
+        postId: "67247251",
+        reportReason: "Gọi họ tên người khác xúc phạm người ta nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67247228",
+        reportReason: "Gọi họ tên người khác xúc phạm người ta nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     {
         postId: "67247058",
         reportReason: "Gọi họ tên người khác xúc phạm người ta nhiều lần",
