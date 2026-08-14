@@ -1,6 +1,38 @@
 export const reportListId = [
     
     
+    
+    {
+        postId: "67248672",
+        reportReason: "Vào bài khắc tên cmt nhảm, klq, xúc phạm người khác, gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67248674",
+        reportReason: "Vào bài khắc tên cmt nhảm xúc phạm người khác, gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67248654",
+        reportReason: "Spam bài cuhiep chỉ để chửi mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67248676",
+        reportReason: "Spam bài cuhiep chỉ để chửi mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67248696",
+        reportReason: "Spam bài cuhiep chỉ để chửi mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
     {
         postId: "67248425",
         reportReason: "Vào bài khắc tên cmt nhảm xúc phạm người khác, gây cãi nhau",
