@@ -32,6 +32,24 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67248386",
+        reportReason: "Spam bài cuhiep chỉ để chửi mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67248421",
+        reportReason: "Spam bài cuhiep chỉ để chửi mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67248435",
+        reportReason: "Xuyên tạc và chia sẻ dãy số trong số điện thoại mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     
     {
         postId: "67248425",
