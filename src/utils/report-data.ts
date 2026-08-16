@@ -31,13 +31,14 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67249757",
+        reportReason: "Kích động cãi nhau trong bài chị Sen, bôi nhọ họ tên người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+
     
-    // {
-    //     postId: "67249757",
-    //     reportReason: "Kích động cãi nhau trong bài chị Sen, bôi nhọ họ tên người khác",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    // },
     // {
     //     postId: "67249587",
     //     reportReason: "Lấy họ tên người ta ra vu khống người ta bom hàng",
