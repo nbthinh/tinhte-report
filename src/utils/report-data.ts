@@ -37,8 +37,14 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-
+    {
+        postId: "67249853",
+        reportReason: "Từ ngữ không tinhte, xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     
+
     // {
     //     postId: "67249587",
     //     reportReason: "Lấy họ tên người ta ra vu khống người ta bom hàng",
