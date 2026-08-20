@@ -37,6 +37,12 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67253240",
+        reportReason: "Uy hiếp thông tin facebook mình trên tinhte",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     
     // {
     //     postId: "67253341",
@@ -44,12 +50,7 @@ export const reportListId = [
     //     posterName: "",
     //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     // },
-    // {
-    //     postId: "67253240",
-    //     reportReason: "Chia sẻ bừa bãi facebook người khác",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    // },
+    
     // {
     //     postId: "67252919",
     //     reportReason: "Spam, bôi nhọ họ tên người khác 1 cách cay nghiệt",
