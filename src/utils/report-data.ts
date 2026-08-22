@@ -1,15 +1,9 @@
 export const reportListId = [
 
-     
+    
     {
-        postId: "67255038",
-        reportReason: "Tag mình vào để chửi, tag thêm đồng bọn cùng chửi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67255047",
-        reportReason: "Spam bài mod, xúc phạm họ tên người khác",
+        postId: "67255103",
+        reportReason: "Chụp cmt mình đăng nội dung gây cãi nhau, tag đồng bọn vào cùng chửi",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
@@ -20,17 +14,25 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67255024",
-        reportReason: "Bôi nhọ, xúc phạm người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
         postId: "67255018",
         reportReason: "Bôi nhọ, xúc phạm người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67255047",
+        reportReason: "Spam bài mod, xúc phạm họ tên người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
+    {
+        postId: "67255024",
+        reportReason: "Bôi nhọ, xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
     {
         postId: "67254963",
         reportReason: "Vu khống, xúc phạm người khác",
@@ -121,7 +123,12 @@ export const reportListId = [
     //     posterName: "",
     //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     // },
-
+    // {
+    //     postId: "67255038",
+    //     reportReason: "Tag mình vào để chửi, tag thêm đồng bọn cùng chửi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     // {
     //     postId: "67253808",
     //     reportReason: "Phát ngôn thiếu tinh tế, miệt thị nghề nghiệp người khác",
