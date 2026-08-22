@@ -2,6 +2,30 @@ export const reportListId = [
 
     
     {
+        postId: "67255287",
+        reportReason: "Xúc phạm người khác nợ dai 1.840k, xúc phạm quá mức cần thiết",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67255220",
+        reportReason: "Xúc phạm người khác quá mức cần thiết",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67255295",
+        reportReason: "Dùng hình có mặt mình kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67255195",
+        reportReason: "Ăn cắp hình bài viết của mình, tạo chủ đề nhằm mục đích gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67255103",
         reportReason: "Chụp cmt mình đăng nội dung gây cãi nhau, tag đồng bọn vào cùng chửi",
         posterName: "",
