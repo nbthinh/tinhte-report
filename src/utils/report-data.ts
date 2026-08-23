@@ -2,20 +2,32 @@ export const reportListId = [
 
     
     {
-        postId: "67255287",
-        reportReason: "Xúc phạm người khác nợ dai 1.840k, xúc phạm quá mức cần thiết",
+        postId: "67255292",
+        reportReason: "Gây tranh cãi trong bài mod để chửi người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67255342",
+        reportReason: "Chia sẻ hình có mặt mình trong đó để gây cãi nhau một cách tự phát, mình ko nói gì nó cả",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67255610",
+        reportReason: "Gây cãi nhau, chửi nhau trong bài mod Pnghuy",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67255614",
+        reportReason: "Dùng hình ảnh có mặt người ta trong đó để bôi nhọ 1 cách cay nghiệt",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
         postId: "67255220",
         reportReason: "Xúc phạm người khác quá mức cần thiết",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67255295",
-        reportReason: "Dùng hình có mặt mình kích động cãi nhau",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
@@ -39,7 +51,7 @@ export const reportListId = [
     },
     {
         postId: "67255018",
-        reportReason: "Bôi nhọ, xúc phạm người khác",
+        reportReason: "Bôi nhọ, xúc phạm người khác, gán người khác NPD các kiểu",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
@@ -112,8 +124,18 @@ export const reportListId = [
     // },
     
     
-    
-
+    // {
+    //     postId: "67255295",
+    //     reportReason: "Dùng hình có mặt mình kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67255287",
+    //     reportReason: "Xúc phạm người khác nợ dai 1.840k, xúc phạm quá mức cần thiết",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     // {
     //     postId: "67179026",
     //     reportReason: "Tag mình vào để chửi, lôi kéo đồng bọn cùng chửi mình",
