@@ -2,6 +2,42 @@ export const reportListId = [
 
     
     {
+        postId: "67256317",
+        reportReason: "Vào bài tài khoản Khắc Tên công kích người khác chỉ để trả thù cá nhân",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67255894",
+        reportReason: "Dùng cmt cũ của mình tạo chủ đề rác gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67255953",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67255772",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67255774",
+        reportReason: "Miệt thị người khác 1 cách cay nghiệt",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67255755",
+        reportReason: "Bôi nhọ họ tên người khác trong khi mình chả làm gì nó, nó nói mình đc, mình nói lại nó thì bị ban",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67255292",
         reportReason: "Gây tranh cãi trong bài mod để chửi người khác",
         posterName: "",
