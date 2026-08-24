@@ -1,7 +1,30 @@
 export const reportListId = [
 
-
     
+    {
+        postId: "67257224",
+        reportReason: "Qua bài mod Lê Quốc Khánh, thấy mình comment thì kiếm chuyện, xong qua bài đồng bọn chửi mình gạ này nọ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67257332",
+        reportReason: "Qua bài mod Lê Quốc Khánh, thấy mình comment thì kiếm chuyện, xong qua bài đồng bọn chửi mình gạ này nọ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67257070",
+        reportReason: "Vu khống, xúc phạm, bôi nhọ họ tên người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67162924",
+        reportReason: "Đòi tiền người khác 1 cách vô lý",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     {
         postId: "67256791",
         reportReason: "Vu khống mình làm tiền người khác",
@@ -9,8 +32,38 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
+        postId: "67256994",
+        reportReason: "Tag đồng bọn vào cùng chửi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67071370",
+        reportReason: "Ăn cắp hình bài viết của mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67070781",
+        reportReason: "Ăn cắp hình bài viết của mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67069936",
+        reportReason: "Ăn cắp hình bài viết của mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67069332",
+        reportReason: "Ăn cắp hình bài viết của mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67256728",
-        reportReason: "Xúc phạm họ tên người khác 1 cách cay nghiệt, bêu rếu cho là mình nợ nầnnần, vu khống",
+        reportReason: "Xúc phạm họ tên người khác 1 cách cay nghiệt, bêu rếu cho là mình nợ nần, vu khống",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
