@@ -3,6 +3,18 @@ export const reportListId = [
     
     
     {
+        postId: "67257817",
+        reportReason: "Xuyên tạc, bôi nhọ họ tên người khác. Rõ ràng nó nhái lời mình, mình ko bao giờ muốn qua lại với nó",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67257815",
+        reportReason: "Kích động người khác chửi bới mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67257682",
         reportReason: "Kích động người khác chửi bới mình",
         posterName: "",
