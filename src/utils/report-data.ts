@@ -1,7 +1,26 @@
 export const reportListId = [
 
-
     
+    
+    {
+        postId: "67257682",
+        reportReason: "Kích động người khác chửi bới mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67257686",
+        reportReason: "Bôi nhọ họ tên người ta một cách cay nghiệt",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
+    {
+        postId: "67257617",
+        reportReason: "Xuyên tạc nội dung comment cũ của mình trong bài  cuhiep, kích động cãi nhau, mình không dùng cụm từ 'hậu ...' lúc đó",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     
     {
         postId: "67257568",
@@ -27,24 +46,6 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-    {
-        postId: "67257532",
-        reportReason: "Vào bài khắc tên spam nhảm, xúc phạm người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    // {
-    //     postId: "67257488",
-    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, spam nhảm trong bài cuhiep",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    // },
-    // {
-    //     postId: "67257397",
-    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, spam nhảm trong bài cuhiep",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    // },
     {
         postId: "67257224",
         reportReason: "Qua bài mod Lê Quốc Khánh, thấy mình comment thì kiếm chuyện, xong qua bài đồng bọn chửi mình gạ này nọ",
@@ -93,12 +94,7 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-    {
-        postId: "67256440",
-        reportReason: "Dùng toàn ngôn từ cay nghiệt, trù rủa nghề nghiệp người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
+    
     {
         postId: "67256436",
         reportReason: "Bôi nhọ họ tên người khác, miệt thị, xúc phạm người khác 1 cách cay nghiệt",
@@ -111,18 +107,14 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-    {
-        postId: "67256317",
-        reportReason: "Vào bài tài khoản Khắc Tên chửi bới để trả thù cá nhân",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67256409",
-        reportReason: "Tag mình vào chửi bới",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
+
+
+    // {
+    //     postId: "67256409",
+    //     reportReason: "Tag mình vào chửi bới",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     
 
     // {
@@ -232,8 +224,36 @@ export const reportListId = [
 
     
 
-    
-    
+    // {
+    //     postId: "67256440",
+    //     reportReason: "Dùng toàn ngôn từ cay nghiệt, trù rủa nghề nghiệp người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67256317",
+    //     reportReason: "Vào bài tài khoản Khắc Tên chửi bới để trả thù cá nhân",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67257532",
+    //     reportReason: "Vào bài khắc tên spam nhảm, xúc phạm người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67257488",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, spam nhảm trong bài cuhiep",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67257397",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, spam nhảm trong bài cuhiep",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     // {
     //     postId: "67253921",
     //     reportReason: "Chụp comment mình, đăng comment gây cãi nhau trong bài khác",
