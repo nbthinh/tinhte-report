@@ -1,6 +1,43 @@
 export const reportListId = [
 
+
     
+    {
+        postId: "67257568",
+        reportReason: "Miệt thị, vu khống người khác một cách lộ liễu, mình không hề làm ác với shipper, người bán vé số, ...",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67257513",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần, vu khống người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67257513",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần, vu khống người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67257532",
+        reportReason: "Vào bài khắc tên spam nhảm, xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67257488",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần, spam nhảm trong bài cuhiep",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67257397",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần, spam nhảm trong bài cuhiep",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     {
         postId: "67257224",
         reportReason: "Qua bài mod Lê Quốc Khánh, thấy mình comment thì kiếm chuyện, xong qua bài đồng bọn chửi mình gạ này nọ",
@@ -34,30 +71,6 @@ export const reportListId = [
     {
         postId: "67256994",
         reportReason: "Tag đồng bọn vào cùng chửi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67071370",
-        reportReason: "Ăn cắp hình bài viết của mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67070781",
-        reportReason: "Ăn cắp hình bài viết của mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67069936",
-        reportReason: "Ăn cắp hình bài viết của mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67069332",
-        reportReason: "Ăn cắp hình bài viết của mình",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
@@ -341,7 +354,30 @@ export const reportListId = [
     // },
     
     
-
+// {
+    //     postId: "67071370",
+    //     reportReason: "Ăn cắp hình bài viết của mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67070781",
+    //     reportReason: "Ăn cắp hình bài viết của mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67069936",
+    //     reportReason: "Ăn cắp hình bài viết của mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67069332",
+    //     reportReason: "Ăn cắp hình bài viết của mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     // {
     //     postId: "67253599",
     //     reportReason: "Chụp cmt người khác, sửa tên, đăng nội dung kích động cãi nhau, dùng 1.840k sỉ nhục người khác",
