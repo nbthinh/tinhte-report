@@ -2,8 +2,15 @@ export const reportListId = [
 
 
     
+    
     {
         postId: "67257568",
+        reportReason: "Miệt thị, vu khống người khác một cách lộ liễu, mình không hề làm ác với shipper, người bán vé số, ...",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67257582",
         reportReason: "Miệt thị, vu khống người khác một cách lộ liễu, mình không hề làm ác với shipper, người bán vé số, ...",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
@@ -26,18 +33,18 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-    {
-        postId: "67257488",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, spam nhảm trong bài cuhiep",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67257397",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, spam nhảm trong bài cuhiep",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
+    // {
+    //     postId: "67257488",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, spam nhảm trong bài cuhiep",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67257397",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, spam nhảm trong bài cuhiep",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     {
         postId: "67257224",
         reportReason: "Qua bài mod Lê Quốc Khánh, thấy mình comment thì kiếm chuyện, xong qua bài đồng bọn chửi mình gạ này nọ",
