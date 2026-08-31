@@ -2,6 +2,12 @@ export const reportListId = [
 
     
     {
+        postId: "67262891",
+        reportReason: "Đăng fact nhảm, lung tung chỉ để xúc phạm họ tên người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67262809",
         reportReason: "Xúc phạm họ tên người khác nhiều lần, cay nghiệt, lên tinhte toàn chửi người khác",
         posterName: "",
