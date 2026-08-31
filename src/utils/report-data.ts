@@ -1,6 +1,18 @@
 export const reportListId = [
 
-
+    
+    {
+        postId: "67262809",
+        reportReason: "Xúc phạm họ tên người khác nhiều lần, cay nghiệt, lên tinhte toàn chửi người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67262646",
+        reportReason: "Cố ý bôi nhọ họ tên người khác 1 cách cay nghiệt",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     {
         postId: "67262632",
         reportReason: "Từ ngữ thiếu tinh tế, vô học, trù rủa nghề nghiệp người khác, bôi nhọ họ tên người khác",
