@@ -2,6 +2,24 @@ export const reportListId = [
 
     
     {
+        postId: "67263257",
+        reportReason: "Dùng nhiều tài khoản xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67263245",
+        reportReason: "Dùng hình ảnh có mình trong đó đăng bài gây cãi nhau, quấy rối, làm phiền mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67263233",
+        reportReason: "Dùng nhiều tài khoản làm phiền người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67263162",
         reportReason: "Vào bài cuhiep spam nhảm, xúc phạm người khác, kiếm chuyện",
         posterName: "",
