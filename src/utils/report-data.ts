@@ -3,6 +3,12 @@ export const reportListId = [
 
     
     {
+        postId: "67266548",
+        reportReason: "Bôi nhọ họ tên mình, trong khi sự việc nó nói chả liên quan gì mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67266373",
         reportReason: "Từ ngữ thiếu tinh tế, xúc phạm người khác 1 cách cay nghiệt",
         posterName: "",
