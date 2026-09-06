@@ -1,7 +1,36 @@
 export const reportListId = [
 
     
-    
+    {
+        postId: "67267407",
+        reportReason: "Chửi rủa, bôi nhọ họ tên người khác đến mức mất nhân tính, vô cảm",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67267396",
+        reportReason: "Chửi rủa, bôi nhọ họ tên người khác đến mức mất nhân tính, vô cảm",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67267389",
+        reportReason: "Chửi rủa, bôi nhọ họ tên người khác đến mức mất nhân tính, vô cảm",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67267326",
+        reportReason: "Chửi rủa, vu khống, xúc phạm người khác một cách cay nghiệt",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67267324",
+        reportReason: "Kích động chửi bới, xúc phạm, vu khống người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     {
         postId: "67267278",
         reportReason: "Lên tinh tế chỉ toàn chửi rủa người khác, kích động cãi nhau, gây sự với người khác",
