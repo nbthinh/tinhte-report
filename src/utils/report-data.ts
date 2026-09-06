@@ -1,90 +1,210 @@
 export const reportListId = [
 
     
+    
     {
-        postId: "67266871",
-        reportReason: "nguyễn ngọc thắng trù rủa người khác 1 cách cay nghiệt",
+        postId: "67267278",
+        reportReason: "Lên tinh tế chỉ toàn chửi rủa người khác, kích động cãi nhau, gây sự với người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67266862",
-        reportReason: "Toàn xúc phạm người khác trước, trong khi mình chả nói gì nó",
+        postId: "67267296",
+        reportReason: "Dùng từ ngữ thiếu tinh tế, chụp mũ, xúc phạm người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67266903",
-        reportReason: "Xúc phạm người khác, kích động đồng bọn xúc phạm mình",
+        postId: "67267284",
+        reportReason: "Lên tinh tế chỉ toàn chửi, kích động cãi nhau, xúc phạm họ tên người khác 1 cách cay nghiệt",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67266906",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, cay nghiệt",
+        postId: "67267262",
+        reportReason: "Chuyên đi xúc phạm họ tên người khác rồi còn đóng vai nạn nhân, gây cãi nhau",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67266914",
-        reportReason: "Hạ thấp nhân phẩm người khác 1 cách cay nghiệt, vô căn cứ",
+        postId: "67267259",
+        reportReason: "Lên tinh tế chỉ toàn chửi, kích động cãi nhau, xúc phạm họ tên người khác 1 cách cay nghiệt",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67248435",
-        reportReason: "Vu khống",
+        postId: "67267287",
+        reportReason: "Bôi nhọ họ tên, làm tổn hại danh dự người khác 1 cách cay nghiệt, kích động cãi nhau",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67266318",
-        reportReason: "Kích động chửi bới, xúc phạm người khác, đóng vai nạn nhân",
+        postId: "67267273",
+        reportReason: "Bôi nhọ họ tên, làm tổn hại danh dự người khác 1 cách cay nghiệt, kích động cãi nhau",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67266351",
-        reportReason: "Miệt thị mình dơ này dơ nọ. Có ai làm gì nó đâu, mà miệt thị, xúc phạm người khác quá trời",
+        postId: "67267253",
+        reportReason: "Bôi nhọ họ tên, làm tổn hại danh dự người khác 1 cách cay nghiệt, kích động cãi nhau",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67266362",
-        reportReason: "Miệt thị người khác 1 cách cay nghiệt, trong khi chả ai làm gì nó",
+        postId: "67267306",
+        reportReason: "Bôi nhọ họ tên, làm tổn hại danh dự người khác 1 cách cay nghiệt, kích động cãi nhau",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67266359",
-        reportReason: "Xúc phạm người khác trước còn ăn vạ, chửi người ta dơ này dơ nọ",
+        postId: "67267260",
+        reportReason: "Bôi nhọ họ tên, làm tổn hại danh dự người khác 1 cách cay nghiệt",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67266328",
-        reportReason: "Đòi nợ người khác 1.840k một cách vô lý, miệt thị họ tên người khác",
+        postId: "67267246",
+        reportReason: "Bôi nhọ họ tên, làm tổn hại danh dự người khác 1 cách cay nghiệt",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67266334",
-        reportReason: "Xúc phạm họ tên người khác 1 cách cay nghiệt, kêu gọi đồng bọn vào cùng chửi",
+        postId: "67267237",
+        reportReason: "Bôi nhọ họ tên và vu khống người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67266373",
-        reportReason: "Viết lách chửi tục. Từ ngữ thiếu tinh tế, xúc phạm người khác 1 cách cay nghiệt",
+        postId: "67267294",
+        reportReason: "Chuyên đi vu khống, xúc phạm họ tên người khác một cách cay nghiệt",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67266548",
-        reportReason: "Bôi nhọ họ tên mình, trong khi sự việc nó nói chả liên quan gì mình",
+        postId: "67267156",
+        reportReason: "Bôi nhọ họ tên người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67267154",
+        reportReason: "Mình nhắn tin nhầm series tin nhắn cũ, mà nó đăng bài gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+
+    {
+        postId: "67267091",
+        reportReason: "Chửi rủa người khác quá độc địa trong khi mình chả nói gì nó",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67267101",
+        reportReason: "Không những bắt nạt mà còn sỉ nhục người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67267068",
+        reportReason: "Bôi nhọ họ tên mình một cách cay nghiệt, trong khi mình chả làm gì nó",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+
+
+    
+
+    // {
+    //     postId: "67266998",
+    //     reportReason: "Miệt thị người khác 1 cách cay nghiệt",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266871",
+    //     reportReason: "nguyễn ngọc thắng trù rủa người khác 1 cách cay nghiệt",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266862",
+    //     reportReason: "Toàn xúc phạm người khác trước, trong khi mình chả nói gì nó",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266903",
+    //     reportReason: "Xúc phạm người khác, kích động đồng bọn xúc phạm mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266906",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, cay nghiệt",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266914",
+    //     reportReason: "Hạ thấp nhân phẩm người khác 1 cách cay nghiệt, vô căn cứ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67248435",
+    //     reportReason: "Vu khống",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266318",
+    //     reportReason: "Kích động chửi bới, xúc phạm người khác, đóng vai nạn nhân",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266351",
+    //     reportReason: "Miệt thị mình dơ này dơ nọ. Có ai làm gì nó đâu, mà miệt thị, xúc phạm người khác quá trời",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266362",
+    //     reportReason: "Miệt thị người khác 1 cách cay nghiệt, trong khi chả ai làm gì nó",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266359",
+    //     reportReason: "Xúc phạm người khác trước còn ăn vạ, chửi người ta dơ này dơ nọ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266328",
+    //     reportReason: "Đòi nợ người khác 1.840k một cách vô lý, miệt thị họ tên người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266334",
+    //     reportReason: "Xúc phạm họ tên người khác 1 cách cay nghiệt, kêu gọi đồng bọn vào cùng chửi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266373",
+    //     reportReason: "Viết lách chửi tục. Từ ngữ thiếu tinh tế, xúc phạm người khác 1 cách cay nghiệt",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67266548",
+    //     reportReason: "Bôi nhọ họ tên mình, trong khi sự việc nó nói chả liên quan gì mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
 
 
 
