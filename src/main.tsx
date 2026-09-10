@@ -10,22 +10,22 @@ import { RouterProvider } from 'react-router/dom'
 import HomeComponent from './components/home/HomeComponent.tsx';
 import DemoComponent from './components/DemoComponent/DemoComponent.tsx';
 
-const oauthToken = '517b064d9fe7724ac181d7840341a5ee72c2ae2d';
+const oauthToken = '94ad521142a89e14738080c6a5eb7f70fa7fc4c0';
 let i = 0;
-setInterval(async () => {
-  let numOfRetry = 0;
-  while (numOfRetry < 3) {
-    const isReportSuccess = await report(i, oauthToken);
-    if (isReportSuccess) {
-      numOfRetry = 0;
-      break;
-    }
-    else {
-      numOfRetry += 1;
-    }
-  }
-  i = i + 1;
-}, 5000);
+// setInterval(async () => {
+//   let numOfRetry = 0;
+//   while (numOfRetry < 3) {
+//     const isReportSuccess = await report(i, oauthToken);
+//     if (isReportSuccess) {
+//       numOfRetry = 0;
+//       break;
+//     }
+//     else {
+//       numOfRetry += 1;
+//     }
+//   }
+//   i = i + 1;
+// }, 5000);
 
 const router = createBrowserRouter([
   {
