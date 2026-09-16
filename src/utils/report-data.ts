@@ -1,5 +1,12 @@
 export const reportListId = [
     
+
+    {
+        postId: "67277134",
+        reportReason: "Vào bài cuhiep gây sự, bôi nhọ họ tên người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     {
         postId: "67276908",
         reportReason: "Dùng hình ảnh comment người khác để đăng nội dung kích động chửi bới, tag người khác bừa bãi vào để xúc phạm",
