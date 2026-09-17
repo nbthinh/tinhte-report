@@ -37,24 +37,25 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
+    {
+        postId: "67278109",
+        reportReason: "Lôi họ tên người khác ra chửi bới vô cớ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    }, 
+    {
+        postId: "67278113",
+        reportReason: "Bôi nhọ họ tên, xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     
 
     // Tạm thời không report cái này
-    // {
-    //     postId: "67278109",
-    //     reportReason: "Lôi họ tên người khác ra chửi bới vô cớ",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    // },  
+     
     // {
     //     postId: "67278147",
     //     reportReason: "Dùng từ ngữ có tính chất chửi bới, xúc phạm người khác",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    // },
-    // {
-    //     postId: "67278113",
-    //     reportReason: "Bôi nhọ họ tên, xúc phạm người khác",
     //     posterName: "",
     //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     // },
