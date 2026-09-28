@@ -55,18 +55,6 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
     {
-        postId: "67287136",
-        reportReason: "Tag mình bừa bãi vào để chửi bới, sỉ nhục",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67287300",
-        reportReason: "Tag mình bừa bãi vào để chửi bới, xúc phạm họ tên mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
         postId: "67287022",
         reportReason: "Vu khống người khác nợ nần, chửi bới liên tục mình trên tinhte",
         posterName: "",
@@ -100,8 +88,23 @@ export const reportListId = [
 
 
 
+
+
+
     
 
+    // {
+    //     postId: "67287136",
+    //     reportReason: "Tag mình bừa bãi vào để chửi bới, sỉ nhục",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67287300",
+    //     reportReason: "Tag mình bừa bãi vào để chửi bới, xúc phạm họ tên mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     // {
     //     postId: "67286998",
     //     reportReason: "Vào bài Khắc Tên kiếm chuyện, bôi nhọ họ tên người khác",
