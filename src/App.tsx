@@ -39,6 +39,20 @@ function App() {
             <HandmadeReportCompoent />
           </div>
         </div>
+        {/* <div className="row" style={{textAlign: 'left'}}>
+          <div className="col-12">
+            <div className="form-group">
+              <label style={{fontWeight: 'bold'}}>Kết nối tài khoản</label>
+              <input type="text" className="form-control mt-2" placeholder="Mời bạn nhập token" />
+            </div>
+            <div className="mt-2" style={{display: 'flex', gap: '5px'}}>
+              <button type="submit" className="btn btn-primary ">Kết nối tài khoản</button>
+              <button type="submit" className="btn btn-danger">Reset tài khoản</button>
+              <button type="submit" className="btn btn-success">Chạy report</button>
+            
+            </div> 
+          </div>
+        </div> */}
         
       </div>
       <Link to="">Home</Link>
