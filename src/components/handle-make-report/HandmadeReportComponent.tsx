@@ -7,7 +7,7 @@ function HandmadeReportCompoent() {
     const [oauthToken, setOauthToken] = useState<string>(() => {
         return sessionStorage.getItem("handMadeReportAccount") || "Nhập tên tài khoản vào để kết nối tự động";
     });
-    const [postId, setPostId] = useState("67296869");
+    const [postId, setPostId] = useState("67296872");
     const [reportReason, setReportReason] = useState("Khác");
     useEffect(() => {
         // const handMadeReportAccount = localStorage.getItem("handMadeReportAccount");
@@ -45,6 +45,7 @@ function HandmadeReportCompoent() {
         console.log("field = ", field);
         if (field === 'oauthToken') {
             setOauthToken(event.target.value);
+            sessionStorage.setItem("handMadeReportAccount", oauthToken);
         }
         else if (field === 'postId') {
             setPostId(event.target.value);
@@ -52,11 +53,6 @@ function HandmadeReportCompoent() {
         else {
             setReportReason(event.target.value);
         }
-    }
-
-    function handleConnectAccount() {
-        console.log("hello world = ", oauthToken);
-        sessionStorage.setItem("handMadeReportAccount", oauthToken);
     }
 
     return (
@@ -72,7 +68,6 @@ function HandmadeReportCompoent() {
                         value={oauthToken}
                         onChange={(evt) => handleChangeValue(evt, 'oauthToken')}
                     />
-                    <button className="btn btn-outline-success mt-2" onClick={() => handleConnectAccount()}>Connect</button>
                 </div>
 
                 <div className="form-group">
