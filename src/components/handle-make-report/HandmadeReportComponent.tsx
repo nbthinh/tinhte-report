@@ -1,13 +1,22 @@
 import axios from "axios";
 import "./HandmadeReportComponent.css"
 import { useEffect, useState } from "react";
+import { toast } from "react-toastify";
 function HandmadeReportCompoent() {
-
-    const [oauthToken, setOauthToken] = useState("f70238e5609386584b9541928825bf3924cec63f");
-    const [postId, setPostId] = useState("67241745");
+    // 
+    const [oauthToken, setOauthToken] = useState<string>(() => {
+        return sessionStorage.getItem("handMadeReportAccount") || "Nhập tên tài khoản vào để kết nối tự động";
+    });
+    const [postId, setPostId] = useState("67296869");
     const [reportReason, setReportReason] = useState("Khác");
     useEffect(() => {
-
+        // const handMadeReportAccount = localStorage.getItem("handMadeReportAccount");
+        // if (handMadeReportAccount) {
+        //     setOauthToken(handMadeReportAccount);
+        // }
+        // else {
+        //     setOauthToken("");
+        // }
     }, []);
 
     async function handmadeReport () {
@@ -21,6 +30,11 @@ function HandmadeReportCompoent() {
                 oauth_token: oauthToken
             });
             console.log("res = ", res);
+            if (res && res.status === 200) {
+                if (res.data && res.data.system_info && res.data.system_info.visitor_id) {
+                    toast.success(`${res.data.system_info.visitor_id} : ${postId}`);
+                }
+            }
         }, 5000);
         
         
@@ -40,6 +54,11 @@ function HandmadeReportCompoent() {
         }
     }
 
+    function handleConnectAccount() {
+        console.log("hello world = ", oauthToken);
+        sessionStorage.setItem("handMadeReportAccount", oauthToken);
+    }
+
     return (
         <>
             <div className="handmade-report-container" style={{textAlign: 'left'}}>
@@ -53,6 +72,7 @@ function HandmadeReportCompoent() {
                         value={oauthToken}
                         onChange={(evt) => handleChangeValue(evt, 'oauthToken')}
                     />
+                    <button className="btn btn-outline-success mt-2" onClick={() => handleConnectAccount()}>Connect</button>
                 </div>
 
                 <div className="form-group">
