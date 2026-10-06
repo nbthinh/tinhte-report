@@ -3,6 +3,18 @@ export const reportListId = [
     
     
     {
+        postId: "67296918",
+        reportReason: "Vào bài mình kiếm chuyện, gây cãi nhau, gọi họ tên mình ra và gán món nợ 1.840k, gây ảnh hưởng bài viết mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67296923",
+        reportReason: "Vào bài mình chửi bới, bôi nhọ họ tên mình, ảnh hưởng bài viết mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
         postId: "67296870",
         reportReason: "Vu khống, chửi bới, kích động gây cãi nhau quá rõ ràng, lộ liễu",
         posterName: "",
