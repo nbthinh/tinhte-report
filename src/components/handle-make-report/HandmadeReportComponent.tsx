@@ -32,7 +32,7 @@ function HandmadeReportCompoent() {
         if (field === 'oauthToken') {
             setOauthToken(event.target.value);
         }
-        else if (field === postId) {
+        else if (field === 'postId') {
             setPostId(event.target.value);
         }
         else {
@@ -43,6 +43,7 @@ function HandmadeReportCompoent() {
     return (
         <>
             <div className="handmade-report-container" style={{textAlign: 'left'}}>
+                <h3 className="handmade-report-title">Report thủ công</h3>
                 <div className="form-group">
                     <label >Oauth Token</label>
                     <input
