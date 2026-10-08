@@ -1,7 +1,60 @@
 export const reportListId = [
 
 
+    {
+        postId: "67299030",
+        reportReason: "Vào bài mình spam, kiếm chuyện",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67299033",
+        reportReason: "Vào bài mình spam, vu khống bừa bãi, kích động cãi nhau. Mình không hề nói chuyện với nó.",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67299231",
+        reportReason: "Vào bài mình spam, kích động cãi nhau, bôi nhọ họ tên mình nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67299347",
+        reportReason: "Spam bài mình và kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67299360",
+        reportReason: "Vào bài mình chửi bới, đòi nợ vô cớ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67299343",
+        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67298920",
+        reportReason: "Chửi bới, xúc phạm, vu khống mình nợ nần 1.840k 1 cách bừa bãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    {
+        postId: "67298939",
+        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác rất nhiều lần, lên tinhte chỉ để xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
     
+
+
+
+
+
     {
         postId: "67298296",
         reportReason: "Lên tinhte toàn kích động cãi nhau, chửi bới, xúc phạm người khác",
@@ -26,12 +79,12 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-    {
-        postId: "67028043",
-        reportReason: "Tag mình bừa bãi vào chửi bới, tiết lộ thông tin số điện thoại mình, vi phạm quyền riêng tư",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
+    // {
+    //     postId: "67028043",
+    //     reportReason: "Tag mình bừa bãi vào chửi bới, tiết lộ thông tin số điện thoại mình, vi phạm quyền riêng tư",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
     {
         postId: "67297800",
         reportReason: "Vào bài mình phát ngôn bừa bãi, thiếu tinh tế, trù ẻo và gây tranh cãi",
