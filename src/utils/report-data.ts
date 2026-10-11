@@ -81,7 +81,13 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
     },
-
+    {
+        postId: "67301800",
+        reportReason: "Ăn vạ bừa bãi, kích động cãi nhau 1 cách không liên quan. Nó chửi mình trước nên mình mới nói, đâu có tự nhiên mình nói",
+        posterName: "",
+        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    },
+    
 
 
 
