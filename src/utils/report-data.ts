@@ -1,25 +1,20 @@
 export const reportListId = [
     
     
-
+    
+    {
+        postId: "67306802",
+        reportReason: "Vào bài mình kiếm chuyện, gây cãi nhau vô cớ, bôi nhọ họ tên mình bừa bãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    },
     {
         postId: "67304730",
         reportReason: "Vào bài mình gây hấn, chửi bới, bôi nhọ họ tên người khác, kích động chửi bới trong bài mình",
         posterName: "",
         url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
     },
-    {
-        postId: "67304746",
-        reportReason: "Vào bài mình gây hấn, kích động cãi nhau, xuyên tạc, xúc phạm người khác vô cớ",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
-    {
-        postId: "67304734",
-        reportReason: "Vào bài mình hùa theo gây hấn, xúc phạm, gọi họ tên người khác bừa bãi, gây hại danh dự người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
+   
     {
         postId: "67305841",
         reportReason: "Bôi nhọ họ tên mình một cách không liên quan, vô cớ",
@@ -80,7 +75,13 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/dem-ngoai-o.4183649/"
     },
-
+    {
+        postId: "67305839",
+        reportReason: "Kích động cãi nhau, bôi nhọ họ tên mình nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dem-ngoai-o.4183649/"
+    },
+    
     
 
     
@@ -1186,7 +1187,42 @@ export const reportListId = [
 
 
 
-
+// {
+    //     postId: "67306750",
+    //     reportReason: "Vào bài mình kiếm chuyện, gây cãi nhau vô cớ, bôi nhọ họ tên mình bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    // {
+    //     postId: "67306743",
+    //     reportReason: "Vào bài mình kích động cãi nhau, xúc phạm nghề nghiệp người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    // {
+    //     postId: "67306708",
+    //     reportReason: "Vào bài mình vu khống vô cớ, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    // {
+    //     postId: "67306503",
+    //     reportReason: "Vu khống, xuyên tạc, kích động cãi nhau, bôi nhọ họ tên người khác nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    // {
+    //     postId: "67304746",
+    //     reportReason: "Vào bài mình gây hấn, kích động cãi nhau, xuyên tạc, xúc phạm người khác vô cớ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    // {
+    //     postId: "67304734",
+    //     reportReason: "Vào bài mình hùa theo gây hấn, xúc phạm, gọi họ tên người khác bừa bãi, gây hại danh dự người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
     // {
     //     postId: "67301721",
     //     reportReason: "Vào bài mình chửi bới, kích động cãi nhau, bôi nhọ họ tên mình nhiều lần",
