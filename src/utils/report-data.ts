@@ -44,12 +44,7 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
     },
-    {
-        postId: "67307471",
-        reportReason: "Vào bài mình quấy rối, chửi bới, kích động cãi nhau nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
+   
     {
         postId: "67305828",
         reportReason: "Vu khống mình gửi link lạ, kích động cãi nhau, bôi nhọ họ tên mình nhiều lần",
@@ -874,7 +869,12 @@ export const reportListId = [
 
 
     
-    
+    // {
+    //     postId: "67307471",
+    //     reportReason: "Vào bài mình quấy rối, chửi bới, kích động cãi nhau nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
     // {
     //     postId: "67296068",
     //     reportReason: "Tag đồng bọn vào bài mình gây cãi nhau, chửi bới trên tinhte",
