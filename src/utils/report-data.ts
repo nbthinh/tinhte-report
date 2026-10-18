@@ -1,6 +1,5 @@
 export const reportListId = [
     
-    
     {
         postId: "67307920",
         reportReason: "Vào bài mình spam hàng loạt cùng 1 nội dung, ăn vạ vô cớ, trong khi nó toàn chửi mình trước",
@@ -10,6 +9,18 @@ export const reportListId = [
     {
         postId: "67307922",
         reportReason: "Vào bài mình kiếm chuyện bừa bãi, ăn vạ vô cớ, spam hàng loạt cùng 1 nội dung",
+        posterName: "",
+        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    },
+    {
+        postId: "67308162",
+        reportReason: "Vu khống, kích động chửi bới trên tinhte",
+        posterName: "",
+        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    },
+    {
+        postId: "67308150",
+        reportReason: "Vào bài mình spam hàng loạt cùng 1 nội dung, ăn vạ vô cớ, đóng vai nạn nhân",
         posterName: "",
         url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
     },
