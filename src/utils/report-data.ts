@@ -26,7 +26,7 @@ export const reportListId = [
     },
     {
         postId: "67308013",
-        reportReason: "Miệt thị, vu khống mình đào lửa, bôi nhọ nghiêm trọng danh dự người khác",
+        reportReason: "Miệt thị, vu khống mình đào lửa, ăn bám, bôi nhọ nghiêm trọng danh dự người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
     },
