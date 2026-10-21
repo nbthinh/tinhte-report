@@ -90,7 +90,7 @@ export const reportListId = [
     },
     {
         postId: "67311311",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, miệt thị người khác quá mức",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần, đòi nợ vô cớ, miệt thị người khác quá mức",
         posterName: "",
         url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
     },
