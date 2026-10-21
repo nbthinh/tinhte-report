@@ -63,6 +63,13 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
     },
     
+    
+    {
+        postId: "67311299",
+        reportReason: "Comment nhảm, không liên quan, kích động chửi bới trên tinhte",
+        posterName: "",
+        url: "https://tinhte.vn/thread/tra-chieu.4185868/"
+    },
     {
         postId: "67311215",
         reportReason: "Kích động chửi bới, xúc phạm, bôi nhọ nghiêm trọng danh dự người khác, bêu rếu họ tên người khác bừa bãi",
