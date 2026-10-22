@@ -1,86 +1,41 @@
 export const reportListId = [
 
-
-    {
-        postId: "67304730",
-        reportReason: "Vào bài mình kiếm chuyện gây sự, bôi nhọ họ tên mình/người nhà mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
     
     {
-        postId: "67311391",
-        reportReason: "Vào bài viết mình kiếm chuyện, quấy nhiễu, bôi nhọ họ tên mình/người nhà mình",
+        postId: "67312078",
+        reportReason: "Vào bài mình kiếm chuyện gây sự, cố tình bôi nhọ họ tên mình/người nhà mình, kích động cãi nhau",
         posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
-    {
-        postId: "67311136",
-        reportReason: "Vào bài viết mình kích động cãi nhau, gây sự, bôi nhọ họ tên mình/người nhà mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
-    {
-        postId: "67310076",
-        reportReason: "Vào bài mình kích động cãi nhau, bôi nhọ họ tên mình/người nhà mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
-    {
-        postId: "67310094",
-        reportReason: "Vào bài mình kích động, gây sự, gây cãi nhau, bôi nhọ họ tên mình/người nhà mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
-    {
-        postId: "67310127",
-        reportReason: "Vào bài mình kích động, quấy nhiễu, bôi nhọ họ tên mình nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
     {
         postId: "67308384",
-        reportReason: "Vào bài mình spam, chửi bới, xúc phạm, bôi nhọ họ tên mình nhiều lần",
+        reportReason: "Vào bài mình kiếm chuyện chửi bới, bôi nhọ họ tên mình/người nhà mình, klq chủ đề sản phẩm khắc tên mình đăng",
+        posterName: "",
+        url: "https://tinhte.vn/thread/razer-joro.4185128/"
+    },
+    {
+        postId: "67310076",
+        reportReason: "Vào bài mình kiếm chuyện, gây sự vô cớ, bôi nhọ họ tên mình/người nhà mình, kích động cãi nhau nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/release-candidate.4185615/"
+    },
+    {
+        postId: "67310094",
+        reportReason: "Vào bài mình kích động, gây sự, gây cãi nhau là chính, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/release-candidate.4185615/"
+    },
+    {
+        postId: "67310137",
+        reportReason: "Vào bài mình quấy rối vô cớ, chửi bới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/release-candidate.4185615/"
+    },
+    {
+        postId: "67311960",
+        reportReason: "Vào bài mod quấy rối mình, kích động cãi nhau, bôi nhọ họ tên mình/người nhà mình",
         posterName: "",
         url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
-    {
-        postId: "67309376",
-        reportReason: "Vào bài mình gây cãi nhau nhiều lần, bôi nhọ họ tên người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
-    {
-        postId: "67309379",
-        reportReason: "Vào bài mình buông lời cay nghiệt, miệt thị bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
-    {
-        postId: "67308960",
-        reportReason: "Vào bài mình gây hấn, tag đồng bọn vào cùng kiếm chuyện",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
-    
-    
-    {
-        postId: "67311299",
-        reportReason: "Comment nhảm, không liên quan, kích động chửi bới trên tinhte",
-        posterName: "",
-        url: "https://tinhte.vn/thread/tra-chieu.4185868/"
-    },
-    {
-        postId: "67311215",
-        reportReason: "Kích động chửi bới, xúc phạm, bôi nhọ nghiêm trọng danh dự người khác, bêu rếu họ tên người khác bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/tra-chieu.4185868/"
-    },
-    {
-        postId: "67311225",
-        reportReason: "Dùng toàn lời lẽ cay nghiệt miệt thị, xúc phạm mình, bôi nhọ họ tên mình/người nhà mình, lên tinhte chỉ toàn xúc phạm người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/tra-chieu.4185868/"
     },
     {
         postId: "67311315",
@@ -89,64 +44,36 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
     },
     {
-        postId: "67311311",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, đòi nợ vô cớ, miệt thị người khác quá mức",
+        postId: "67311215",
+        reportReason: "Chửi bới người khác vô cớ, bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau nhiều lần",
         posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+        url: "https://tinhte.vn/thread/tra-chieu.4185868/"
     },
     {
-        postId: "67311039",
-        reportReason: "Chụp nội dung bài viết mình đăng comment kích động cãi nhau, chửi bới, xúc phạm",
+        postId: "67311225",
+        reportReason: "Chửi bới, xúc phạm người khác một cách vô cớ, tự phát, bôi nhọ họ tên người khác nhiều lần",
         posterName: "",
-        url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
+        url: "https://tinhte.vn/thread/tra-chieu.4185868/"
     },
     {
-        postId: "67311109",
-        reportReason: "Chửi bới, xúc phạm người khác tuỳ tiện, bừa bãi",
+        postId: "67309418",
+        reportReason: "Hùa theo bôi nhọ, xúc phạm họ tên người khác nhiều lần khi chưa biết đầu đuôi sự việc thế nào",
         posterName: "",
-        url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
+        url: "https://tinhte.vn/thread/ngay-lam-3-tram-ruoi.4185395/"
     },
-    {
-        postId: "67311119",
-        reportReason: "Xúc phạm người khác 1 cách xảo trá",
-        posterName: "",
-        url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
-    },
-    {
-        postId: "67311132",
-        reportReason: "Chửi bới, xúc phạm, miệt thị người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
-    },
-    {
-        postId: "67311130",
-        reportReason: "Dùng toàn lời lẽ cay nghiệt miệt thị, xúc phạm người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
-    },
-    {
-        postId: "67311175",
-        reportReason: "Chửi bới, xúc phạm người khác lại còn ăn vạ, bôi nhọ họ tên người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
-    },
-    {
-        postId: "67311206",
-        reportReason: "Chụp mũ, vu khống, bôi nhọ họ tên người khác nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
-    },
+
+
+    
+    
+    
+    
+    
     
 
 
 
 
-    {
-        postId: "67309418",
-        reportReason: "Hùa theo bôi nhọ, xúc phạm họ tên người khác khi chưa biết đầu đuôi sự việc thế nào",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
+    
     {
         postId: "67308502",
         reportReason: "Kích động cãi nhau, bôi nhọ họ tên người khác nhiều lần",
@@ -166,6 +93,11 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
     },
+
+
+
+
+
 
 
 
@@ -192,6 +124,25 @@ export const reportListId = [
     // {
     //     postId: "67311111",
     //     reportReason: "Kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
+    // },
+
+    // {
+    //     postId: "67311299",
+    //     reportReason: "Comment nhảm, không liên quan, kích động chửi bới trên tinhte",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/tra-chieu.4185868/"
+    // },
+    // {
+    //     postId: "67311132",
+    //     reportReason: "Chửi bới, xúc phạm, miệt thị người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
+    // },
+    // {
+    //     postId: "67311130",
+    //     reportReason: "Dùng toàn lời lẽ cay nghiệt miệt thị, xúc phạm người khác",
     //     posterName: "",
     //     url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
     // },
@@ -792,7 +743,52 @@ export const reportListId = [
 
 
 
-
+    // {
+    //     postId: "67304730",
+    //     reportReason: "Vào bài mình kiếm chuyện gây sự, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    
+    // {
+    //     postId: "67311391",
+    //     reportReason: "Vào bài viết mình kiếm chuyện, quấy nhiễu, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    // {
+    //     postId: "67311136",
+    //     reportReason: "Vào bài viết mình kích động cãi nhau, gây sự, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    
+    
+    // {
+    //     postId: "67310127",
+    //     reportReason: "Vào bài mình kích động, quấy nhiễu, bôi nhọ họ tên mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    
+    // {
+    //     postId: "67309376",
+    //     reportReason: "Vào bài mình gây cãi nhau nhiều lần, bôi nhọ họ tên người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    // {
+    //     postId: "67309379",
+    //     reportReason: "Vào bài mình buông lời cay nghiệt, miệt thị bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    // {
+    //     postId: "67308960",
+    //     reportReason: "Vào bài mình gây hấn, tag đồng bọn vào cùng kiếm chuyện",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
 
 
 
@@ -1297,6 +1293,19 @@ export const reportListId = [
 
 
 
+
+    // {
+    //     postId: "67311175",
+    //     reportReason: "Chửi bới, xúc phạm người khác lại còn ăn vạ, bôi nhọ họ tên người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
+    // },
+    // {
+    //     postId: "67311206",
+    //     reportReason: "Chụp mũ, vu khống, bôi nhọ họ tên người khác nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
+    // },
     // {
     //     postId: "67309661",
     //     reportReason: "Vào bài mình kích động chửi bới, bôi nhọ họ tên mình nhiều lần",
@@ -1476,7 +1485,30 @@ export const reportListId = [
 
 
 
-
+    // {
+    //     postId: "67311311",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, đòi nợ vô cớ, miệt thị người khác quá mức",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    // {
+    //     postId: "67311039",
+    //     reportReason: "Chụp nội dung bài viết mình đăng comment kích động cãi nhau, chửi bới, xúc phạm",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
+    // },
+    // {
+    //     postId: "67311109",
+    //     reportReason: "Chửi bới, xúc phạm người khác tuỳ tiện, bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
+    // },
+    // {
+    //     postId: "67311119",
+    //     reportReason: "Xúc phạm người khác 1 cách xảo trá",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/bay-sach-comment.4185776/"
+    // },
     // {
     //     postId: "67306802",
     //     reportReason: "Vào bài mình kiếm chuyện bừa bãi, bôi nhọ họ tên mình 1 cách cay nghiệt",
