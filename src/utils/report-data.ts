@@ -1,88 +1,67 @@
 export const reportListId = [
 
-
     
     {
-        postId: "67312439",
-        reportReason: "Kích động cãi nhau, bôi nhọ họ tên người khác nhiều lần, xúc phạm người khác",
+        postId: "67312106",
+        reportReason: "Vào bài mình kiếm chuyện gây sự, kích động cãi nhau, bôi nhọ họ tên mình bừa bãi",
         posterName: "",
-        url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
     {
-        postId: "67312458",
-        reportReason: "Kích động cãi nhau, bôi nhọ họ tên người khác nhiều lần",
+        postId: "67312425",
+        reportReason: "Vào bài mình cố tình gây sự, bôi nhọ họ tên mình/người nhà mình",
         posterName: "",
-        url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
     {
-        postId: "67312470",
-        reportReason: "Kích động cãi nhau, bôi nhọ họ tên người khác quá nhiều lần",
+        postId: "67311960",
+        reportReason: "Vào bài mod kiếm chuyện trong comment của mình, bôi nhọ họ tên mình/người nhà mình",
         posterName: "",
-        url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
     },
     {
-        postId: "67312482",
-        reportReason: "Xúc phạm, bôi nhọ họ tên người khác nhiều lần, vu khống người khác",
+        postId: "67312669",
+        reportReason: "Vào bài người khác bôi nhọ họ tên mình vô cớ, kích động cãi nhau",
         posterName: "",
-        url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
     {
-        postId: "67312501",
-        reportReason: "Kích động cãi nhau, xúc phạm họ tên người khác nhiều lần",
+        postId: "67312538",
+        reportReason: "Gọi tên mình ra, dùng lời lẽ phỉ báng, kích động cãi nhau",
         posterName: "",
-        url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
     {
-        postId: "67312521",
-        reportReason: "Kích động cãi nhau, quấy rối, xúc phạm họ tên người khác nhiều lần",
+        postId: "67312587",
+        reportReason: "Chụp comment của mình đăng tuỳ tiện kích động cãi nhau, chửi bới",
         posterName: "",
-        url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
     {
-        postId: "67312556",
-        reportReason: "Chửi bới, xúc phạm người khác nhiều lần, bôi nhọ họ tên người khác, đánh tráo khái niệm",
+        postId: "67312637",
+        reportReason: "Dùng lời lẽ cay nghiệt quy chụp, xúc phạm người khác",
         posterName: "",
-        url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
     {
-        postId: "67312539",
-        reportReason: "Dùng thông tin bài viết của mình kích động cãi nhau",
+        postId: "67312638",
+        reportReason: "Dùng lời lẽ cay nghiệt quy chụp, xúc phạm người khác",
         posterName: "",
-        url: "https://tinhte.vn/thread/can-than-la-tren-het.4186344/"
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
     {
-        postId: "67312559",
-        reportReason: "Bôi nhọ họ tên mình 1 cách không liên quan",
+        postId: "67311315",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần, dùng nhiều từ ngữ khó nghe nhục mạ người khác",
         posterName: "",
-        url: "https://tinhte.vn/thread/can-than-la-tren-het.4186344/"
+        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
     },
     {
-        postId: "67312503",
-        reportReason: "Vào bài mình vu khống bừa bãi, kích động cãi nhau",
+        postId: "67312630",
+        reportReason: "Cố tình xúc phạm, bôi nhọ họ tên mình trong bài người khác",
         posterName: "",
-        url: "https://tinhte.vn/thread/can-than-la-tren-het.4186344/"
-    },
-    {
-        postId: "67312529",
-        reportReason: "Vào bài mình vu khống bừa bãi, xuyên tạc, bôi nhọ họ tên mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/can-than-la-tren-het.4186344/"
-    },
-    {
-        postId: "67312530",
-        reportReason: "Vào bài mình vu khống bừa bãi, vu khống người khác đào lửa",
-        posterName: "",
-        url: "https://tinhte.vn/thread/can-than-la-tren-het.4186344/"
-    },
-    {
-        postId: "67312536",
-        reportReason: "Vào bài mình vu khống bừa bãi, xúc phạm người khác quá mức, bôi nhọ họ tên người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/can-than-la-tren-het.4186344/"
+        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
     },
     
-    
-
     
     
     
@@ -125,12 +104,7 @@ export const reportListId = [
     //     posterName: "",
     //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     // },
-    // {
-    //     postId: "67312106",
-    //     reportReason: "Vào bài mình kiếm chuyện gây sự, cố tình bôi nhọ họ tên mình/người nhà mình, kích động cãi nhau trên tinhte",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    // },
+    
     // {
     //     postId: "67312169",
     //     reportReason: "Vào bài mình spam, kích động cãi nhau, ko liên quan bài mình, bôi nhọ họ tên mình nhiều lần",
@@ -170,18 +144,8 @@ export const reportListId = [
     //     posterName: "",
     //     url: "https://tinhte.vn/thread/release-candidate.4185615/"
     // },
-    // {
-    //     postId: "67311960",
-    //     reportReason: "Vào bài mod quấy rối mình, kích động cãi nhau, bôi nhọ họ tên mình/người nhà mình",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    // },
-    // {
-    //     postId: "67311315",
-    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, dùng nhiều từ ngữ khó nghe nhục mạ người khác",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    // },
+    
+    
     // {
     //     postId: "67311215",
     //     reportReason: "Chửi bới người khác vô cớ, bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau nhiều lần",
@@ -1624,6 +1588,92 @@ export const reportListId = [
 
 
 
+
+    // {
+    //     postId: "67312634",
+    //     reportReason: "Vào bài mình chửi bới, bôi nhọ họ tên mình, vu khống mình lừa đảo",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+    // },
+    
+    // {
+    //     postId: "67312439",
+    //     reportReason: "Kích động cãi nhau, bôi nhọ họ tên người khác nhiều lần, xúc phạm người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+    // },
+    // {
+    //     postId: "67312458",
+    //     reportReason: "Kích động cãi nhau, bôi nhọ họ tên người khác nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+    // },
+    // {
+    //     postId: "67312470",
+    //     reportReason: "Kích động cãi nhau, bôi nhọ họ tên người khác quá nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+    // },
+    // {
+    //     postId: "67312482",
+    //     reportReason: "Xúc phạm, bôi nhọ họ tên người khác nhiều lần, vu khống người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+    // },
+    // {
+    //     postId: "67312501",
+    //     reportReason: "Kích động cãi nhau, xúc phạm họ tên người khác nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+    // },
+    // {
+    //     postId: "67312521",
+    //     reportReason: "Kích động cãi nhau, quấy rối, xúc phạm họ tên người khác nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+    // },
+    // {
+    //     postId: "67312556",
+    //     reportReason: "Chửi bới, xúc phạm người khác nhiều lần, bôi nhọ họ tên người khác, đánh tráo khái niệm",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sang-mua-dam.4186275/"
+    // },
+    // {
+    //     postId: "67312539",
+    //     reportReason: "Dùng thông tin bài viết của mình kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/can-than-la-tren-het.4186344/"
+    // },
+    // {
+    //     postId: "67312559",
+    //     reportReason: "Bôi nhọ họ tên mình 1 cách không liên quan",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/can-than-la-tren-het.4186344/"
+    // },
+    // {
+    //     postId: "67312503",
+    //     reportReason: "Vào bài mình vu khống bừa bãi, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/can-than-la-tren-het.4186344/"
+    // },
+    // {
+    //     postId: "67312529",
+    //     reportReason: "Vào bài mình vu khống bừa bãi, xuyên tạc, bôi nhọ họ tên mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/can-than-la-tren-het.4186344/"
+    // },
+    // {
+    //     postId: "67312530",
+    //     reportReason: "Vào bài mình vu khống bừa bãi, vu khống người khác đào lửa",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/can-than-la-tren-het.4186344/"
+    // },
+    // {
+    //     postId: "67312536",
+    //     reportReason: "Vào bài mình vu khống bừa bãi, xúc phạm người khác quá mức, bôi nhọ họ tên người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/can-than-la-tren-het.4186344/"
+    // },
     // {
     //     postId: "67311311",
     //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, đòi nợ vô cớ, miệt thị người khác quá mức",
