@@ -1,6 +1,44 @@
 export const reportListId = [
 
     
+    
+    
+    {
+        postId: "67312878",
+        reportReason: "Kích động cãi nhau, xúc phạm người khác nhiều lần, vu khống nghiêm trọng cho người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    },
+    {
+        postId: "67312875",
+        reportReason: "Lên tinhte chỉ để chửi bới, xúc phạm, vu khống, xúc phạm người khác. Vu khống nghiêm trọng người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    },
+    {
+        postId: "67312856",
+        reportReason: "Kích động cãi nhau, quy chụp, chửi bới người khác nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    },
+    {
+        postId: "67312855",
+        reportReason: "Lên tinhte chửi bới, xúc phạm, vu khống người khác đào lửa các kiểu",
+        posterName: "",
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    },
+    {
+        postId: "67312840",
+        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    },
+    {
+        postId: "67312837",
+        reportReason: "Lôi họ tên người khác ra xúc phạm quá mức, làm ảnh hưởng nghiêm trọng người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    },
     {
         postId: "67312106",
         reportReason: "Vào bài mình kiếm chuyện gây sự, kích động cãi nhau, bôi nhọ họ tên mình bừa bãi",
