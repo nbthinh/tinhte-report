@@ -63,8 +63,8 @@ export const reportListId = [
     
     {
         postId: "67313399",
-        reportReason: "Xúc phạm người khác 1 cách nghiêm trọng, bừa bãi, bôi nhọ họ tên người khác",
-        posterName: "",
+        reportReason: "Xúc phạm người khác 1 cách không liên quan, bôi nhọ nghiêm trọng họ tên người khác, một cách ko liên quan",
+        posterName: "Mấy đứa mỏ hỗn dễ bị nghiệp quật lắm",
         url: "https://tinhte.vn/thread/nghiep-quat.4186635/"
     },
 

@@ -1,3 +1,4 @@
+import ReportListComponent from "../ReportListComponent/ReportListComponent"
 import "./HomeComponent.css"
 function HomeComponent() {
 
@@ -37,7 +38,7 @@ function HomeComponent() {
                     </ul>
                 </div>
             </div>
-            Demo Report Data
+            <ReportListComponent />
         </>
     )
 }
