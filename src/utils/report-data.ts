@@ -2,103 +2,205 @@ export const reportListId = [
 
     
     
+    {
+        postId: "67313399",
+        reportReason: "Xúc phạm người khác 1 cách nghiêm trọng, bừa bãi, bôi nhọ họ tên người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/nghiep-quat.4186635/"
+    },
+
+    {
+        postId: "67313204",
+        reportReason: "Vào bài mình bôi nhọ họ tên mình/người nhà mình nhiều lần, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/micropack.4186551/"
+    },
+    {
+        postId: "67313381",
+        reportReason: "Vào bài mình kích động cãi nhau, gây sự vô cớ, bôi nhọ họ tên mình/người nhà mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/micropack.4186551/"
+    },
+    {
+        postId: "67313434",
+        reportReason: "Vào bài mình spam, quấy rối, bôi nhọ họ tên mình, gây sự là chính",
+        posterName: "",
+        url: "https://tinhte.vn/thread/micropack.4186551/"
+    },
+    {
+        postId: "67313444",
+        reportReason: "Vào bài mình kiếm chuyện, bôi nhọ họ tên mình, đòi nợ bừa bãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/micropack.4186551/"
+    },
+    {
+        postId: "67313303",
+        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/cuhiep-noi.4186591/"
+    },
+    {
+        postId: "67313375",
+        reportReason: "Vào bài mình spam, chửi bới, dùng từ ngữ thiếu tinh tế",
+        posterName: "",
+        url: "https://tinhte.vn/thread/cuhiep-noi.4186591/"
+    },
+    {
+        postId: "67313391",
+        reportReason: "Vào bài mình spam quá nhiều, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/cuhiep-noi.4186591/"
+    },
     
     {
-        postId: "67312878",
-        reportReason: "Kích động cãi nhau, xúc phạm người khác nhiều lần, vu khống nghiêm trọng cho người khác",
+        postId: "67313153",
+        reportReason: "Vào bài mình kích động cãi nhau, bôi nhọ họ tên mình/người nhà mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/moi-biet-wifi-mien-phi-tinhte.4186526/"
+    },
+    
+    {
+        postId: "67313288",
+        reportReason: "Vào bài mình chửi bới, xúc phạm bừa bãi, làm loãng chủ đề bài viết mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/moi-biet-wifi-mien-phi-tinhte.4186526/"
+    },
+    
+
+    {
+        postId: "67313284",
+        reportReason: "Vào bài mình vu khống, xúc phạm, kích động cãi nhau",
         posterName: "",
         url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
     {
-        postId: "67312875",
-        reportReason: "Lên tinhte chỉ để chửi bới, xúc phạm, vu khống, xúc phạm người khác. Vu khống nghiêm trọng người khác",
+        postId: "67313283",
+        reportReason: "Vào bài mình chụp mũ bừa bãi, kích động cãi nhau, miệt thị người khác vô cớ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    },
+    
+    
+    
+
+
+    {
+        postId: "67313213",
+        reportReason: "Bôi nhọ họ tên mình nhiều lần, kích động cãi nhau",
         posterName: "",
         url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
     {
-        postId: "67312856",
-        reportReason: "Kích động cãi nhau, quy chụp, chửi bới người khác nhiều lần",
+        postId: "67313215",
+        reportReason: "Bôi nhọ họ tên mình nhiều lần, miệt thị, xúc phạm mình một cách bừa bãi, kích động cãi nhau",
         posterName: "",
         url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
     {
-        postId: "67312855",
-        reportReason: "Lên tinhte chửi bới, xúc phạm, vu khống người khác đào lửa các kiểu",
+        postId: "67313260",
+        reportReason: "Bôi nhọ họ tên mình nhiều lần, một cách không liên quan, bắt nạt người khác quá đáng",
         posterName: "",
         url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
-    {
-        postId: "67312840",
-        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    },
-    {
-        postId: "67312837",
-        reportReason: "Lôi họ tên người khác ra xúc phạm quá mức, làm ảnh hưởng nghiêm trọng người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    },
-    {
-        postId: "67312106",
-        reportReason: "Vào bài mình kiếm chuyện gây sự, kích động cãi nhau, bôi nhọ họ tên mình bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    },
-    {
-        postId: "67312425",
-        reportReason: "Vào bài mình cố tình gây sự, bôi nhọ họ tên mình/người nhà mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    },
-    {
-        postId: "67311960",
-        reportReason: "Vào bài mod kiếm chuyện trong comment của mình, bôi nhọ họ tên mình/người nhà mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
-    {
-        postId: "67312669",
-        reportReason: "Vào bài người khác bôi nhọ họ tên mình vô cớ, kích động cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    },
-    {
-        postId: "67312538",
-        reportReason: "Gọi tên mình ra, dùng lời lẽ phỉ báng, kích động cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    },
-    {
-        postId: "67312587",
-        reportReason: "Chụp comment của mình đăng tuỳ tiện kích động cãi nhau, chửi bới",
-        posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    },
-    {
-        postId: "67312637",
-        reportReason: "Dùng lời lẽ cay nghiệt quy chụp, xúc phạm người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    },
-    {
-        postId: "67312638",
-        reportReason: "Dùng lời lẽ cay nghiệt quy chụp, xúc phạm người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    },
-    {
-        postId: "67311315",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, dùng nhiều từ ngữ khó nghe nhục mạ người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
-    {
-        postId: "67312630",
-        reportReason: "Cố tình xúc phạm, bôi nhọ họ tên mình trong bài người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
-    },
+    
+
+    
+    // {
+    //     postId: "67312878",
+    //     reportReason: "Kích động cãi nhau, xúc phạm người khác nhiều lần, vu khống nghiêm trọng cho người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67312875",
+    //     reportReason: "Lên tinhte chỉ để chửi bới, xúc phạm, vu khống, xúc phạm người khác. Vu khống nghiêm trọng người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67312856",
+    //     reportReason: "Kích động cãi nhau, quy chụp, chửi bới người khác nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67312855",
+    //     reportReason: "Lên tinhte chửi bới, xúc phạm, vu khống người khác đào lửa các kiểu",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67312840",
+    //     reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67312837",
+    //     reportReason: "Lôi họ tên người khác ra xúc phạm quá mức, làm ảnh hưởng nghiêm trọng người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67312106",
+    //     reportReason: "Vào bài mình kiếm chuyện gây sự, kích động cãi nhau, bôi nhọ họ tên mình bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67312425",
+    //     reportReason: "Vào bài mình cố tình gây sự, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67311960",
+    //     reportReason: "Vào bài mod kiếm chuyện trong comment của mình, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    // {
+    //     postId: "67312669",
+    //     reportReason: "Vào bài người khác bôi nhọ họ tên mình vô cớ, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67312538",
+    //     reportReason: "Gọi tên mình ra, dùng lời lẽ phỉ báng, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67312587",
+    //     reportReason: "Chụp comment của mình đăng tuỳ tiện kích động cãi nhau, chửi bới",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67312637",
+    //     reportReason: "Dùng lời lẽ cay nghiệt quy chụp, xúc phạm người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67312638",
+    //     reportReason: "Dùng lời lẽ cay nghiệt quy chụp, xúc phạm người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67311315",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, dùng nhiều từ ngữ khó nghe nhục mạ người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
+    // {
+    //     postId: "67312630",
+    //     reportReason: "Cố tình xúc phạm, bôi nhọ họ tên mình trong bài người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/apple-quyet-dinh-tang-gia-sp-nen-ipad-air-len-khoang-20-cu-neu-khong-vay-thi-ipad-air-co-15-cu-thoi.4184109/"
+    // },
     
     
     
@@ -1252,7 +1354,30 @@ export const reportListId = [
 
 
     
-
+    // {
+    //     postId: "67313191",
+    //     reportReason: "Vào bài mình kích động chửi bới, gây cãi nhau, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/moi-biet-wifi-mien-phi-tinhte.4186526/"
+    // },
+    // {
+    //     postId: "67313261",
+    //     reportReason: "Vào bài mình kích động cãi nhau, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67313285",
+    //     reportReason: "Vào bài mình vu khống bừa bãi, kích động cãi nhau. Mình không hề rủ nó mua chung cái gì liên quan đến workshop này",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67313285",
+    //     reportReason: "Vào bài mình vu khống bừa bãi, kích động cãi nhau. Mình không hề rủ nó mua chung cái gì liên quan đến workshop này",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
     // {
     //     postId: "67310135",
     //     reportReason: "Vào bài mình kích động, gây sự, bôi nhọ họ tên mình nhiều lần",
