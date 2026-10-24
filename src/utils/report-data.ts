@@ -3,6 +3,65 @@ export const reportListId = [
     
     
     {
+        postId: "67313556",
+        reportReason: "Dùng hình ảnh có mặt mình trong đó đăng nội dung kích động gây cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    {
+        postId: "67313564",
+        reportReason: "Vu khống, xuyên tạc, chửi bới bừa bãi trên tinhte",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    {
+        postId: "67313569",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần, cay nghiệt",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    {
+        postId: "67313574",
+        reportReason: "Dùng hình ảnh có mặt mình trong đó đăng tải bừa bãi, miệt thị ngoại hình người khác đội lốt góp ý",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    {
+        postId: "67313493",
+        reportReason: "Chụp nội dung comment của mình đăng chủ đề kích động cãi nhau, quấy rối trên tinhte nhiều lần, chửi bới người khác nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    
+    
+    {
+        postId: "67313560",
+        reportReason: "Vu khống mình lừa đảo, bôi nhọ trực tiếp họ tên mình, gây ảnh hưởng nghiêm trọng mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/an-to-bun-lieu-chau-no-con-che-mac-ma-doi-mua-iphone-duo-moi-ghe-chu.4186664/"
+    },
+    {
+        postId: "67313521",
+        reportReason: "Bôi nhọ trực tiếp họ tên mình, kích động cãi nhau, chửi bới trên tinhte nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/an-to-bun-lieu-chau-no-con-che-mac-ma-doi-mua-iphone-duo-moi-ghe-chu.4186664/"
+    },
+    {
+        postId: "67313534",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần, ỷ đọc được vài thông tin lấy ra làm cái cớ miệt thị người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/an-to-bun-lieu-chau-no-con-che-mac-ma-doi-mua-iphone-duo-moi-ghe-chu.4186664/"
+    },
+    {
+        postId: "67313512",
+        reportReason: "Kích động cãi nhau, dùng toàn lời lẽ cay cú mắng nhiếc người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/an-to-bun-lieu-chau-no-con-che-mac-ma-doi-mua-iphone-duo-moi-ghe-chu.4186664/"
+    },
+    
+    
+    
+    {
         postId: "67313399",
         reportReason: "Xúc phạm người khác 1 cách nghiêm trọng, bừa bãi, bôi nhọ họ tên người khác",
         posterName: "",
