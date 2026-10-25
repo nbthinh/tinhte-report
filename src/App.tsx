@@ -55,9 +55,17 @@ function App() {
         </div> */}
         
       </div>
-      <Link to="">Home</Link>
-      <br/>
-      <Link to="demo">Dashboard</Link>
+      <div className="container">
+        <div className="row">
+          <div className="col-12">
+            <Link to="">Home</Link>
+            <br/>
+            <Link to="demo">Dashboard</Link>
+
+          </div>
+        </div>
+      </div>
+      
       <Outlet />
       <ToastContainer />
     </>
