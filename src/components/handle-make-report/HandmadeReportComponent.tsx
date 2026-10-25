@@ -57,10 +57,10 @@ function HandmadeReportCompoent() {
 
     return (
         <>
-            <div className="handmade-report-container" style={{textAlign: 'left'}}>
+            <div className="handmade-report-container">
                 <h3 className="handmade-report-title">Report thủ công</h3>
                 <div className="form-group">
-                    <label >Oauth Token</label>
+                    <label>Oauth Token</label>
                     <input
                         type="text"
                         className="form-control mt-2"
@@ -71,7 +71,7 @@ function HandmadeReportCompoent() {
                 </div>
 
                 <div className="form-group">
-                    <label >Report Post ID</label>
+                    <label>Report Post ID</label>
                     <input
                         type="text"
                         className="form-control mt-2"
@@ -82,7 +82,7 @@ function HandmadeReportCompoent() {
                 </div>
 
                 <div className="form-group">
-                    <label >Report Reason</label>
+                    <label>Report Reason</label>
                     <input 
                         type="text"
                         className="form-control mt-2"
