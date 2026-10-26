@@ -8,7 +8,7 @@ import { Outlet } from 'react-router-dom'
 import { Link } from 'react-router-dom'
 
 function App() {
-  const oauthToken = '71abb3769e6d68dbf632124146b05065b9f14ee9';
+  const oauthToken = '8604472bffef82d8a493a936755141ef0c25ad27';
 
 
   useEffect(() => {

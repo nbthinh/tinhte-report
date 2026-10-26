@@ -2,7 +2,42 @@ export const reportListId = [
 
     
     
-
+    {
+        postId: "67315370",
+        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần, vô cớ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    {
+        postId: "67314834",
+        reportReason: "Xuyên tạc, miệt thị, xúc phạm người khác rõ ràng. Không có khách mời nào mà quan hệ với thằng này để đi nói xấu mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    {
+        postId: "67315076",
+        reportReason: "Chụp màn hình bài viết của mình đăng bài kích động cãi nhau, chửi bới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    {
+        postId: "67315021",
+        reportReason: "Vào bài mình chửi bới, xúc phạm, vu khống, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    {
+        postId: "67314539",
+        reportReason: "Vào bài mình chửi bới, xúc phạm, vu khống bừa bãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    {
+        postId: "67314499",
+        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
     {
         postId: "67314328",
         reportReason: "Vào bài mình tag thằng xecatang vào kích động chửi bới",
@@ -15,15 +50,8 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
     },
-    
     {
         postId: "67314270",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau, chửi bới",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67314276",
         reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau, chửi bới",
         posterName: "",
         url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
@@ -41,63 +69,6 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
     },
     {
-        postId: "67314274",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động chửi bới trên tinhte",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    
-    
-    {
-        postId: "67314094",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, gán ghéo nợ nần, vu khống bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67314119",
-        reportReason: "Dùng hình ảnh có mặt mình trong đó để đăng bừa bãi trên tinhte nhiều lần, xúc phạm nhân quyền người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67314019",
-        reportReason: "Dùng hình ảnh có mặt mình trong đó để đăng bừa bãi trên tinhte, chửi bới người khác 1 cách ác nghiệt",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    
-    {
-        postId: "67314045",
-        reportReason: "Vào bài mình chửi bới, vu khống bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67314285",
-        reportReason: "Vào bài mình liên tục chửi bới, xúc phạm, bôi nhọ họ tên mình một cách cay nghiệt",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67313946",
-        reportReason: "Vào bài cuhiep kiếm chuyện, gây sự, làm loãng bài viết, bôi nhọ họ tên mình nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67313988",
-        reportReason: "Vào bài mình cố tình spam, gây sự, bôi nhọ họ tên mình nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67313962",
-        reportReason: "Vào bài người khác kiếm chuyện, gây sự, bôi nhọ họ tên người khác nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
         postId: "67313938",
         reportReason: "Vào bài mình kiếm chuyện, bôi nhọ họ tên mình/người nhà mình nhiều lần",
         posterName: "",
@@ -109,48 +80,54 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
     },
-    {
-        postId: "67313709",
-        reportReason: "Vào bài mod tag đồng bọn vào để cùng chửi bới mình khi thấy mình trong buổi offline",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67313722",
-        reportReason: "Vào bài mod xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67313742",
-        reportReason: "Vào bài mod xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67313719",
-        reportReason: "Dùng hình ảnh có mặt mình trong đó đăng bừa bãi, làm bậy nhiều lần, kích động cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67313768",
-        reportReason: "Hùa theo chửi bới, xúc phạm người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67313824",
-        reportReason: "Xúc phạm, miệt thị người khác quá mức",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67313514",
-        reportReason: "Vào bài người khác chửi bới, xúc phạm, trả lời cmt của mình bôi nhọ họ tên mình nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
+   
+
+
+
+
+
+    // {
+    //     postId: "67313709",
+    //     reportReason: "Vào bài mod tag đồng bọn vào để cùng chửi bới mình khi thấy mình trong buổi offline",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67313722",
+    //     reportReason: "Vào bài mod xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67313742",
+    //     reportReason: "Vào bài mod xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67313719",
+    //     reportReason: "Dùng hình ảnh có mặt mình trong đó đăng bừa bãi, làm bậy nhiều lần, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67313768",
+    //     reportReason: "Hùa theo chửi bới, xúc phạm người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67313824",
+    //     reportReason: "Xúc phạm, miệt thị người khác quá mức",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67313514",
+    //     reportReason: "Vào bài người khác chửi bới, xúc phạm, trả lời cmt của mình bôi nhọ họ tên mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
     
     
     // {
@@ -1027,6 +1004,90 @@ export const reportListId = [
 
 
 
+
+
+
+
+
+
+    // {
+    //     postId: "67314508",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần, dùng giọng điệu xảo trá xúc phạm mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314500",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314491",
+    //     reportReason: "Vào bài mình chửi bới, miệt thị bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314276",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau, chửi bới",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314274",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động chửi bới trên tinhte",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314094",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, gán ghéo nợ nần, vu khống bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314119",
+    //     reportReason: "Dùng hình ảnh có mặt mình trong đó để đăng bừa bãi trên tinhte nhiều lần, xúc phạm nhân quyền người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314019",
+    //     reportReason: "Dùng hình ảnh có mặt mình trong đó để đăng bừa bãi trên tinhte, chửi bới người khác 1 cách ác nghiệt",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314045",
+    //     reportReason: "Vào bài mình chửi bới, vu khống bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314285",
+    //     reportReason: "Vào bài mình liên tục chửi bới, xúc phạm, bôi nhọ họ tên mình một cách cay nghiệt",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67313946",
+    //     reportReason: "Vào bài cuhiep kiếm chuyện, gây sự, làm loãng bài viết, bôi nhọ họ tên mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67313988",
+    //     reportReason: "Vào bài mình cố tình spam, gây sự, bôi nhọ họ tên mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67313962",
+    //     reportReason: "Vào bài người khác kiếm chuyện, gây sự, bôi nhọ họ tên người khác nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
     // {
     //     postId: "67301792",
     //     reportReason: "Vào bài mình chửi bới, kích động cãi nhau, bôi nhọ họ tên mình nhiều lần",
@@ -1328,6 +1389,37 @@ export const reportListId = [
     
 
 
+
+     // {
+    //     postId: "67314927",
+    //     reportReason: "Vào bài mình kiếm chuyện, spam, tag đồng bọn vào cùng kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314823",
+    //     reportReason: "Kích động cãi nhau, chửi bới trên tinhte",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314712",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314648",
+    //     reportReason: "Chụp nội dung bài viết của mình kích động cãi nhau, chửi bới, bôi nhọ họ tên mình, gán ghép nợ nần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314604",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, trù rủa nghề nghiệp người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
     // {
     //     postId: "67309662",
     //     reportReason: "Vào bài mình đăng nội dung spam, kích động cãi nhau trên bài mình",
