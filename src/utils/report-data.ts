@@ -1,24 +1,18 @@
 export const reportListId = [
 
-    
-    
+
+
     {
-        postId: "67315370",
-        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần, vô cớ",
+        postId: "67313153",
+        reportReason: "Vào bài mình kích động cãi nhau, bôi nhọ họ tên mình/người nhà mình",
         posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+        url: "https://tinhte.vn/thread/moi-biet-wifi-mien-phi-tinhte.4186526/"
     },
     {
-        postId: "67314834",
-        reportReason: "Xuyên tạc, miệt thị, xúc phạm người khác rõ ràng. Không có khách mời nào mà quan hệ với thằng này để đi nói xấu mình",
+        postId: "67313283",
+        reportReason: "Vào bài mình chụp mũ bừa bãi, kích động cãi nhau, miệt thị người khác vô cớ",
         posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67315076",
-        reportReason: "Chụp màn hình bài viết của mình đăng bài kích động cãi nhau, chửi bới",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     },
     {
         postId: "67315021",
@@ -51,18 +45,6 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
     },
     {
-        postId: "67314270",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau, chửi bới",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67314234",
-        reportReason: "Chia sẻ bài viết của mình chỉ để bôi nhọ họ tên của mình, kích động cãi nhau 1 cách ác nghiệt",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
         postId: "67314265",
         reportReason: "Dùng hình ảnh có mình trong đó để đăng bừa bãi chửi bới, xúc phạm",
         posterName: "",
@@ -80,6 +62,63 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
     },
+    {
+        postId: "67312840",
+        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    },
+    {
+        postId: "67312837",
+        reportReason: "Lôi họ tên người khác ra xúc phạm quá mức, làm ảnh hưởng nghiêm trọng người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    },
+    
+    {
+        postId: "67313213",
+        reportReason: "Bôi nhọ họ tên mình nhiều lần, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    },
+    {
+        postId: "67313260",
+        reportReason: "Bôi nhọ họ tên mình nhiều lần, một cách không liên quan, bắt nạt người khác quá đáng",
+        posterName: "",
+        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    },
+    {
+        postId: "67315370",
+        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần, vô cớ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    {
+        postId: "67314834",
+        reportReason: "Xuyên tạc, miệt thị, xúc phạm người khác rõ ràng. Không có khách mời nào mà quan hệ với thằng này để đi nói xấu mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    {
+        postId: "67315076",
+        reportReason: "Chụp màn hình bài viết của mình đăng bài kích động cãi nhau, chửi bới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    
+    {
+        postId: "67314270",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau, chửi bới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    {
+        postId: "67314234",
+        reportReason: "Chia sẻ bài viết của mình chỉ để bôi nhọ họ tên của mình, kích động cãi nhau 1 cách ác nghiệt",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    },
+    
    
 
 
@@ -239,12 +278,7 @@ export const reportListId = [
     //     url: "https://tinhte.vn/thread/cuhiep-noi.4186591/"
     // },
     
-    // {
-    //     postId: "67313153",
-    //     reportReason: "Vào bài mình kích động cãi nhau, bôi nhọ họ tên mình/người nhà mình",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/moi-biet-wifi-mien-phi-tinhte.4186526/"
-    // },
+    
     
     // {
     //     postId: "67313288",
@@ -260,35 +294,20 @@ export const reportListId = [
     //     posterName: "",
     //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     // },
-    // {
-    //     postId: "67313283",
-    //     reportReason: "Vào bài mình chụp mũ bừa bãi, kích động cãi nhau, miệt thị người khác vô cớ",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    // },
+    
     
     
     
 
 
-    // {
-    //     postId: "67313213",
-    //     reportReason: "Bôi nhọ họ tên mình nhiều lần, kích động cãi nhau",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    // },
+    
     // {
     //     postId: "67313215",
     //     reportReason: "Bôi nhọ họ tên mình nhiều lần, miệt thị, xúc phạm mình một cách bừa bãi, kích động cãi nhau",
     //     posterName: "",
     //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     // },
-    // {
-    //     postId: "67313260",
-    //     reportReason: "Bôi nhọ họ tên mình nhiều lần, một cách không liên quan, bắt nạt người khác quá đáng",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    // },
+    
     
 
     
@@ -316,18 +335,7 @@ export const reportListId = [
     //     posterName: "",
     //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
     // },
-    // {
-    //     postId: "67312840",
-    //     reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    // },
-    // {
-    //     postId: "67312837",
-    //     reportReason: "Lôi họ tên người khác ra xúc phạm quá mức, làm ảnh hưởng nghiêm trọng người khác",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    // },
+    
     // {
     //     postId: "67312106",
     //     reportReason: "Vào bài mình kiếm chuyện gây sự, kích động cãi nhau, bôi nhọ họ tên mình bừa bãi",
