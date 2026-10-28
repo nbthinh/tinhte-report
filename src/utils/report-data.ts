@@ -1,123 +1,243 @@
 export const reportListId = [
 
+    
+    
+    
 
-
     {
-        postId: "67313153",
-        reportReason: "Vào bài mình kích động cãi nhau, bôi nhọ họ tên mình/người nhà mình",
+        postId: "67317468",
+        reportReason: "Vào bài mình chửi bới, kích động cãi nhau",
         posterName: "",
-        url: "https://tinhte.vn/thread/moi-biet-wifi-mien-phi-tinhte.4186526/"
-    },
-    {
-        postId: "67313283",
-        reportReason: "Vào bài mình chụp mũ bừa bãi, kích động cãi nhau, miệt thị người khác vô cớ",
-        posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    },
-    {
-        postId: "67315021",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, vu khống, kích động cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67314539",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, vu khống bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67314499",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67314328",
-        reportReason: "Vào bài mình tag thằng xecatang vào kích động chửi bới",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67314339",
-        reportReason: "Vào bài mình kiếm chuyện, chửi bới vô cớ",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67314265",
-        reportReason: "Dùng hình ảnh có mình trong đó để đăng bừa bãi chửi bới, xúc phạm",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67313938",
-        reportReason: "Vào bài mình kiếm chuyện, bôi nhọ họ tên mình/người nhà mình nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67313910",
-        reportReason: "Vào bài mình quấy rối, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67312840",
-        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
-    },
-    {
-        postId: "67312837",
-        reportReason: "Lôi họ tên người khác ra xúc phạm quá mức, làm ảnh hưởng nghiêm trọng người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
     },
     
+
     {
-        postId: "67313213",
-        reportReason: "Bôi nhọ họ tên mình nhiều lần, kích động cãi nhau",
+        postId: "67317617",
+        reportReason: "Đụng chạm tên người khác chửi rủa, kích động cãi nhau, ngôn từ bạo lực",
         posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
     },
     {
-        postId: "67313260",
-        reportReason: "Bôi nhọ họ tên mình nhiều lần, một cách không liên quan, bắt nạt người khác quá đáng",
+        postId: "67317541",
+        reportReason: "Chửi rủa bừa bãi",
         posterName: "",
-        url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+    {
+        postId: "67317552",
+        reportReason: "Chửi rủa bừa bãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+    {
+        postId: "67317560",
+        reportReason: "Chửi rủa, xuyên tạc, vu khống bừa bãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+    {
+        postId: "67317591",
+        reportReason: "Chửi rủa, xuyên tạc, vu khống bừa bãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+    {
+        postId: "67317390",
+        reportReason: "Phát ngôn thiếu văn hoá, chửi bới, bôi nhọ họ tên người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+
+
+
+
+    {
+        postId: "67316665",
+        reportReason: "Xúc phạm danh dự, họ tên người khác 1 cách nghiêm trọng",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+    {
+        postId: "67316892",
+        reportReason: "Lời lẽ xúc phạm người khác vô cớ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/1-chia-se-ve-xai-iphone-tu-buu-thin.4187524/"
+    },
+    
+
+    {
+        postId: "67316255",
+        reportReason: "Chụp nội dung comment của mình đăng bài hòng kích động cãi nhau, chửi bới",
+        posterName: "",
+        url: "https://tinhte.vn/thread/1-chia-se-ve-xai-iphone-tu-buu-thin.4187524/"
     },
     {
         postId: "67315370",
-        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần, vô cớ",
+        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần, vô cớ, không liên quan",
         posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67314834",
-        reportReason: "Xuyên tạc, miệt thị, xúc phạm người khác rõ ràng. Không có khách mời nào mà quan hệ với thằng này để đi nói xấu mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
-    },
-    {
-        postId: "67315076",
-        reportReason: "Chụp màn hình bài viết của mình đăng bài kích động cãi nhau, chửi bới",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+        url: "https://tinhte.vn/thread/het-viec-lam-vai-lon.4187261/"
     },
     
     {
-        postId: "67314270",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau, chửi bới",
+        postId: "67315949",
+        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình một cách vô cớ, không liên quan, nhiều lần",
         posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+        url: "https://tinhte.vn/thread/sang-gio-that-nghiep-ca-phe-liem-tuc.4187440/"
     },
     {
-        postId: "67314234",
-        reportReason: "Chia sẻ bài viết của mình chỉ để bôi nhọ họ tên của mình, kích động cãi nhau 1 cách ác nghiệt",
+        postId: "67316112",
+        reportReason: "Chửi bới, xúc phạm, vu khống, bôi nhọ họ tên mình/người nhà mình nhiều lần",
         posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+        url: "https://tinhte.vn/thread/sang-gio-that-nghiep-ca-phe-liem-tuc.4187440/"
     },
+    
+
+    
+    
+    // {
+    //     postId: "67316467",
+    //     reportReason: "Vào bài mình gây sự, xúc phạm, bôi nhọ họ tên mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/moi-biet-wifi-mien-phi-tinhte.4186526/"
+    // },
+    // {
+    //     postId: "67316252",
+    //     reportReason: "Vào bài mod tag đồng bọn vào chỗ comment mình kích động chửi bới",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/moi-biet-wifi-mien-phi-tinhte.4186526/"
+    // },
+    // {
+    //     postId: "67316295",
+    //     reportReason: "Kiếm chuyện gây cãi nhau trong bài mod",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/moi-biet-wifi-mien-phi-tinhte.4186526/"
+    // },
+    
+    
+    // {
+    //     postId: "67315865",
+    //     reportReason: "Vào bài mình spam, kích động chửi bới, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/moi-biet-wifi-mien-phi-tinhte.4186526/"
+    // },
+    // {
+    //     postId: "67315481",
+    //     reportReason: "Vào bài mình kiếm chuyện, kích động cãi nhau, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/moi-biet-wifi-mien-phi-tinhte.4186526/"
+    // },
+    // {
+    //     postId: "67313153",
+    //     reportReason: "Vào bài mình kích động cãi nhau, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/moi-biet-wifi-mien-phi-tinhte.4186526/"
+    // },
+    // {
+    //     postId: "67313283",
+    //     reportReason: "Vào bài mình chụp mũ bừa bãi, kích động cãi nhau, miệt thị người khác vô cớ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67315021",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, vu khống, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314539",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, vu khống bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314499",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314328",
+    //     reportReason: "Vào bài mình tag thằng xecatang vào kích động chửi bới",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314339",
+    //     reportReason: "Vào bài mình kiếm chuyện, chửi bới vô cớ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314265",
+    //     reportReason: "Dùng hình ảnh có mình trong đó để đăng bừa bãi chửi bới, xúc phạm",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67313938",
+    //     reportReason: "Vào bài mình kiếm chuyện, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67313910",
+    //     reportReason: "Vào bài mình quấy rối, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67312840",
+    //     reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67312837",
+    //     reportReason: "Lôi họ tên người khác ra xúc phạm quá mức, làm ảnh hưởng nghiêm trọng người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    
+    // {
+    //     postId: "67313213",
+    //     reportReason: "Bôi nhọ họ tên mình nhiều lần, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    // {
+    //     postId: "67313260",
+    //     reportReason: "Bôi nhọ họ tên mình nhiều lần, một cách không liên quan, bắt nạt người khác quá đáng",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/op-iphone-duo.4186220/"
+    // },
+    
+    // {
+    //     postId: "67314834",
+    //     reportReason: "Xuyên tạc, miệt thị, xúc phạm người khác rõ ràng. Không có khách mời nào mà quan hệ với thằng này để đi nói xấu mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67315076",
+    //     reportReason: "Chụp màn hình bài viết của mình đăng bài kích động cãi nhau, chửi bới",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    
+    // {
+    //     postId: "67314270",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau, chửi bới",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
+    // {
+    //     postId: "67314234",
+    //     reportReason: "Chia sẻ bài viết của mình chỉ để bôi nhọ họ tên của mình, kích động cãi nhau 1 cách ác nghiệt",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-lon.4186674/"
+    // },
     
    
 
@@ -1017,7 +1137,18 @@ export const reportListId = [
 
 
 
-
+    // {
+    //     postId: "67315856",
+    //     reportReason: "Chụp màn hình bài viết của mình đăng nội dung kích động cãi nhau, làm khó mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    // },
+    // {
+    //     postId: "67317384",
+    //     reportReason: "Vào bài mình quấy rối, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    // },
     // {
     //     postId: "67314508",
     //     reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần, dùng giọng điệu xảo trá xúc phạm mình",
@@ -1397,8 +1528,25 @@ export const reportListId = [
     
 
 
-
-     // {
+    // {
+    //     postId: "67317200",
+    //     reportReason: "Tag mình bừa bãi hòng kích động, chửi bới, vu khống",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/1-chia-se-ve-xai-iphone-tu-buu-thin.4187524/"
+    // },
+    // {
+    //     postId: "67317247",
+    //     reportReason: "Miệt thị, xúc phạm, vu khống người khác bừa bãi, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/1-chia-se-ve-xai-iphone-tu-buu-thin.4187524/"
+    // },
+    // {
+    //     postId: "67317175",
+    //     reportReason: "Tag mình bừa bãi vào chửi bới, spam 1 hình nhiều lần xúc phạm mình, không liên quan nó, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/1-chia-se-ve-xai-iphone-tu-buu-thin.4187524/"
+    // },
+    // {
     //     postId: "67314927",
     //     reportReason: "Vào bài mình kiếm chuyện, spam, tag đồng bọn vào cùng kích động cãi nhau",
     //     posterName: "",
