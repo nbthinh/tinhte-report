@@ -1,13 +1,59 @@
 export const reportListId = [
 
-    
+
+
     
     {
-        postId: "67320607",
-        reportReason: "Vào bài khắc tên kích động cãi nhau, gây sự, bôi nhọ họ tên người khác",
+        postId: "67321634",
+        reportReason: "Vào bài mình miệt thị, xúc phạm bằng nhiều lời lẽ  cay cú",
         posterName: "",
         url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
     },
+    {
+        postId: "67321500",
+        reportReason: "Vu khống trắng trợn, vu khống mình đào lửa, bôi nhọ danh dự người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+    {
+        postId: "67321829",
+        reportReason: "Vào bài mình kiếm chuyện, gây sự, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+    {
+        postId: "67321551",
+        reportReason: "Vào bài mình kiếm chuyện, gây sự, phát ngôn nhảm nhí, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+    {
+        postId: "67321635",
+        reportReason: "Vào bài mình kích động cãi nhau, miệt thị, xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+    
+    {
+        postId: "67321549",
+        reportReason: "Vào bài mình kiếm chuyện, gây sự, bôi nhọ họ tên mình/người nhà mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+    
+    {
+        postId: "67321210",
+        reportReason: "Chụp màn hình bài viết của mình đăng nội dung kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+    {
+        postId: "67321165",
+        reportReason: "Vào bài mình gây sự, bôi nhọ họ tên mình/người nhà mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    },
+    
     {
         postId: "67320214",
         reportReason: "Vào bài mod tag đồng bọn vào kích động cãi nhau, chửi bới",
@@ -20,12 +66,7 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
     },
-    {
-        postId: "67321098",
-        reportReason: "Chụp màn hình bài viết của mình kích động cãi nhau, chửi bới nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
-    },
+    
     {
         postId: "67320325",
         reportReason: "Xúc phạm và bôi nhọ họ tên người khác bừa bãi, xúc phạm nghiêm trọng người khác",
@@ -44,12 +85,8 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
     },
-    {
-        postId: "67318205",
-        reportReason: "Đăng comment cũ của mình hòng kích động chửi bới trên tinhte",
-        posterName: "",
-        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
-    },
+
+    
 
     
 
@@ -1223,6 +1260,28 @@ export const reportListId = [
 
 
 
+
+
+
+
+    // {
+    //     postId: "67320607",
+    //     reportReason: "Vào bài khắc tên kích động cãi nhau, gây sự, bôi nhọ họ tên người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    // },
+    // {
+    //     postId: "67321098",
+    //     reportReason: "Chụp màn hình bài viết của mình kích động cãi nhau, chửi bới nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    // },
+    // {
+    //     postId: "67318205",
+    //     reportReason: "Đăng comment cũ của mình hòng kích động chửi bới trên tinhte",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    // },
     // {
     //     postId: "67318093",
     //     reportReason: "Dùng hình ảnh có mặt mình trong đó đăng nội dung kích động cãi nhau, chửi bới",
