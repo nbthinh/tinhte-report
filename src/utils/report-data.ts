@@ -1,4 +1,7 @@
 export const reportListId = [
+    
+    
+    
 
     {
         postId: "67324891",
@@ -85,7 +88,7 @@ export const reportListId = [
     },
 
 
-
+    // ----------------
 
 
 
@@ -1341,7 +1344,18 @@ export const reportListId = [
 
 
 
-
+    // {
+    //     postId: "67325077",
+    //     reportReason: "Dùng hình ảnh có mặt mình trong đó đăng bừa bãi. Dùng trái phép hình ảnh có mặt mình trong đó làm avatar",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
+    // },
+    // {
+    //     postId: "67325112",
+    //     reportReason: "Đăng hình ảnh mình xong còn chửi bới, bôi nhọ họ tên mình/người nhà mình. Dùng hình ảnh mình làm avatar bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
+    // },
     // {
     //     postId: "67324365",
     //     reportReason: "Vào bài mình kiếm chuyện, chửi bới, bôi nhọ họ tên mình/người nhà mình. Dùng hình ảnh mình làm avatar bừa bãi",
