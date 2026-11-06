@@ -1,57 +1,72 @@
 export const reportListId = [
     
     
-    
+    {
+        postId: "67327266",
+        reportReason: "Xuyên tạc, chửi bới, kích động cãi nhau, bôi nhọ họ tên người khác nhiều lần, cay nghiệt",
+        posterName: "",
+        url: "https://tinhte.vn/thread/mua-lam-vai-lon.4190377/"
+    },
+    {
+        postId: "67327298",
+        reportReason: "Chuyên lên tinhte cay nghiệt, xúc phạm người khác. Nhiều comment bôi nhọ họ tên người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/mua-lam-vai-lon.4190377/"
+    },
     
     {
-        postId: "67325716",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần. Dùng hình ảnh mình làm avatar trái quy định, vi phạm quyền riêng tư",
+        postId: "67326671",
+        reportReason: "Vào bài mình kiếm chuyện, gây sự, bôi nhọ họ tên mình/người nhà mình",
         posterName: "",
-        url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
+        url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
     },
+    {
+        postId: "67327070",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần, vô cớ, chuyên kích động cãi nhau trên tinhte",
+        posterName: "",
+        url: "https://tinhte.vn/thread/goi-thin-ca-phe-ma-ko-dc.4190299/"
+    },
+    {
+        postId: "67326790",
+        reportReason: "Tìm đủ mọi cách bôi nhọ, xúc phạm họ tên người khác nhiều lần trên tinhte",
+        posterName: "",
+        url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
+    },
+    {
+        postId: "67326836",
+        reportReason: "Tìm đủ mọi cách bôi nhọ, xúc phạm họ tên người khác nhiều lần trên tinhte",
+        posterName: "",
+        url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
+    },
+    {
+        postId: "67327005",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần, vô cớ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
+    },
+    
 
-    {
-        postId: "67325711",
-        reportReason: "Vào bài mình spam, chửi bới bừa bãi, xúc phạm người khác",
-        posterName: "",
-        url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
-    },
-    {
-        postId: "67325662",
-        reportReason: "Vào bài mình spam, chửi bới, kích động cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
-    },
+    
+    
+    
     
 
+    
+    
     {
-        postId: "67325446",
-        reportReason: "Vào bài mình chửi bới lung tung, bôi nhọ họ tên mình/người nhà mình nhiều lần. Dùng trái phép hình ảnh có mặt mình trong đó làm avatar",
+        postId: "67326563",
+        reportReason: "Bôi nhọ, xúc phạm họ tên mình rất nhiều lần, kích động cãi nhau vô cớ",
         posterName: "",
-        url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
+        url: "https://tinhte.vn/thread/het-viec-lam-vai-lon.4190105/"
     },
     {
         postId: "67325469",
-        reportReason: "Bôi nhọ, xúc phạm họ tên người khác rất nhiều lần. Dùng trái phép hình ảnh có mặt mình trong đó làm avatar, đăng comment rất nhiều lần",
+        reportReason: "Bôi nhọ, xúc phạm họ tên người khác rất nhiều lần.",
         posterName: "",
         url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
     },
     
-
     
-    
-    {
-        postId: "67323975",
-        reportReason: "Miệt thị, chửi xỏ người khác, dùng hình ảnh mình làm avatar bừa bãi, vi phạm quyền riêng tư",
-        posterName: "",
-        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4189364/"
-    },
-    {
-        postId: "67324647",
-        reportReason: "Nhiều lần xúc phạm, bôi nhọ họ tên mình/người nhà mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4189364/"
-    },
     
     {
         postId: "67323953",
@@ -59,8 +74,6 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
     },
-    
-    
     
     {
         postId: "67319566",
@@ -77,79 +90,94 @@ export const reportListId = [
     
 
 
-    // --------------------------- Report thêm
-    {
-        postId: "67287113",
-        reportReason: "Lên tinhte đăng nhiều nội dung kích động cãi nhau, bôi nhọ họ tên mình/người nhà mình. Dùng hình ảnh có mặt mình làm avatar bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/ban-nguyen-buu-thinh-can-op-ip16-chat-luong.4180054/"
-    },
-    {
-        postId: "67268721",
-        reportReason: "Lên tinhte đăng nhiều nội dung không liên quan xúc phạm người khác. Chia sẻ hình ảnh có nội dung xuyên tạc, xúc phạm người khác. Dùng hình ảnh người khác làm avatar bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/tha-nhu-the-dung-lam-nhu-the-cam-on-ban-cuong-nb-cung-cap-hinh-anh.4175603/"
-    },
-    {
-        postId: "67262891",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau. Dùng hình ảnh mình làm avatar bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
-    },
-    {
-        postId: "67262171",
-        reportReason: "Chia sẻ nội dung bài viết người khác kích động cãi nhau. Dùng hình ảnh mình làm avatar bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/doc-thay-cach-hanh-van-quen-quen.4173371/"
-    },
-    {
-        postId: "67261470",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, vô lý. Dùng hình ảnh người khác làm avatar tài khoản nó 1 cách bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/ca-phe-bua-nua-roi-tan-huong-ky-nghi-le-cuoi-cung-trong-nam-2026-thoi-anh-em.4173046/"
-    },
-    {
-        postId: "67261474",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, vô lý. Dùng hình ảnh người khác làm avatar tài khoản nó 1 cách bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/ca-phe-bua-nua-roi-tan-huong-ky-nghi-le-cuoi-cung-trong-nam-2026-thoi-anh-em.4173046/"
-    },
-    {
-        postId: "67259014",
-        reportReason: "Đăng nhiều nội dung chửi bới, xúc phạm người khác. Dùng hình ảnh mình làm avatar bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/dung-tin-vao-loi-ong-buom-do-la-ho-sau-la-cam-bay-cua-tinh-yeu.4172320/"
-    },
-    {
-        postId: "67255894",
-        reportReason: "Lấy hình chụp comment cũ của mình làm chủ đề kích động cãi nhau, chửi bới, lên tinhte toàn xúc phạm người khác. Dùng hình ảnh mình làm avatar 1 cách bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/vi-sao-lai-the-ma-vi-sao-lai-the-khong-lai-the-nay-ma-lai-the-kia.4171516/"
-    },
-    {
-        postId: "67248737",
-        reportReason: "Ăn cắp hình bài viết của người khác đăng bài kích động cãi nhau. Dùng hình ảnh người khác làm avatar bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/an-xe-toi-bun-rieu-cung-buu-thinh-nguyen.4169189/"
-    },
-    {
-        postId: "67231703",
-        reportReason: "Đăng nhiều nội dung bôi nhọ, xúc phạm họ tên người khác. Dùng hình ảnh mình làm avatar 1 cách bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/ban-nguyen-buu-thinh-lan-toa-tinh-yeu-bong.4164270/"
-    },
-    {
-        postId: "67229265",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau. Dùng hình ảnh mình làm avatar bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/gi-the-nay-cabe-la-doi-nao-nguyen-buu-thinh-coi-da-bong-o-hanh-tinh.4163482/"
-    },
-    {
-        postId: "67227971",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần. Dùng hình ảnh mình làm avatar tài khoản tinhte của nó",
-        posterName: "",
-        url: "https://tinhte.vn/thread/ban-nguyen-buu-thinh-sau-khi-di-wc2026-ve-chay-khong-khac-gi-mbape.4162982/"
-    },
+
+
+
+
+    // {
+    //     postId: "67323975",
+    //     reportReason: "Miệt thị, chửi xỏ người khác, dùng hình ảnh mình làm avatar bừa bãi, vi phạm quyền riêng tư",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4189364/"
+    // },
+    // {
+    //     postId: "67324647",
+    //     reportReason: "Nhiều lần xúc phạm, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4189364/"
+    // },
+    // {
+    //     postId: "67287113",
+    //     reportReason: "Lên tinhte đăng nhiều nội dung kích động cãi nhau, bôi nhọ họ tên mình/người nhà mình. Dùng hình ảnh có mặt mình làm avatar bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ban-nguyen-buu-thinh-can-op-ip16-chat-luong.4180054/"
+    // },
+    // {
+    //     postId: "67268721",
+    //     reportReason: "Lên tinhte đăng nhiều nội dung không liên quan xúc phạm người khác. Chia sẻ hình ảnh có nội dung xuyên tạc, xúc phạm người khác. Dùng hình ảnh người khác làm avatar bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/tha-nhu-the-dung-lam-nhu-the-cam-on-ban-cuong-nb-cung-cap-hinh-anh.4175603/"
+    // },
+    // {
+    //     postId: "67262891",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau. Dùng hình ảnh mình làm avatar bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/hom-nay-co-dam-gio.4128907/"
+    // },
+    // {
+    //     postId: "67262171",
+    //     reportReason: "Chia sẻ nội dung bài viết người khác kích động cãi nhau. Dùng hình ảnh mình làm avatar bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/doc-thay-cach-hanh-van-quen-quen.4173371/"
+    // },
+    // {
+    //     postId: "67261470",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, vô lý. Dùng hình ảnh người khác làm avatar tài khoản nó 1 cách bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-bua-nua-roi-tan-huong-ky-nghi-le-cuoi-cung-trong-nam-2026-thoi-anh-em.4173046/"
+    // },
+    // {
+    //     postId: "67261474",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, vô lý. Dùng hình ảnh người khác làm avatar tài khoản nó 1 cách bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-bua-nua-roi-tan-huong-ky-nghi-le-cuoi-cung-trong-nam-2026-thoi-anh-em.4173046/"
+    // },
+    // {
+    //     postId: "67259014",
+    //     reportReason: "Đăng nhiều nội dung chửi bới, xúc phạm người khác. Dùng hình ảnh mình làm avatar bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dung-tin-vao-loi-ong-buom-do-la-ho-sau-la-cam-bay-cua-tinh-yeu.4172320/"
+    // },
+    // {
+    //     postId: "67255894",
+    //     reportReason: "Lấy hình chụp comment cũ của mình làm chủ đề kích động cãi nhau, chửi bới, lên tinhte toàn xúc phạm người khác. Dùng hình ảnh mình làm avatar 1 cách bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/vi-sao-lai-the-ma-vi-sao-lai-the-khong-lai-the-nay-ma-lai-the-kia.4171516/"
+    // },
+    // {
+    //     postId: "67248737",
+    //     reportReason: "Ăn cắp hình bài viết của người khác đăng bài kích động cãi nhau. Dùng hình ảnh người khác làm avatar bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/an-xe-toi-bun-rieu-cung-buu-thinh-nguyen.4169189/"
+    // },
+    // {
+    //     postId: "67231703",
+    //     reportReason: "Đăng nhiều nội dung bôi nhọ, xúc phạm họ tên người khác. Dùng hình ảnh mình làm avatar 1 cách bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ban-nguyen-buu-thinh-lan-toa-tinh-yeu-bong.4164270/"
+    // },
+    // {
+    //     postId: "67229265",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau. Dùng hình ảnh mình làm avatar bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/gi-the-nay-cabe-la-doi-nao-nguyen-buu-thinh-coi-da-bong-o-hanh-tinh.4163482/"
+    // },
+    // {
+    //     postId: "67227971",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần. Dùng hình ảnh mình làm avatar tài khoản tinhte của nó",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ban-nguyen-buu-thinh-sau-khi-di-wc2026-ve-chay-khong-khac-gi-mbape.4162982/"
+    // },
 
 
 
@@ -1411,7 +1439,18 @@ export const reportListId = [
 
 
 
-    
+    // {
+    //     postId: "67326714",
+    //     reportReason: "Vào bài mình chửi bới, kích động cãi nhau, đòi nợ vô cớ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
+    // },
+    // {
+    //     postId: "67326720",
+    //     reportReason: "Vào bài mình, quấy rối, chửi bới, kích động cãi nhau, đòi nợ vô cớ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
+    // },
     // {
     //     postId: "67321551",
     //     reportReason: "Vào bài mình kiếm chuyện, gây sự, phát ngôn nhảm nhí, kích động cãi nhau",
@@ -1959,7 +1998,24 @@ export const reportListId = [
 
     
 
-
+    // {
+    //     postId: "67326059",
+    //     reportReason: "Bôi nhọ họ tên mình nhiều lần, kích động cãi nhau hàng loạt. Gây nên seri xúc phạm mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
+    // },
+    // {
+    //     postId: "67326065",
+    //     reportReason: "Từ ngữ thiếu tinh tế, lấy chuyện nghề nghiệp người khác ra bêu rếu",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
+    // },
+    // {
+    //     postId: "67326083",
+    //     reportReason: "Liên tục bôi nhọ, xúc phạm họ tên người khác nhiều lần, gây cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
+    // },
     // {
     //     postId: "67317200",
     //     reportReason: "Tag mình bừa bãi hòng kích động, chửi bới, vu khống",
@@ -2244,6 +2300,32 @@ export const reportListId = [
 
 
     
+
+
+    // {
+    //     postId: "67325716",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần. Dùng hình ảnh mình làm avatar trái quy định, vi phạm quyền riêng tư",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
+    // },
+    // {
+    //     postId: "67325711",
+    //     reportReason: "Vào bài mình spam, chửi bới bừa bãi, xúc phạm người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
+    // },
+    // {
+    //     postId: "67325662",
+    //     reportReason: "Vào bài mình spam, chửi bới, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
+    // },
+    // {
+    //     postId: "67325446",
+    //     reportReason: "Vào bài mình chửi bới lung tung, bôi nhọ họ tên mình/người nhà mình nhiều lần. Dùng trái phép hình ảnh có mặt mình trong đó làm avatar",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
+    // },
     // {
     //     postId: "67313191",
     //     reportReason: "Vào bài mình kích động chửi bới, gây cãi nhau, bôi nhọ họ tên mình/người nhà mình",
