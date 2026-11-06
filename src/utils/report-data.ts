@@ -1,6 +1,19 @@
 export const reportListId = [
     
-    
+    {
+        postId: "67326671",
+        reportReason: "Vào bài mình kiếm chuyện, gây sự, bôi nhọ họ tên mình/người nhà mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
+    },
+    {
+        postId: "67326769",
+        reportReason: "Vào bài mình kiếm chuyện, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
+    },
+
+
     {
         postId: "67327266",
         reportReason: "Xuyên tạc, chửi bới, kích động cãi nhau, bôi nhọ họ tên người khác nhiều lần, cay nghiệt",
@@ -14,12 +27,8 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/mua-lam-vai-lon.4190377/"
     },
     
-    {
-        postId: "67326671",
-        reportReason: "Vào bài mình kiếm chuyện, gây sự, bôi nhọ họ tên mình/người nhà mình",
-        posterName: "",
-        url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
-    },
+    
+    
     {
         postId: "67327070",
         reportReason: "Bôi nhọ họ tên người khác nhiều lần, vô cớ, chuyên kích động cãi nhau trên tinhte",
@@ -30,13 +39,13 @@ export const reportListId = [
         postId: "67326790",
         reportReason: "Tìm đủ mọi cách bôi nhọ, xúc phạm họ tên người khác nhiều lần trên tinhte",
         posterName: "",
-        url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
+        url: "https://tinhte.vn/thread/ca-phe-cuoi-tuan.4190185/"
     },
     {
         postId: "67326836",
         reportReason: "Tìm đủ mọi cách bôi nhọ, xúc phạm họ tên người khác nhiều lần trên tinhte",
         posterName: "",
-        url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
+        url: "https://tinhte.vn/thread/ca-phe-cuoi-tuan.4190185/"
     },
     {
         postId: "67327005",
@@ -44,14 +53,6 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/thu-5-thu-tha.4189888/"
     },
-    
-
-    
-    
-    
-    
-
-    
     
     {
         postId: "67326563",
@@ -66,8 +67,6 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
     },
     
-    
-    
     {
         postId: "67323953",
         reportReason: "Chửi bới, bôi nhọ họ tên người khác nhiều lần",
@@ -81,12 +80,21 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
     },
-    {
-        postId: "67318201",
-        reportReason: "Tag mình vào và vu khống bừa bãi trong khi mình chỉ nói đúng sự thật. Rõ ràng nguyễn ngọc thắng từng vu khống mình chèn ép shipper",
-        posterName: "",
-        url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
-    },
+
+
+
+
+
+
+
+
+
+    // {
+    //     postId: "67318201",
+    //     reportReason: "Tag mình vào và vu khống bừa bãi trong khi mình chỉ nói đúng sự thật. Rõ ràng nguyễn ngọc thắng từng vu khống mình chèn ép shipper",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
+    // },
     
 
 
