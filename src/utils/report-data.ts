@@ -1,5 +1,16 @@
 export const reportListId = [
     
+
+
+    
+    
+    
+    {
+        postId: "67327759",
+        reportReason: "Chụp màn hình comment của mình đăng nội dung kích động cãi nhau một cách bừa bãi, không liên quan",
+        posterName: "",
+        url: "https://tinhte.vn/thread/don-co-may-ngan-ma-bi-doi-bommmm.4190564/"
+    },
     {
         postId: "67326671",
         reportReason: "Vào bài mình kiếm chuyện, gây sự, bôi nhọ họ tên mình/người nhà mình",
@@ -14,19 +25,14 @@ export const reportListId = [
     },
 
 
-    {
-        postId: "67327266",
-        reportReason: "Xuyên tạc, chửi bới, kích động cãi nhau, bôi nhọ họ tên người khác nhiều lần, cay nghiệt",
-        posterName: "",
-        url: "https://tinhte.vn/thread/mua-lam-vai-lon.4190377/"
-    },
+    
     {
         postId: "67327298",
         reportReason: "Chuyên lên tinhte cay nghiệt, xúc phạm người khác. Nhiều comment bôi nhọ họ tên người khác",
         posterName: "",
         url: "https://tinhte.vn/thread/mua-lam-vai-lon.4190377/"
     },
-    
+   
     
     
     {
@@ -35,6 +41,14 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/goi-thin-ca-phe-ma-ko-dc.4190299/"
     },
+    {
+        postId: "67327112",
+        reportReason: "Xuyên tạc, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/goi-thin-ca-phe-ma-ko-dc.4190299/"
+    },
+
+    
     {
         postId: "67326790",
         reportReason: "Tìm đủ mọi cách bôi nhọ, xúc phạm họ tên người khác nhiều lần trên tinhte",
@@ -60,12 +74,7 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/het-viec-lam-vai-lon.4190105/"
     },
-    {
-        postId: "67325469",
-        reportReason: "Bôi nhọ, xúc phạm họ tên người khác rất nhiều lần.",
-        posterName: "",
-        url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
-    },
+    
     
     {
         postId: "67323953",
@@ -80,7 +89,19 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/ca-phe-thoi-anh-em.4187325/"
     },
-
+    
+    {
+        postId: "67327382",
+        reportReason: "Bôi nhọ họ tên mình/người nhà mình nhiều lần. Chuyên kích động cãi nhau, xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/cafe-goc-pho-cafe-phin-cung-co-thu-vi-rieng.4190400/"
+    },
+    {
+        postId: "67327506",
+        reportReason: "Chửi bới, mỉa mai, xúc phạm người khác lung tung trên tinhte",
+        posterName: "",
+        url: "https://tinhte.vn/thread/cafe-goc-pho-cafe-phin-cung-co-thu-vi-rieng.4190400/"
+    },
 
 
 
@@ -1447,6 +1468,25 @@ export const reportListId = [
 
 
 
+
+    // {
+    //     postId: "67327266",
+    //     reportReason: "Xuyên tạc, chửi bới, kích động cãi nhau, bôi nhọ họ tên người khác nhiều lần, cay nghiệt",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/mua-lam-vai-lon.4190377/"
+    // },
+    // {
+    //     postId: "67327337",
+    //     reportReason: "Xuyên tạc, chửi bới, xúc phạm người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/mua-lam-vai-lon.4190377/"
+    // },
+    // {
+    //     postId: "67325469",
+    //     reportReason: "Bôi nhọ, xúc phạm họ tên người khác rất nhiều lần.",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/doi-khi-chang-can-gi-nhieu-chi-can-nho-den-thinh-va-300k-la-tu-tu-nhien-mim-cuoi.4189537/"
+    // },
     // {
     //     postId: "67326714",
     //     reportReason: "Vào bài mình chửi bới, kích động cãi nhau, đòi nợ vô cớ",
