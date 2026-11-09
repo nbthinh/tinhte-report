@@ -6,9 +6,11 @@ import { report } from './utils/action';
 import HandmadeReportCompoent from './components/handle-make-report/HandmadeReportComponent';
 import { Outlet } from 'react-router-dom'
 import { Link } from 'react-router-dom'
+import TitleBarComponent from './components/TitleBarComponent/TitleBarComponent';
+
 
 function App() {
-  const oauthToken = '34750b4b4113f7f0441338ac97d177289133e491';
+  const oauthToken = 'c21634217c528b3639af6a8bdf9824025ec50002';
 
 
   useEffect(() => {
@@ -33,6 +35,9 @@ function App() {
 
   return (
     <>
+      
+      <TitleBarComponent />
+      
       <div className="container">
         <div className="row">
           <div className="col-12">
@@ -55,16 +60,7 @@ function App() {
         </div> */}
         
       </div>
-      <div className="container">
-        <div className="row">
-          <div className="col-12">
-            <Link to="">Home</Link>
-            <br/>
-            <Link to="demo">Dashboard</Link>
-
-          </div>
-        </div>
-      </div>
+      
       
       <Outlet />
       <ToastContainer />

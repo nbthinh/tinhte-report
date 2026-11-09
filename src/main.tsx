@@ -10,7 +10,7 @@ import { RouterProvider } from 'react-router/dom'
 import HomeComponent from './components/home/HomeComponent.tsx';
 import DemoComponent from './components/DemoComponent/DemoComponent.tsx';
 
-const oauthToken = 'd59e350c33e1d5341c6c66fd0d6cccef2ece1d20';
+const oauthToken = '7c93cd7a36be737a2432dc6106bb97519543a010';
 let i = 0;
 setInterval(async () => {
   let numOfRetry = 0;
@@ -27,16 +27,33 @@ setInterval(async () => {
   i = i + 1;
 }, 5000);
 
-const router = createBrowserRouter([
+// const router = createBrowserRouter([
+//   {
+//     path: "/tinhte-report",
+//     Component: App,
+//     children: [
+//       { index: true, Component: HomeComponent },
+//       { path: "demo", Component: DemoComponent },
+//     ],
+//   },
+// ]);
+
+
+const router = createBrowserRouter(
+  [
+      {
+          path: "/",
+          Component: App,
+          children: [
+              { index: true, Component: HomeComponent },
+              { path: "demo", Component: DemoComponent },
+          ],
+      },
+  ],
   {
-    path: "/tinhte-report",
-    Component: App,
-    children: [
-      { index: true, Component: HomeComponent },
-      { path: "demo", Component: DemoComponent },
-    ],
-  },
-]);
+      basename: "/tinhte-report",
+  }
+);
 
 
 createRoot(document.getElementById('root')!).render(
