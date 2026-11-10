@@ -16,7 +16,14 @@ function DemoComponent() {
 
     return (
         <>
-            <h1>Demo Component</h1>
+            <div className="container">
+                <div className="row">
+                    <div className="col-12">
+                        <h1>Demo Component</h1>
+                        <div>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore ut illum velit iure inventore eos natus similique itaque repudiandae eaque voluptate dolores amet totam quisquam iusto alias, atque harum eligendi!</div>
+                    </div>
+                </div>
+            </div>
 
         </>
     )
