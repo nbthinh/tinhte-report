@@ -25,7 +25,7 @@ function TitleBarComponent() {
                             </Nav.Link>
 
                             <Nav.Link as={Link} to="/demo/">
-                                Demo
+                                Demo (Đang dev)
                             </Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
