@@ -2,13 +2,7 @@ export const reportListId = [
     
 
     
-
-    {
-        postId: "67329197",
-        reportReason: "Xúc phạm, bôi nhọ họ tên người khác nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/boc-tem.4190979/"
-    },
+    
     {
         postId: "67329171",
         reportReason: "Vào bài mình quấy nhiễu, kích động cãi nhau, định đòi nợ 1.840k",
@@ -21,6 +15,38 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/boc-tem.4190979/"
     },
+    {
+        postId: "67329197",
+        reportReason: "Xúc phạm, bôi nhọ họ tên người khác nhiều lần. Kích động cãi nhau, chửi bới, bôi nhọ danh dự người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+    },
+    {
+        postId: "67329309",
+        reportReason: "Kích động chửi bới, cãi nhau, bôi nhọ họ tên người khác rất nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+    },
+    {
+        postId: "67329344",
+        reportReason: "Vu khống, xúc phạm, bôi nhọ họ tên người khác nhiều lần, kích động cãi nhau quá mức",
+        posterName: "",
+        url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+    },
+    {
+        postId: "67329352",
+        reportReason: "Hùa theo bôi nhọ, chửi bới, vu khống, xúc phạm họ tên người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+    },
+    
+    {
+        postId: "67329233",
+        reportReason: "Bôi nhọ họ tên người khác xong lại còn chửi bới, xúc phạm người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/boc-tem.4190979/"
+    },
+    
     
 
 
