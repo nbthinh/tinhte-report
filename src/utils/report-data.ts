@@ -22,6 +22,13 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
     },
     {
+        postId: "67331963",
+        reportReason: "Chụp nội dung comment của mình để đăng nội dung kích động chửi bới, cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-cung-thin-the-300.4192086/"
+    },
+    
+    {
         postId: "67332159",
         reportReason: "Chửi bới, xúc phạm mình trước còn ra vẻ cao thượng, vu khống mình",
         posterName: "",
