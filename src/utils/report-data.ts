@@ -1,84 +1,117 @@
 export const reportListId = [
     
-    
-    
+
+
     {
         postId: "67329444",
-        reportReason: "Dùng hình ảnh của mình, hình ảnh chứa quần áo và nhà mình để chế bừa bãi, đăng lên tinhte, bôi nhọ, xúc phạm danh dự mìnhm, xúc phạm áo mình 1 cách bừa bãi",
+        reportReason: "Dùng hình ảnh của mình, hình ảnh chứa quần áo và nhà mình để chế bừa bãi, đăng lên tinhte, bôi nhọ, xúc phạm danh dự mình, xúc phạm áo mình 1 cách bừa bãi",
         posterName: "",
         url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
     },
     
     {
-        postId: "67329914",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, mạt sát mình bom hàng nhiều lần",
+        postId: "67332139",
+        reportReason: "Đòi tiền mình 300k nhiều lần, vô lý. Bôi nhọ họ tên mình một cách tà ác nhiều lần.",
         posterName: "",
-        url: "https://tinhte.vn/thread/giao-dien-hoi-do.4191328/"
+        url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
     },
     {
-        postId: "67330298",
-        reportReason: "Vào bài mình chửi bới, xúc phạm vô cớ, kích động cãi nhau nhiều lần, bám theo bài mình gây sự",
+        postId: "67332144",
+        reportReason: "Dùng hình ảnh comment của mình đăng nội dung kích động chửi bới, cãi nhau",
         posterName: "",
-        url: "https://tinhte.vn/thread/da-co-len-thoi.4191513/"
+        url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
     },
     {
-        postId: "67330238",
-        reportReason: "Vào bài mình kiếm chuyện, gây sự, kích động cãi nhau nhiều lần, bôi nhọ họ tên mình/người nhà mình",
+        postId: "67332159",
+        reportReason: "Chửi bới, xúc phạm mình trước còn ra vẻ cao thượng, vu khống mình",
         posterName: "",
-        url: "https://tinhte.vn/thread/da-co-len-thoi.4191513/"
+        url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
     },
     {
-        postId: "67330378",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau bừa bãi",
+        postId: "67332136",
+        reportReason: "Bôi nhọ họ tên mình/người nhà mình nhiều lần, vô cớ, lên tinhte toàn kích động chửi bới, cãi nhau",
         posterName: "",
-        url: "https://tinhte.vn/thread/da-co-len-thoi.4191513/"
+        url: "https://tinhte.vn/thread/an-toi-com-ngon-300k-ca-mam.4192239/"
+    },
+    
+
+    {
+        postId: "67331997",
+        reportReason: "Vào bài cuhiep kiếm chuyện, gây sự, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-viet-nam-khong-chi-co-phin-pour-over-da-rat-tuyet-voi.4191985"
+    },
+    {
+        postId: "67331913",
+        reportReason: "Vào bài mình kiếm chuyện, gây sự, hùa theo chửi bới bừa bãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/combo-giam-gia-20-11.4192098/"
     },
     
     {
-        postId: "67329701",
-        reportReason: "Bôi nhọ họ tên mình nhiều lần, kích động nhiều kẻ xấu hùa theo chửi bới trên tinhte",
+        postId: "67331759",
+        reportReason: "Bôi nhọ họ tên mình/người nhà mình nhiều lần, kích động vu khống bừa bãi",
         posterName: "",
-        url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
-    },
-    
-    
-    {
-        postId: "67329598",
-        reportReason: "Chửi bới, xúc phạm người khác trên tinhte",
-        posterName: "",
-        url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+        url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
     },
     {
-        postId: "67329367",
-        reportReason: "Vu khống người ta gạ này gạ nọ một cách vô căn cứ",
+        postId: "67331762",
+        reportReason: "Bôi nhọ họ tên mình/người nhà mình nhiều lần, vu khống, xuyên tạc quá nhiều",
         posterName: "",
-        url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
-    },
-    
-    {
-        postId: "67329075",
-        reportReason: "Vào bài mình kích động cãi nhau, tìm lý do nói xấu",
-        posterName: "",
-        url: "https://tinhte.vn/thread/boc-tem.4190979/"
+        url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
     },
     {
-        postId: "67329197",
-        reportReason: "Xúc phạm, bôi nhọ họ tên người khác nhiều lần. Kích động cãi nhau, chửi bới, bôi nhọ danh dự người khác",
+        postId: "67331662",
+        reportReason: "Bôi nhọ họ tên mình/người nhà mình nhiều lần, klq, kích động cãi nhau",
         posterName: "",
-        url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+        url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
     },
-    {
-        postId: "67329309",
-        reportReason: "Kích động chửi bới, cãi nhau, bôi nhọ họ tên người khác rất nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
-    },
-    
-    
-    
     
     
 
+    {
+        postId: "67331292",
+        reportReason: "Bôi nhọ họ tên mình/người nhà mình nhiều lần, gán ghép món nợ 1.840k",
+        posterName: "",
+        url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
+    },
+    
+
+
+    {
+        postId: "67330980",
+        reportReason: "Bôi nhọ, xúc phạm họ tên mình nhiều lần, lên tinhte toàn chửi, cay nghiệt người khác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/gio-moi-ranh-ca-phe.4191785/"
+    },
+    // {
+    //     postId: "67331051",
+    //     reportReason: "[!!!] Vào bài mình spam. kiếm chuyện, gây sự, kích động cãi nhau. Dùng hình ảnh của mình đã được chỉnh sửa bừa bãi đăng xúc phạm mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/mbbank-ngon-xai-apple-pay-khong-can-the.4191846/"
+    // },
+    // {
+    //     postId: "67329701",
+    //     reportReason: "Bôi nhọ họ tên mình nhiều lần, kích động nhiều kẻ xấu hùa theo chửi bới trên tinhte",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+    // },
+    // {
+    //     postId: "67329197",
+    //     reportReason: "Xúc phạm, bôi nhọ họ tên người khác nhiều lần. Kích động cãi nhau, chửi bới, bôi nhọ danh dự người khác",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+    // },
+    // {
+    //     postId: "67329309",
+    //     reportReason: "Kích động chửi bới, cãi nhau, bôi nhọ họ tên người khác rất nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+    // },
+    
+    
+    
+    // --------------------
 
     
     
@@ -999,6 +1032,81 @@ export const reportListId = [
     
     
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // {
+    //     postId: "67330378",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/da-co-len-thoi.4191513/"
+    // },
+    // {
+    //     postId: "67329598",
+    //     reportReason: "Chửi bới, xúc phạm người khác trên tinhte",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+    // },
+    // {
+    //     postId: "67329367",
+    //     reportReason: "Vu khống người ta gạ này gạ nọ một cách vô căn cứ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+    // },
+    
+    // {
+    //     postId: "67329075",
+    //     reportReason: "Vào bài mình kích động cãi nhau, tìm lý do nói xấu",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/boc-tem.4190979/"
+    // },
+    // {
+    //     postId: "67331366",
+    //     reportReason: "Đòi nợ 1.840k vô cớ, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/giai-khat.4191951/"
+    // },
+    // {
+    //     postId: "67331891",
+    //     reportReason: "Vào bài mình kiếm chuyện, gây sự, đòi nợ vô cớ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/combo-giam-gia-20-11.4192098/"
+    // },
+    // {
+    //     postId: "67331792",
+    //     reportReason: "Vào bài mình spam, đòi nợ vô cớ, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/combo-giam-gia-20-11.4192098/"
+    // },
+    
+    // {
+    //     postId: "67331629",
+    //     reportReason: "Vào bài mình spam, gây sự, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
+    // },
+    // {
+    //     postId: "67331553",
+    //     reportReason: "Vào bài mình spam, gây sự, đòi nợ bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
+    // },
+    // {
+    //     postId: "67331639",
+    //     reportReason: "Vào bài mình spam, gây sự, bêu rếu bừa bãi kiểu chửi mình liên quan đến món nợ 1.840k, trong khi klq mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
+    // },
     // {
     //     postId: "67329838",
     //     reportReason: "Gọi tên mình ra vu khống mình đào lửa, lừa đảo một cách bừa bãi",
@@ -1110,7 +1218,12 @@ export const reportListId = [
 
 
 
-
+    // {
+    //     postId: "67331372",
+    //     reportReason: "Vào bài cuhiep kiếm chuyện, gây sự, chửi bới, xúc phạm mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
+    // },
     // {
     //     postId: "67329352",
     //     reportReason: "Hùa theo bôi nhọ, chửi bới, vu khống, xúc phạm họ tên người khác",
@@ -1159,6 +1272,37 @@ export const reportListId = [
 
 
 
+
+    // {
+    //     postId: "67331461",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
+    // },
+    // {
+    //     postId: "67331446",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, vu khống mình bom hàng",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
+    // },
+    // {
+    //     postId: "67329914",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, mạt sát mình bom hàng nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/giao-dien-hoi-do.4191328/"
+    // },
+    // {
+    //     postId: "67330298",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm vô cớ, kích động cãi nhau nhiều lần, bám theo bài mình gây sự",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/da-co-len-thoi.4191513/"
+    // },
+    // {
+    //     postId: "67330238",
+    //     reportReason: "Vào bài mình kiếm chuyện, gây sự, kích động cãi nhau nhiều lần, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/da-co-len-thoi.4191513/"
+    // },
     // {
     //     postId: "67320224",
     //     reportReason: "Dùng hình ảnh có mặt mình làm avatar tài khoản 1 cách bừa bãi",
@@ -1649,7 +1793,36 @@ export const reportListId = [
 
 
 
-
+    // {
+    //     postId: "67331143",
+    //     reportReason: "Vào bài mod đòi nợ vô cớ, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-cold-brew-ngam-nuoc-nguoi-824-gio-de-co-ly-ca-phe-diu-vi-it-chua.4191325/"
+    // },
+    // {
+    //     postId: "67331064",
+    //     reportReason: "Vào bài mình kiếm chuyện, gây sự, đòi nợ vô lý",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/mbbank-ngon-xai-apple-pay-khong-can-the.4191846/"
+    // },
+    // {
+    //     postId: "67331024",
+    //     reportReason: "Vào bài mình kích động cãi nhau, vu khống mình nợ nần, đòi nợ vô lý",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/mbbank-ngon-xai-apple-pay-khong-can-the.4191846/"
+    // },
+    // {
+    //     postId: "67330979",
+    //     reportReason: "Vào bài mình kiếm chuyện, gây sự, đòi nợ 1.840k vô cớ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/mbbank-ngon-xai-apple-pay-khong-can-the.4191846/"
+    // },
+    // {
+    //     postId: "67330997",
+    //     reportReason: "Vào bài mình spam, cay nghiệt, đòi nợ vô cớ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/mbbank-ngon-xai-apple-pay-khong-can-the.4191846/"
+    // },
     // {
     //     postId: "67329690",
     //     reportReason: "Vào bài mình chửi bới, vu khống, kích động cãi nhau, vu khống mình nợ 300k các kiểu",
