@@ -3,6 +3,24 @@ export const reportListId = [
     
     
     {
+        postId: "67332458",
+        reportReason: "Vào bài mình chửi bới, vu khống mình lừa người ta",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ngoai-duong-tinh-co-thay-may-chi-xai-14-plus-khong-op-cung-ngau.4192372/"
+    },
+    {
+        postId: "67332508",
+        reportReason: "Vào bài mình sỉ nhục, chửi bới vô cớ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ngoai-duong-tinh-co-thay-may-chi-xai-14-plus-khong-op-cung-ngau.4192372/"
+    },
+    {
+        postId: "67332482",
+        reportReason: "Vào bài mình cay nghiệt, vu khống bừa bãi, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ngoai-duong-tinh-co-thay-may-chi-xai-14-plus-khong-op-cung-ngau.4192372/"
+    },
+    {
         postId: "67332337",
         reportReason: "Vào bài mình spam, chửi bới, vu khống bừa bãi",
         posterName: "",
