@@ -77,33 +77,23 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
     },
+    
+    
     {
-        postId: "67331963",
-        reportReason: "Chụp nội dung comment của mình để đăng nội dung kích động chửi bới, cãi nhau",
+        postId: "67332159",
+        reportReason: "Chửi bới, xúc phạm mình trước còn ra vẻ cao thượng, vu khống mình",
         posterName: "",
-        url: "https://tinhte.vn/thread/ca-phe-cung-thin-the-300.4192086/"
+        url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
+    },
+    {
+        postId: "67332136",
+        reportReason: "Bôi nhọ họ tên mình/người nhà mình nhiều lần, vô cớ, lên tinhte toàn kích động chửi bới, cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/an-toi-com-ngon-300k-ca-mam.4192239/"
     },
     
-    // {
-    //     postId: "67332159",
-    //     reportReason: "Chửi bới, xúc phạm mình trước còn ra vẻ cao thượng, vu khống mình",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
-    // },
-    // {
-    //     postId: "67332136",
-    //     reportReason: "Bôi nhọ họ tên mình/người nhà mình nhiều lần, vô cớ, lên tinhte toàn kích động chửi bới, cãi nhau",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/an-toi-com-ngon-300k-ca-mam.4192239/"
-    // },
-    
 
-    // {
-    //     postId: "67331997",
-    //     reportReason: "Vào bài cuhiep kiếm chuyện, gây sự, kích động cãi nhau",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/ca-phe-viet-nam-khong-chi-co-phin-pour-over-da-rat-tuyet-voi.4191985"
-    // },
+    
     // {
     //     postId: "67331913",
     //     reportReason: "Vào bài mình kiếm chuyện, gây sự, hùa theo chửi bới bừa bãi",
@@ -1109,7 +1099,12 @@ export const reportListId = [
 
 
 
-
+    // {
+    //     postId: "67331963",
+    //     reportReason: "Chụp nội dung comment của mình để đăng nội dung kích động chửi bới, cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-cung-thin-the-300.4192086/"
+    // },
     // {
     //     postId: "67332245",
     //     reportReason: "Chụp màn hình bài viết của mình để đăng comment kích động chửi bới, quấy nhiễu mình",
@@ -1295,7 +1290,12 @@ export const reportListId = [
 
 
 
-
+    // {
+    //     postId: "67331997",
+    //     reportReason: "Vào bài cuhiep kiếm chuyện, gây sự, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ca-phe-viet-nam-khong-chi-co-phin-pour-over-da-rat-tuyet-voi.4191985"
+    // },
     // {
     //     postId: "67332421",
     //     reportReason: "Vào bài cuhiep vu khống, gây cãi nhau, mạt sát người khác quá mức",
