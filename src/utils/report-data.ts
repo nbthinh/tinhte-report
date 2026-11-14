@@ -2,6 +2,12 @@ export const reportListId = [
     
     
     {
+        postId: "67332642",
+        reportReason: "Vào bài mình chửi bới, đòi nợ vô cớ nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/tren-1-trieu-dong-xai-ma-giam.4192272/"
+    },
+    {
         postId: "67332627",
         reportReason: "Vào bài mình chửi bới, vu khống trắng trợn",
         posterName: "",
@@ -14,9 +20,10 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/ngoai-duong-tinh-co-thay-may-chi-xai-14-plus-khong-op-cung-ngau.4192372/"
     },
+    
     {
-        postId: "67332508",
-        reportReason: "Vào bài mình sỉ nhục, chửi bới vô cớ",
+        postId: "67332612",
+        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình",
         posterName: "",
         url: "https://tinhte.vn/thread/ngoai-duong-tinh-co-thay-may-chi-xai-14-plus-khong-op-cung-ngau.4192372/"
     },
@@ -51,31 +58,31 @@ export const reportListId = [
     
     
 
-    // {
-    //     postId: "67329444",
-    //     reportReason: "Dùng hình ảnh của mình, hình ảnh chứa quần áo và nhà mình để chế bừa bãi, đăng lên tinhte, bôi nhọ, xúc phạm danh dự mình, xúc phạm áo mình 1 cách bừa bãi",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
-    // },
+    {
+        postId: "67329444",
+        reportReason: "Dùng hình ảnh của mình, hình ảnh chứa quần áo và nhà mình để chế bừa bãi, đăng lên tinhte, bôi nhọ, xúc phạm danh dự mình, xúc phạm áo mình 1 cách bừa bãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+    },
     
-    // {
-    //     postId: "67332139",
-    //     reportReason: "Đòi tiền mình 300k nhiều lần, vô lý. Bôi nhọ họ tên mình một cách tà ác nhiều lần.",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
-    // },
-    // {
-    //     postId: "67332144",
-    //     reportReason: "Dùng hình ảnh comment của mình đăng nội dung kích động chửi bới, cãi nhau",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
-    // },
-    // {
-    //     postId: "67331963",
-    //     reportReason: "Chụp nội dung comment của mình để đăng nội dung kích động chửi bới, cãi nhau",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/ca-phe-cung-thin-the-300.4192086/"
-    // },
+    {
+        postId: "67332139",
+        reportReason: "Đòi tiền mình 300k nhiều lần, vô lý. Bôi nhọ họ tên mình một cách tà ác nhiều lần.",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
+    },
+    {
+        postId: "67332144",
+        reportReason: "Dùng hình ảnh comment của mình đăng nội dung kích động chửi bới, cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
+    },
+    {
+        postId: "67331963",
+        reportReason: "Chụp nội dung comment của mình để đăng nội dung kích động chửi bới, cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-cung-thin-the-300.4192086/"
+    },
     
     // {
     //     postId: "67332159",
