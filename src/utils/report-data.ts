@@ -1,7 +1,23 @@
 export const reportListId = [
     
-    
-    
+    {
+        postId: "67332421",
+        reportReason: "Vào bài cuhiep vu khống, gây cãi nhau, mạt sát người khác quá mức",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-viet-nam-khong-chi-co-phin-pour-over-da-rat-tuyet-voi.4191985/"
+    },
+    {
+        postId: "67332309",
+        reportReason: "Vào bài cuhiep chửi rủa, miệt thị bừa bãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-viet-nam-khong-chi-co-phin-pour-over-da-rat-tuyet-voi.4191985/"
+    },
+    {
+        postId: "67332308",
+        reportReason: "Vào bài cuhiep chửi bới, xúc phạm, đòi nợ vô cớ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/ca-phe-viet-nam-khong-chi-co-phin-pour-over-da-rat-tuyet-voi.4191985/"
+    },
     {
         postId: "67332458",
         reportReason: "Vào bài mình chửi bới, vu khống mình lừa người ta",
