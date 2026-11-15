@@ -2,30 +2,44 @@ export const reportListId = [
     
     
     {
-        postId: "67332642",
-        reportReason: "Vào bài mình chửi bới, đòi nợ vô cớ nhiều lần",
+        postId: "67333240",
+        reportReason: "Bôi nhọ họ tên mình nhiều lần. Vu khống mình lên đơn ảo, lừa này nọ, vu khống mình một cách tà ác",
         posterName: "",
-        url: "https://tinhte.vn/thread/tren-1-trieu-dong-xai-ma-giam.4192272/"
+        url: "https://tinhte.vn/thread/bap-cai-co-rat-nhieu-cong-dung-nhu-trong-truong-hop-nay-do-la-moi.4192720/"
     },
     {
-        postId: "67332627",
-        reportReason: "Vào bài mình chửi bới, vu khống trắng trợn",
+        postId: "67333243",
+        reportReason: "Vào bài mình kích động chửi bới, đòi nợ vô cớ",
         posterName: "",
-        url: "https://tinhte.vn/thread/tren-1-trieu-dong-xai-ma-giam.4192272/"
+        url: "https://tinhte.vn/thread/gio-moi-ranh-ca-phe-cn-ma-con-hon-cong-nhan-tang-ca.4192645/"
     },
-
     {
-        postId: "67332596",
-        reportReason: "Vào bài mình chửi bới, miệt thị, vu khống, bôi nhọ họ tên mình nhiều lần",
+        postId: "67333206",
+        reportReason: "Vào bài mình kích động cãi nhau, xuyên tạc, đưa bằng chứng khống",
         posterName: "",
-        url: "https://tinhte.vn/thread/ngoai-duong-tinh-co-thay-may-chi-xai-14-plus-khong-op-cung-ngau.4192372/"
+        url: "https://tinhte.vn/thread/gio-moi-ranh-ca-phe-cn-ma-con-hon-cong-nhan-tang-ca.4192645/"
     },
     
+    
     {
-        postId: "67332612",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình",
+        postId: "67333198",
+        reportReason: "Vào bài mình quấy rối, kích động cãi nhau",
         posterName: "",
-        url: "https://tinhte.vn/thread/ngoai-duong-tinh-co-thay-may-chi-xai-14-plus-khong-op-cung-ngau.4192372/"
+        url: "https://tinhte.vn/thread/gio-moi-ranh-ca-phe-cn-ma-con-hon-cong-nhan-tang-ca.4192645/"
+    },
+
+
+    {
+        postId: "67333122",
+        reportReason: "Kích động chửi bới, bôi nhọ họ tên người khác nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/gio-moi-ranh-ca-phe-cn-ma-con-hon-cong-nhan-tang-ca.4192645/"
+    },
+    {
+        postId: "67331662",
+        reportReason: "Bôi nhọ họ tên mình/người nhà mình nhiều lần, klq, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
     },
     {
         postId: "67332508",
@@ -41,20 +55,6 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/tren-1-trieu-dong-xai-ma-giam.4192272/"
     },
     
-    {
-        postId: "67332264",
-        reportReason: "Vào bài mình chửi bới, cay nghiệt, xuyên tạc, vu khống vô căn cứ",
-        posterName: "",
-        url: "https://tinhte.vn/thread/tren-1-trieu-dong-xai-ma-giam.4192272/"
-    },
-    
-    {
-        postId: "67332243",
-        reportReason: "Vào bài mình quấy rối, gây sự, kích động cãi nhau nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/tren-1-trieu-dong-xai-ma-giam.4192272/"
-    },
-    
     
     
 
@@ -65,12 +65,7 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
     },
     
-    {
-        postId: "67332139",
-        reportReason: "Đòi tiền mình 300k nhiều lần, vô lý. Bôi nhọ họ tên mình một cách tà ác nhiều lần.",
-        posterName: "",
-        url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
-    },
+    
     {
         postId: "67332144",
         reportReason: "Dùng hình ảnh comment của mình đăng nội dung kích động chửi bới, cãi nhau",
@@ -94,6 +89,7 @@ export const reportListId = [
     
 
     
+    
     // {
     //     postId: "67331913",
     //     reportReason: "Vào bài mình kiếm chuyện, gây sự, hùa theo chửi bới bừa bãi",
@@ -113,12 +109,7 @@ export const reportListId = [
     //     posterName: "",
     //     url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
     // },
-    // {
-    //     postId: "67331662",
-    //     reportReason: "Bôi nhọ họ tên mình/người nhà mình nhiều lần, klq, kích động cãi nhau",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/that-ko-the-tin-dc.4191953/"
-    // },
+    
     
     
 
@@ -1099,6 +1090,73 @@ export const reportListId = [
 
 
 
+
+
+
+
+
+
+
+
+
+    // {
+    //     postId: "67333215",
+    //     reportReason: "Vào bài mình kích động chửi bới, gây cãi nhau liên tục",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/gio-moi-ranh-ca-phe-cn-ma-con-hon-cong-nhan-tang-ca.4192645/"
+    // },
+    // {
+    //     postId: "67333203",
+    //     reportReason: "Vào bài mình kích động chửi bới, đòi nợ vô cớ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/gio-moi-ranh-ca-phe-cn-ma-con-hon-cong-nhan-tang-ca.4192645/"
+    // },
+    // {
+    //     postId: "67332642",
+    //     reportReason: "Vào bài mình chửi bới, đòi nợ vô cớ nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/tren-1-trieu-dong-xai-ma-giam.4192272/"
+    // },
+    // {
+    //     postId: "67332627",
+    //     reportReason: "Vào bài mình chửi bới, vu khống trắng trợn",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/tren-1-trieu-dong-xai-ma-giam.4192272/"
+    // },
+
+    // {
+    //     postId: "67332596",
+    //     reportReason: "Vào bài mình chửi bới, miệt thị, vu khống, bôi nhọ họ tên mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ngoai-duong-tinh-co-thay-may-chi-xai-14-plus-khong-op-cung-ngau.4192372/"
+    // },
+    
+    // {
+    //     postId: "67332612",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ngoai-duong-tinh-co-thay-may-chi-xai-14-plus-khong-op-cung-ngau.4192372/"
+    // },
+    
+    // {
+    //     postId: "67332264",
+    //     reportReason: "Vào bài mình chửi bới, cay nghiệt, xuyên tạc, vu khống vô căn cứ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/tren-1-trieu-dong-xai-ma-giam.4192272/"
+    // },
+    
+    // {
+    //     postId: "67332243",
+    //     reportReason: "Vào bài mình quấy rối, gây sự, kích động cãi nhau nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/tren-1-trieu-dong-xai-ma-giam.4192272/"
+    // },
+    // {
+    //     postId: "67332139",
+    //     reportReason: "Đòi tiền mình 300k nhiều lần, vô lý. Bôi nhọ họ tên mình một cách tà ác nhiều lần.",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/lam-vai-chai.4192246/"
+    // },
     // {
     //     postId: "67331963",
     //     reportReason: "Chụp nội dung comment của mình để đăng nội dung kích động chửi bới, cãi nhau",
