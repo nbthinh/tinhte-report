@@ -10,7 +10,7 @@ import { RouterProvider } from 'react-router/dom'
 import HomeComponent from './components/home/HomeComponent.tsx';
 import DemoComponent from './components/DemoComponent/DemoComponent.tsx';
 
-const oauthToken = 'b6e9634819d18e11857acb8abb5554e4fbd7d0bf';
+const oauthToken = '5a4e97392b3e694fb1843e044628e42bc5568713';
 let i = 0;
 setInterval(async () => {
   let numOfRetry = 0;
