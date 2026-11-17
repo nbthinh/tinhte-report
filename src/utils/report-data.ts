@@ -9,11 +9,18 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
     },
+    
+    {
+        postId: "67335204",
+        reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau, dùng lời lẽ khó nghe xúc phạm",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dan-da-da-dieu.4193368/"
+    },
     {
         postId: "67335031",
         reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau, dùng lời lẽ khó nghe xúc phạm",
         posterName: "",
-        url: "https://tinhte.vn/thread/dan-da-da-dieu.4193340/"
+        url: "https://tinhte.vn/thread/dan-da-da-dieu.4193368/"
     },
     {
         postId: "67335072",
@@ -58,7 +65,7 @@ export const reportListId = [
 
 
 
-    
+
     {
         postId: "67333206",
         reportReason: "Vào bài mình kích động cãi nhau, xuyên tạc, đưa bằng chứng khống",
