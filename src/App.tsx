@@ -10,7 +10,7 @@ import TitleBarComponent from './components/TitleBarComponent/TitleBarComponent'
 
 
 function App() {
-  const oauthToken = 'ce0f20811f118ed3a9ef3efba641c7bf85fe893b';
+  const oauthToken = '60140cac95c75b9906dcb25631ceaa739aa80205';
 
 
   useEffect(() => {
