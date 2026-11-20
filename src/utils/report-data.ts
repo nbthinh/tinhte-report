@@ -1,6 +1,25 @@
 export const reportListId = [
 
+
     
+    {
+        postId: "67101974",
+        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/choi-trung-luon-haha.4194131/"
+    },
+    {
+        postId: "67102845",
+        reportReason: "Tag mình vào chửi bới, bôi nhọ họ tên mình/người nhà mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/choi-trung-luon-haha.4194131/"
+    },
+    {
+        postId: "67336758",
+        reportReason: "Vào bài mình chửi bới lung tung, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/choi-trung-luon-haha.4194131/"
+    },
     {
         postId: "67335706",
         reportReason: "Dùng từ ngữ thiếu chuẩn mực, chửi bới, xúc phạm lung tung",
