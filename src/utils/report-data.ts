@@ -1,90 +1,100 @@
 export const reportListId = [
 
+    
+    {
+        postId: "67340790",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần. Kích động cãi nhau, chửi bới, xúc phạm, ăn vạ, vu khống người khác trên tinhte nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    },
+    
+    {
+        postId: "67340785",
+        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần, đóng vai nạn nhân",
+        posterName: "",
+        url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
+    },
+    {
+        postId: "67340758",
+        reportReason: "Hùa nhau bắt nạt người khác trước còn đem nội dung cũ ăn vạ, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
+    },
+    
+    {
+        postId: "67340783",
+        reportReason: "Vào bài mình ăn vạ, dùng nội dung cũ đăng lên chửi bới, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    },
+    {
+        postId: "67340628",
+        reportReason: "Vào bài mình chửi bới, vu khống lung tung, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    },
+    {
+        postId: "67340519",
+        reportReason: "Vào bài mình công kích, gây sự, bôi nhọ họ tên mình/người nhà mình nhiều lần, liên tục",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    },
 
-    
     {
-        postId: "67338697",
-        reportReason: "Cắt ghép hình ảnh mình đạo nhái bừa bãi",
+        postId: "67340761",
+        reportReason: "Hùa theo xuyên tạc vu khống trong khi chính nhóm thằng @xecatang chế hình mình gắn đồ da bừa bãi, dùng từ ngữ chửi bới, xúc phạm",
         posterName: "",
-        url: "https://tinhte.vn/thread/con-75-ngay-nua-la-tet.4194927/"
+        url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
     },
     {
-        postId: "67338537",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau",
+        postId: "67340182",
+        reportReason: "Dùng hình ảnh mình chế bừa bãi rồi spam rất nhiều lần, đăng lung tung",
         posterName: "",
-        url: "https://tinhte.vn/thread/vit-quay-hom-bua-hom-20-11-minh-ra-ngoai-tiem-minh-mua-va-an.4194892/"
+        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
     },
-    {
-        postId: "67338568",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, spam quấy rối",
-        posterName: "",
-        url: "https://tinhte.vn/thread/vit-quay-hom-bua-hom-20-11-minh-ra-ngoai-tiem-minh-mua-va-an.4194892/"
-    },
-    {
-        postId: "67338622",
-        reportReason: "Vào bài mình buông lời cay nghiệt, chửi bới, kích động cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/vit-quay-hom-bua-hom-20-11-minh-ra-ngoai-tiem-minh-mua-va-an.4194892/"
-    },
-
-
-    {
-        postId: "67338617",
-        reportReason: "Vào bài mình dùng lời lẽ khó nghe, nói xấu, kích động cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/vit-quay-hom-bua-hom-20-11-minh-ra-ngoai-tiem-minh-mua-va-an.4194892/"
-    },
-    
-    
-    {
-        postId: "67338306",
-        reportReason: "Vào bài mình cmt nhảm, chửi bới",
-        posterName: "",
-        url: "https://tinhte.vn/thread/review-quan-bun-oc-lieu-chau-tren-duong-au-co.4173274/"
-    },
-   
-    {
-        postId: "67264173",
-        reportReason: "Vào bài người khác quấy rối, xúc phạm, bôi nhọ họ tên mình/người nhà mình, đòi tiền vô cớ",
-        posterName: "",
-        url: "https://tinhte.vn/thread/review-quan-bun-oc-lieu-chau-tren-duong-au-co.4173274/"
-    },
-    {
-        postId: "67019338",
-        reportReason: "Vào bài chị hoasen kiếm chuyện gây sự, tag mình vào, bôi nhọ họ tên mình quấy rối, gây cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/nhung-chu-ngua-cho-nam-ngo.4093642/"
-    },
-    {
-        postId: "67031231",
-        reportReason: "Vào bài chị hoasen kích động chửi bới, bôi nhọ họ tên mình/người nhà mình, tag mình bừa bãi vào quấy rối, chửi bới",
-        posterName: "",
-        url: "https://tinhte.vn/thread/nhung-chu-ngua-cho-nam-ngo.4093642/"
-    },
-    {
-        postId: "67101974",
-        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/choi-trung-luon-haha.4194131/"
-    },
-    
-    {
-        postId: "67335706",
-        reportReason: "Dùng từ ngữ thiếu chuẩn mực, chửi bới, xúc phạm lung tung",
-        posterName: "",
-        url: "https://tinhte.vn/thread/sap-thang-12.4193488/"
-    },
-    
-    
     {
         postId: "67329444",
         reportReason: "Dùng hình ảnh của mình, hình ảnh chứa quần áo và nhà mình để chế bừa bãi, đăng lên tinhte, bôi nhọ, xúc phạm danh dự mình, xúc phạm áo mình 1 cách bừa bãi",
         posterName: "",
         url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
     },
-    
+    {
+        postId: "67333445",
+        reportReason: "Vào bài mình kiếm chuyện, gây sự, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/usb-mp3-khoang-128mb.4192719/"
+    },
+    {
+        postId: "67340466",
+        reportReason: "Vào bài mình kiếm chuyện, gây sự là chính, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    },
+    // {
+    //     postId: "67340168",
+    //     reportReason: "Đăng bài kích động cãi nhau, cho thằng Bão Sài Gòn! dùng hình mình đã bị chế bừa bãi đăng lung tung",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
     
 
+    
+    
+    // {
+    //     postId: "67101974",
+    //     reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/choi-trung-luon-haha.4194131/"
+    // },
+    
+    // {
+    //     postId: "67335706",
+    //     reportReason: "Dùng từ ngữ thiếu chuẩn mực, chửi bới, xúc phạm lung tung",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sap-thang-12.4193488/"
+    // },
+    
+    
     // {
     //     postId: "67334074",
     //     reportReason: "Bôi nhọ họ tên mình/người nhà mình 1 cách tàn độc, càng lúc càng cay nghiệt, tàn độc. Chửi người ta thì được, người ta nói lại nó thì không",
@@ -92,19 +102,9 @@ export const reportListId = [
     //     url: "https://tinhte.vn/thread/sap.4192935/"
     // },
     
-    // {
-    //     postId: "67335485",
-    //     reportReason: "Kích động gây cãi nhau",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/sap-thang-12.4193488/"
-    // },
     
-    // {
-    //     postId: "67333445",
-    //     reportReason: "Vào bài mình kiếm chuyện, gây sự, bôi nhọ họ tên mình/người nhà mình nhiều lần",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/usb-mp3-khoang-128mb.4192719/"
-    // },
+    
+    
     
     // {
     //     postId: "67333451",
@@ -127,6 +127,61 @@ export const reportListId = [
 
 
     // -------------------
+
+
+
+
+    // {
+    //     postId: "67338306",
+    //     reportReason: "Vào bài mình cmt nhảm, chửi bới",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/review-quan-bun-oc-lieu-chau-tren-duong-au-co.4173274/"
+    // },
+
+    // {
+    //     postId: "67338697",
+    //     reportReason: "Cắt ghép hình ảnh mình đạo nhái bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/con-75-ngay-nua-la-tet.4194927/"
+    // },
+    // {
+    //     postId: "67335485",
+    //     reportReason: "Kích động gây cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sap-thang-12.4193488/"
+    // },
+    // {
+    //     postId: "67264173",
+    //     reportReason: "Vào bài người khác quấy rối, xúc phạm, bôi nhọ họ tên mình/người nhà mình, đòi tiền vô cớ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/review-quan-bun-oc-lieu-chau-tren-duong-au-co.4173274/"
+    // },
+    // {
+    //     postId: "67338537",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/vit-quay-hom-bua-hom-20-11-minh-ra-ngoai-tiem-minh-mua-va-an.4194892/"
+    // },
+    // {
+    //     postId: "67338568",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, spam quấy rối",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/vit-quay-hom-bua-hom-20-11-minh-ra-ngoai-tiem-minh-mua-va-an.4194892/"
+    // },
+    // {
+    //     postId: "67338622",
+    //     reportReason: "Vào bài mình buông lời cay nghiệt, chửi bới, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/vit-quay-hom-bua-hom-20-11-minh-ra-ngoai-tiem-minh-mua-va-an.4194892/"
+    // },
+
+
+    // {
+    //     postId: "67338617",
+    //     reportReason: "Vào bài mình dùng lời lẽ khó nghe, nói xấu, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/vit-quay-hom-bua-hom-20-11-minh-ra-ngoai-tiem-minh-mua-va-an.4194892/"
+    // },
 
 
 
@@ -157,6 +212,20 @@ export const reportListId = [
 
 
     // ..............
+
+
+    // {
+    //     postId: "67019338",
+    //     reportReason: "Vào bài chị hoasen kiếm chuyện gây sự, tag mình vào, bôi nhọ họ tên mình quấy rối, gây cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/nhung-chu-ngua-cho-nam-ngo.4093642/"
+    // },
+    // {
+    //     postId: "67031231",
+    //     reportReason: "Vào bài chị hoasen kích động chửi bới, bôi nhọ họ tên mình/người nhà mình, tag mình bừa bãi vào quấy rối, chửi bới",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/nhung-chu-ngua-cho-nam-ngo.4093642/"
+    // },
 
 
     // {
@@ -1060,7 +1129,12 @@ export const reportListId = [
 
 
 
-
+    // {
+    //     postId: "67340423",
+    //     reportReason: "Vào bài mình công kích, gây sự, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
     // {
     //     postId: "67335204",
     //     reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau, dùng lời lẽ khó nghe xúc phạm",
