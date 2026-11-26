@@ -2,6 +2,30 @@ export const reportListId = [
 
     
     {
+        postId: "67341484",
+        reportReason: "Đăng nội dung chứa cmt cũ của mình kích động chửi bới, cãi nhau một cách vô cớ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/anh-copy-ko-biet-thuc-hu-the-nao.4195992/"
+    },
+    {
+        postId: "67341121",
+        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    },
+    {
+        postId: "67340886",
+        reportReason: "Vào bài mình chửi bới, vu khống, chụp mũ, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    },
+    {
+        postId: "67340900",
+        reportReason: "Vào bài người khác chửi bới, xúc phạm, trù ẻo lung tung, bôi nhọ họ tên mình/người nhà mình",
+        posterName: "",
+        url: "https://tinhte.vn/thread/an-sang.4195686/"
+    },
+    {
         postId: "67340790",
         reportReason: "Bôi nhọ họ tên người khác nhiều lần. Kích động cãi nhau, chửi bới, xúc phạm, ăn vạ, vu khống người khác trên tinhte nhiều lần",
         posterName: "",
@@ -14,31 +38,10 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
     },
-    {
-        postId: "67340758",
-        reportReason: "Hùa nhau bắt nạt người khác trước còn đem nội dung cũ ăn vạ, kích động cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
-    },
+   
     
-    {
-        postId: "67340783",
-        reportReason: "Vào bài mình ăn vạ, dùng nội dung cũ đăng lên chửi bới, kích động cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
-    },
-    {
-        postId: "67340628",
-        reportReason: "Vào bài mình chửi bới, vu khống lung tung, kích động cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
-    },
-    {
-        postId: "67340519",
-        reportReason: "Vào bài mình công kích, gây sự, bôi nhọ họ tên mình/người nhà mình nhiều lần, liên tục",
-        posterName: "",
-        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
-    },
+    
+    
 
     {
         postId: "67340761",
@@ -59,6 +62,15 @@ export const reportListId = [
         url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
     },
     {
+        postId: "67340758",
+        reportReason: "Hùa nhau bắt nạt người khác trước còn đem nội dung cũ ăn vạ, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
+    },
+
+
+
+    {
         postId: "67333445",
         reportReason: "Vào bài mình kiếm chuyện, gây sự, bôi nhọ họ tên mình/người nhà mình nhiều lần",
         posterName: "",
@@ -70,6 +82,11 @@ export const reportListId = [
         posterName: "",
         url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
     },
+
+
+
+
+    
     // {
     //     postId: "67340168",
     //     reportReason: "Đăng bài kích động cãi nhau, cho thằng Bão Sài Gòn! dùng hình mình đã bị chế bừa bãi đăng lung tung",
@@ -1129,6 +1146,25 @@ export const reportListId = [
 
 
 
+
+    // {
+    //     postId: "67340519",
+    //     reportReason: "Vào bài mình công kích, gây sự, bôi nhọ họ tên mình/người nhà mình nhiều lần, liên tục",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
+    // {
+    //     postId: "67340783",
+    //     reportReason: "Vào bài mình ăn vạ, dùng nội dung cũ đăng lên chửi bới, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
+    // {
+    //     postId: "67340628",
+    //     reportReason: "Vào bài mình chửi bới, vu khống lung tung, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
     // {
     //     postId: "67340423",
     //     reportReason: "Vào bài mình công kích, gây sự, bôi nhọ họ tên mình/người nhà mình nhiều lần",
