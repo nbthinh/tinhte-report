@@ -1,87 +1,149 @@
 export const reportListId = [
 
+
     
     {
-        postId: "67341484",
-        reportReason: "Đăng nội dung chứa cmt cũ của mình kích động chửi bới, cãi nhau một cách vô cớ",
+        postId: "67342285",
+        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần, comment chửi bới ko liên quan đến bài mình",
         posterName: "",
-        url: "https://tinhte.vn/thread/anh-copy-ko-biet-thuc-hu-the-nao.4195992/"
+        url: "https://tinhte.vn/thread/tren-dien-dan-ve-iphone-va-ios-mot-so-bai-dang-thang-thung-keu-goi-apple-xu-ly-ngay-loat-loi.4196382/"
     },
+    {
+        postId: "67342254",
+        reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/tren-dien-dan-ve-iphone-va-ios-mot-so-bai-dang-thang-thung-keu-goi-apple-xu-ly-ngay-loat-loi.4196382/"
+    },
+    {
+        postId: "67342257",
+        reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau",
+        posterName: "",
+        url: "https://tinhte.vn/thread/tren-dien-dan-ve-iphone-va-ios-mot-so-bai-dang-thang-thung-keu-goi-apple-xu-ly-ngay-loat-loi.4196382/"
+    },
+    {
+        postId: "67342125",
+        reportReason: "Chụp màn hình bài viết của mình kích động cãi nhau, cho thằng tô minh mai tiến vào bôi nhọ họ tên mình vô cớ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dai-gia-ne-anh-em-rut-tien-atm-luon-bi-vuot-han-muc-nen-dai-gia-rut-tai-quay-ko-gioi-han.4196321/"
+    },
+    {
+        postId: "67342183",
+        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dai-gia-ne-anh-em-rut-tien-atm-luon-bi-vuot-han-muc-nen-dai-gia-rut-tai-quay-ko-gioi-han.4196321/"
+    },
+    {
+        postId: "67342185",
+        reportReason: "Bôi nhọ họ tên mình/người nhà mình nhiều lần, cay nghiệt, muốn hại cho người khác mất hết danh dự. Hành vi cay nghiệt, tàn ác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dai-gia-ne-anh-em-rut-tien-atm-luon-bi-vuot-han-muc-nen-dai-gia-rut-tai-quay-ko-gioi-han.4196321/"
+    },
+    {
+        postId: "67342186",
+        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần, tàn ác",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dai-gia-ne-anh-em-rut-tien-atm-luon-bi-vuot-han-muc-nen-dai-gia-rut-tai-quay-ko-gioi-han.4196321/"
+    },
+    
+    
     {
         postId: "67341121",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần, kích động cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
-    },
-    {
-        postId: "67340886",
-        reportReason: "Vào bài mình chửi bới, vu khống, chụp mũ, kích động cãi nhau",
+        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần, kích động cãi nhau. Nếu đàng hoàng đã không gọi họ tên người khác ra nhiều lần",
         posterName: "",
         url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
     },
     {
         postId: "67340900",
-        reportReason: "Vào bài người khác chửi bới, xúc phạm, trù ẻo lung tung, bôi nhọ họ tên mình/người nhà mình",
+        reportReason: "Vào bài người khác chửi bới, xúc phạm, trù ẻo lung tung, bôi nhọ họ tên mình/người nhà mình. Nếu cmt đàng hoàng đã không gọi họ tên người khác ra hoài như vậy",
         posterName: "",
         url: "https://tinhte.vn/thread/an-sang.4195686/"
     },
-    {
-        postId: "67340790",
-        reportReason: "Bôi nhọ họ tên người khác nhiều lần. Kích động cãi nhau, chửi bới, xúc phạm, ăn vạ, vu khống người khác trên tinhte nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
-    },
     
-    {
-        postId: "67340785",
-        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần, đóng vai nạn nhân",
-        posterName: "",
-        url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
-    },
+
+
+    // {
+    //     postId: "67341484",
+    //     reportReason: "Đăng nội dung chứa cmt cũ của mình kích động chửi bới, cãi nhau một cách vô cớ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/anh-copy-ko-biet-thuc-hu-the-nao.4195992/"
+    // },
+    
+    // {
+    //     postId: "67340886",
+    //     reportReason: "Vào bài mình chửi bới, vu khống, chụp mũ, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
+    
+    // {
+    //     postId: "67340790",
+    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần. Kích động cãi nhau, chửi bới, xúc phạm, ăn vạ, vu khống người khác trên tinhte nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
+    
+    // {
+    //     postId: "67340785",
+    //     reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần, đóng vai nạn nhân",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
+    // },
    
     
     
     
 
-    {
-        postId: "67340761",
-        reportReason: "Hùa theo xuyên tạc vu khống trong khi chính nhóm thằng @xecatang chế hình mình gắn đồ da bừa bãi, dùng từ ngữ chửi bới, xúc phạm",
-        posterName: "",
-        url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
-    },
-    {
-        postId: "67340182",
-        reportReason: "Dùng hình ảnh mình chế bừa bãi rồi spam rất nhiều lần, đăng lung tung",
-        posterName: "",
-        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
-    },
-    {
-        postId: "67329444",
-        reportReason: "Dùng hình ảnh của mình, hình ảnh chứa quần áo và nhà mình để chế bừa bãi, đăng lên tinhte, bôi nhọ, xúc phạm danh dự mình, xúc phạm áo mình 1 cách bừa bãi",
-        posterName: "",
-        url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
-    },
-    {
-        postId: "67340758",
-        reportReason: "Hùa nhau bắt nạt người khác trước còn đem nội dung cũ ăn vạ, kích động cãi nhau",
-        posterName: "",
-        url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
-    },
+    // {
+    //     postId: "67340761",
+    //     reportReason: "Hùa theo xuyên tạc vu khống trong khi chính nhóm thằng @xecatang chế hình mình gắn đồ da bừa bãi, dùng từ ngữ chửi bới, xúc phạm",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
+    // },
+    // {
+    //     postId: "67340182",
+    //     reportReason: "Dùng hình ảnh mình chế bừa bãi rồi spam rất nhiều lần, đăng lung tung",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
+    // {
+    //     postId: "67329444",
+    //     reportReason: "Dùng hình ảnh của mình, hình ảnh chứa quần áo và nhà mình để chế bừa bãi, đăng lên tinhte, bôi nhọ, xúc phạm danh dự mình, xúc phạm áo mình 1 cách bừa bãi",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/sai-gon-thang-nay-uong-ca-phe-la-da-nhat-troi-mat.4191086/"
+    // },
+    // {
+    //     postId: "67340758",
+    //     reportReason: "Hùa nhau bắt nạt người khác trước còn đem nội dung cũ ăn vạ, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
+    // },
 
 
 
-    {
-        postId: "67333445",
-        reportReason: "Vào bài mình kiếm chuyện, gây sự, bôi nhọ họ tên mình/người nhà mình nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/usb-mp3-khoang-128mb.4192719/"
-    },
-    {
-        postId: "67340466",
-        reportReason: "Vào bài mình kiếm chuyện, gây sự là chính, bôi nhọ họ tên mình/người nhà mình nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
-    },
+    // {
+    //     postId: "67333445",
+    //     reportReason: "Vào bài mình kiếm chuyện, gây sự, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/usb-mp3-khoang-128mb.4192719/"
+    // },
+    // {
+    //     postId: "67340466",
+    //     reportReason: "Vào bài mình kiếm chuyện, gây sự là chính, bôi nhọ họ tên mình/người nhà mình nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
+    // {
+    //     postId: "67341503",
+    //     reportReason: "Hùa nhau xúc phạm, chửi bới lung tung",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/anh-copy-ko-biet-thuc-hu-the-nao.4195992/"
+    // },
+    
+
+
+
+
+
 
 
 
@@ -1341,6 +1403,26 @@ export const reportListId = [
     
     
     
+
+
+    // {
+    //     postId: "67341996",
+    //     reportReason: "Tag mình vào kiếm chuyện, gây sự, quấy rối lung tung",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
+    // {
+    //     postId: "67342010",
+    //     reportReason: "Lên tinhte nhai đi nhai lại cùng một nội dung chửi bới người khác nhiều lần. ",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
+    // {
+    //     postId: "67341618",
+    //     reportReason: "Dùng nội dung cũ chửi bới, kích động spam, cãi nhau nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/ngay-lanh-ham-sau-vua-lam-ve-chua-kip-tam-thi-vo-tang-cai-ipad-mini-moi-cau.4195996/"
+    // },
     // {
     //     postId: "67312291",
     //     reportReason: "Kích động cãi nhau, bôi nhọ họ tên người khác nhiều lần",
