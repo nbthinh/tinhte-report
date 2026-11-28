@@ -1,25 +1,33 @@
 export const reportListId = [
 
-
     
     {
-        postId: "67342285",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần, comment chửi bới ko liên quan đến bài mình",
+        postId: "67343062",
+        reportReason: "Vào bài Khắc tên kiếm chuyện, gây sự, kích động cãi nhau",
         posterName: "",
-        url: "https://tinhte.vn/thread/tren-dien-dan-ve-iphone-va-ios-mot-so-bai-dang-thang-thung-keu-goi-apple-xu-ly-ngay-loat-loi.4196382/"
+        url: "https://tinhte.vn/thread/co-khi-la-gan-day-da-de-deo-may-cho-dep-chu-cung-khong-nhat-thiet-la-phai-biet-chup-hinh.4196699/"
     },
     {
-        postId: "67342254",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau",
+        postId: "67342975",
+        reportReason: "Vào bài mình chửi bới vô cớ, bôi nhọ họ tên mình/người nhà mình nhiều lần",
         posterName: "",
-        url: "https://tinhte.vn/thread/tren-dien-dan-ve-iphone-va-ios-mot-so-bai-dang-thang-thung-keu-goi-apple-xu-ly-ngay-loat-loi.4196382/"
+        url: "https://tinhte.vn/thread/may-nhan-tin-xua.4196592/"
     },
     {
-        postId: "67342257",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau",
+        postId: "67342807",
+        reportReason: "Chia sẻ hình ảnh bài viết của mình, hình ảnh của mình kích động cãi nhau, vi phạm quyền riêng tư hình ảnh của mình",
         posterName: "",
-        url: "https://tinhte.vn/thread/tren-dien-dan-ve-iphone-va-ios-mot-so-bai-dang-thang-thung-keu-goi-apple-xu-ly-ngay-loat-loi.4196382/"
+        url: "https://tinhte.vn/thread/bua-trua-day-nang-luong.4196593/"
     },
+    {
+        postId: "67342957",
+        reportReason: "Chia sẻ bài viết mình kích động cãi nhau, vu khống nợ nần, đòi nợ bừa bãi",
+        posterName: "",
+        url: "https://tinhte.vn/thread/bua-trua-day-nang-luong.4196593/"
+    },
+    
+
+   
     {
         postId: "67342125",
         reportReason: "Chụp màn hình bài viết của mình kích động cãi nhau, cho thằng tô minh mai tiến vào bôi nhọ họ tên mình vô cớ",
@@ -61,33 +69,28 @@ export const reportListId = [
     
 
 
-    // {
-    //     postId: "67341484",
-    //     reportReason: "Đăng nội dung chứa cmt cũ của mình kích động chửi bới, cãi nhau một cách vô cớ",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/anh-copy-ko-biet-thuc-hu-the-nao.4195992/"
-    // },
+    {
+        postId: "67341484",
+        reportReason: "Đăng nội dung chứa cmt cũ của mình kích động chửi bới, cãi nhau một cách vô cớ",
+        posterName: "",
+        url: "https://tinhte.vn/thread/anh-copy-ko-biet-thuc-hu-the-nao.4195992/"
+    },
     
-    // {
-    //     postId: "67340886",
-    //     reportReason: "Vào bài mình chửi bới, vu khống, chụp mũ, kích động cãi nhau",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
-    // },
     
-    // {
-    //     postId: "67340790",
-    //     reportReason: "Bôi nhọ họ tên người khác nhiều lần. Kích động cãi nhau, chửi bới, xúc phạm, ăn vạ, vu khống người khác trên tinhte nhiều lần",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
-    // },
     
-    // {
-    //     postId: "67340785",
-    //     reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần, đóng vai nạn nhân",
-    //     posterName: "",
-    //     url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
-    // },
+    {
+        postId: "67340790",
+        reportReason: "Bôi nhọ họ tên người khác nhiều lần. Kích động cãi nhau, chửi bới, xúc phạm, ăn vạ, vu khống người khác trên tinhte nhiều lần",
+        posterName: "",
+        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    },
+    
+    {
+        postId: "67340785",
+        reportReason: "Chửi bới, xúc phạm, bôi nhọ họ tên người khác nhiều lần, đóng vai nạn nhân",
+        posterName: "",
+        url: "https://tinhte.vn/thread/troi-ham-lam-vai-lon.4195614/"
+    },
    
     
     
@@ -1209,6 +1212,31 @@ export const reportListId = [
 
 
 
+
+    // {
+    //     postId: "67340886",
+    //     reportReason: "Vào bài mình chửi bới, vu khống, chụp mũ, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
+    // {
+    //     postId: "67342285",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần, comment chửi bới ko liên quan đến bài mình",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/tren-dien-dan-ve-iphone-va-ios-mot-so-bai-dang-thang-thung-keu-goi-apple-xu-ly-ngay-loat-loi.4196382/"
+    // },
+    // {
+    //     postId: "67342254",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/tren-dien-dan-ve-iphone-va-ios-mot-so-bai-dang-thang-thung-keu-goi-apple-xu-ly-ngay-loat-loi.4196382/"
+    // },
+    // {
+    //     postId: "67342257",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, kích động cãi nhau",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/tren-dien-dan-ve-iphone-va-ios-mot-so-bai-dang-thang-thung-keu-goi-apple-xu-ly-ngay-loat-loi.4196382/"
+    // },
     // {
     //     postId: "67340519",
     //     reportReason: "Vào bài mình công kích, gây sự, bôi nhọ họ tên mình/người nhà mình nhiều lần, liên tục",
