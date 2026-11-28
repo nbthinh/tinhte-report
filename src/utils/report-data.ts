@@ -54,12 +54,7 @@ export const reportListId = [
     },
     
     
-    {
-        postId: "67341121",
-        reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần, kích động cãi nhau. Nếu đàng hoàng đã không gọi họ tên người khác ra nhiều lần",
-        posterName: "",
-        url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
-    },
+    
     {
         postId: "67340900",
         reportReason: "Vào bài người khác chửi bới, xúc phạm, trù ẻo lung tung, bôi nhọ họ tên mình/người nhà mình. Nếu cmt đàng hoàng đã không gọi họ tên người khác ra hoài như vậy",
@@ -1213,6 +1208,13 @@ export const reportListId = [
 
 
 
+
+    // {
+    //     postId: "67341121",
+    //     reportReason: "Vào bài mình chửi bới, xúc phạm, bôi nhọ họ tên mình/người nhà mình nhiều lần, kích động cãi nhau. Nếu đàng hoàng đã không gọi họ tên người khác ra nhiều lần",
+    //     posterName: "",
+    //     url: "https://tinhte.vn/thread/dao-nay-nhieu-ae-di-xa-va-di-lau-qua.4195362/"
+    // },
     // {
     //     postId: "67340886",
     //     reportReason: "Vào bài mình chửi bới, vu khống, chụp mũ, kích động cãi nhau",
